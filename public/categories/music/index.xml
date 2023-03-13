@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on timothee.pro</title>
+    <link>/categories/music/</link>
+    <description>Recent content in Music on timothee.pro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>&amp;copy; 2021 Timothée DORAND
+</copyright>
+    <lastBuildDate>Sun, 11 Apr 2021 11:49:27 +0100</lastBuildDate><atom:link href="/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcasts sur les musiques d&#39;Afrique pour Radio Sofa (Sofafrica)</title>
+      <link>/blog/rs_sofafrica_series/</link>
+      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate>
+      
+      <guid>/blog/rs_sofafrica_series/</guid>
+      <description>&lt;p&gt;Pour ma résidence chez Radio Sofa, j&amp;rsquo;ai concocté des emissions que j&amp;rsquo;ai enregistré en direct.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,9 +4,11 @@ main:
     weight: 1
   - name: Cooking
     url: /categories/cooking/
-#  - name: Music
-#    url: /categories/music/
-#    weight: 2
+  - name: Music
+    url: /categories/music/
+    weight: 2
+  - name: Technology
+    url: /categories/technology/
 #  - name: Planet Hearth
 #    url: /categories/hearth/
 #    weight: 3

@@ -1,12 +1,12 @@
 ---
 title: Timothée Dorand
 draft: false
-role: Developer
+# role: Developer
 avatar: images/timothee.jpeg
-bio: a.k.a. Broski, co-fondateur de <a href="https://euphorik.fr">Euphorik Paris</a> et chercheur d'or chez <a href="https://radio-sofa.com">Radio Sofa</a>
-organization:
-  name: Societe Generale
-  url: https://particuliers.societegenerale.fr/
+bio: a.k.a. Broski, co-fondateur de <a href="https://euphorik.fr">Euphorik Paris</a> et programmateur chez <a href="https://radio-sofa.com">Radio Sofa</a>
+#organization:
+#  name: Societe Generale
+#  url: https://particuliers.societegenerale.fr/
 social:
   - icon: envelope
     iconPack: fas
@@ -14,9 +14,12 @@ social:
   - icon: instagram
     iconPack: fab
     url: https://www.instagram.com/broski_euphorik
-  - icon: linkedin
+  # - icon: linkedin
+  #   iconPack: fab
+  #   url: https://www.linkedin.com/in/timotheedorand/
+  - icon: soundcloud
     iconPack: fab
-    url: https://www.linkedin.com/in/timotheedorand/
+    url: https://soundcloud.com/hellobroski
 
 weight: 1
 widget:
@@ -43,8 +46,13 @@ widget:
     attachment: 
 ---
 
-## Je me présente,
+## Présentation
 
-je m'appelle Timothée Dorand, je suis développeur web à la Société Générale.
+Je suis développeur web fullstack, diplômé de <a href="https://iim.fr">l'IIM</a> en 2019. Autrement je m'occupe de la programmation de ma propre émission chez la webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
 
-En 2018 et 2019, j'étais en alternance en R&D chez Axway comme développeur et étudiant à l'IIM (Institut de l'Internet et du Multimédia).
+<!-- 
+ à la <a href="https://particuliers.societegenerale.fr">Société Générale</a>. En 2018-19, j'étais en alternance en R&D chez <a href="https://axway.com">Axway</a> et à l'<a href="https://iim.fr">IIM</a> - Institut de l'Internet et du Multimédia au Pôle Léonard de Vinci à La Défense. -->
+
+### Contenu du site
+
+Vous trouverez sur ce site l'avancement de mes side projects, mes reflexions et autres réalisations culinaires !

@@ -2,6 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/categories/</loc>
+    <lastmod>2021-03-16T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url><url>
+    <loc>/en/categories/cooking/</loc>
+    <lastmod>2021-03-16T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/categories/cooking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/cooking/"
+                />
+  </url><url>
+    <loc>/en/blog/</loc>
+    <lastmod>2021-03-16T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/"
+                />
+  </url><url>
+    <loc>/en/blog/pain_maison/</loc>
+    <lastmod>2021-03-16T16:49:27+01:00</lastmod>
+  </url><url>
+    <loc>/en/</loc>
+    <lastmod>2021-03-16T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url><url>
     <loc>/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +67,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/authors/"
-                />
-  </url><url>
-    <loc>/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
                 />
   </url><url>
     <loc>/en/series/</loc>
@@ -48,18 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
-                />
-  </url><url>
-    <loc>/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
                 />
   </url>
 </urlset>

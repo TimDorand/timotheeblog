@@ -1,12 +1,12 @@
 ---
 title: Timothée Dorand
 draft: false
-role: Developer
+#role: Developer
 avatar: images/timothee.jpeg
 bio: a.k.a. Broski, co-founder of <a href="https://euphorik.fr">Euphorik Paris</a> et chercheur d'or chez <a href="https://radio-sofa.com">Radio Sofa</a>
-organization:
-  name: Societe Generale
-  url: https://particuliers.societegenerale.fr/
+#organization:
+#  name: Societe Generale
+#  url: https://particuliers.societegenerale.fr/
 social:
   - icon: envelope
     iconPack: fas
@@ -43,11 +43,11 @@ widget:
     attachment: 
 ---
 
-## Self Introduction
-
-
+## What do you do for a living?
 
 Hi, my name is Timothée, I am a web developper, working at Société Générale on the mobile app and desktop Bank Card features.
 In 2018-2019, I was a working student in Research and Development at Axway as developer and student at the IIM (Institut de l'Internet et du Multimédia).
 
 Also freelance web developer and work with various customers: self-employed, start-ups, companies, building and maintaining websites or mobile applications.
+
+You will find on this site the progress of my side-projects, my reflexions and other culinary achievements!

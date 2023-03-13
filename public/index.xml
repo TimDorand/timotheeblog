@@ -8,16 +8,44 @@
     <language>fr</language>
     <copyright>&amp;copy; 2021 Timothée DORAND
 </copyright>
-    <lastBuildDate>Tue, 16 Mar 2021 16:49:27 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 11:16:13 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desintox_numerique</title>
+      <link>/blog/desintox_numerique/</link>
+      <pubDate>Sat, 25 Jun 2022 11:16:13 +0200</pubDate>
+      
+      <guid>/blog/desintox_numerique/</guid>
+      <description>Avez-vous déjà eu la sensation de ne plus pouvoir réflechir à cause d&amp;rsquo;un trop plein d&amp;rsquo;informations ? C&amp;rsquo;est ce qui m&#39; arrivait régulièrement à la fin de l&amp;rsquo;année 2021. Les messageries instantannées créaient une sursollicitation mentale qui aboutissait à débordement d&amp;rsquo;idées. Je devenais alors incapable de me concentrer, de faire la part des choses et de clairement identifier les différentes taches que j&amp;rsquo;avais à faire afin de les prioriser.
+La norme en 2021 voulait que tout le monde soit disponible en temps réel sur les messageries tel que Messenger ou Whatsapp.</description>
+    </item>
+    
+    <item>
+      <title>Les alternatives à Google</title>
+      <link>/blog/technology_alternatives_for_google/</link>
+      <pubDate>Mon, 01 Nov 2021 16:49:27 +0100</pubDate>
+      
+      <guid>/blog/technology_alternatives_for_google/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;empire des GAFAs est tentaculaire. Ces entreprises américaines proposent gratuitement des outils géniaux à la pointe
+de la technologie. Mais à quel prix ?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Podcasts sur les musiques d&#39;Afrique pour Radio Sofa (Sofafrica)</title>
+      <link>/blog/rs_sofafrica_series/</link>
+      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate>
+      
+      <guid>/blog/rs_sofafrica_series/</guid>
+      <description>&lt;p&gt;Pour ma résidence chez Radio Sofa, j&amp;rsquo;ai concocté des emissions que j&amp;rsquo;ai enregistré en direct.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Faire son pain maison</title>
-      <link>/blog/pain_maison/</link>
+      <link>/blog/cooking_pain_maison/</link>
       <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate>
       
-      <guid>/blog/pain_maison/</guid>
-      <description>Après plusieurs tentatives et une dizaines de cuisons, je vous présente ma recette préférée.
-Ingrédients pour un pain d&#39;1 kg  580g de farine T65 bio 430g d&amp;rsquo;eau source 12g de sel 300g de levain ou 25g de levure déshydratée  Ce qui nous fait une pate à pain hydratée à 74% d&amp;rsquo;eau.
-Pétrissage a la main  30 min - tour (soulever pâte sur elle même avec main mouillée) 3h - façonnage 3h - farinage et enfournage  Pour un plus petit pain 40% plus petit:</description>
+      <guid>/blog/cooking_pain_maison/</guid>
+      <description>&lt;p&gt;Après plusieurs tentatives et une dizaines de cuissons, je vous présente ma recette préférée.
+Le tout sans machine à pain, on va mettre la main à la pate.&lt;/p&gt;</description>
     </item>
     
   </channel>

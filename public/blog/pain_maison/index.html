@@ -44,6 +44,14 @@
     });
   });
 </script>
+<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63217783-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'UA-63217783-1');
+</script>
 
 
 <link rel="icon" type="image/png" sizes="32x32" href="/images/timothee_huce7d8b08e1c94ef5badd085c5890d29f_81580_32x32_fill_q75_box_center.jpeg">
@@ -79,7 +87,7 @@
     },
     "headline": "Faire son pain maison | timothee.pro","datePublished": "2021-03-16T16:49:27+01:00",
     "dateModified": "2021-03-16T16:49:27+01:00",
-    "wordCount":  203 ,
+    "wordCount":  217 ,
     "publisher": {
         "@type": "Person",
         "name": "Timothée Dorand",
@@ -106,6 +114,10 @@
 
 
 <meta property="og:locale" content="fr" />
+
+
+
+<meta property="og:locale:alternate" content="en" />
 
 
 
@@ -164,6 +176,19 @@
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
                 </div>
             </div>
+            <div class="relative pt-4 pl-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="pl-1">French</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="/blog/pain_maison/">French</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="/en/blog/pain_maison/">English</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -190,6 +215,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -210,7 +236,7 @@
     </div>
     <div class="mr-6 my-2">
         <i class="fas fa-clock mr-1"></i>
-        <span>1 min de lecture</span>
+        <span>2 min de lecture</span>
     </div>
     
     
@@ -229,7 +255,7 @@
         
 
         <div class="content">
-            <p>Après plusieurs tentatives et une dizaines de cuisons, je vous présente ma recette préférée.</p>
+            <p>Après plusieurs tentatives et une dizaines de cuissons, je vous présente ma recette préférée. Le tout sans machine à pain, on va mettre la main à la pate.</p>
 <h2 id="ingrédients-pour-un-pain-d1-kg">Ingrédients pour un pain d'1 kg</h2>
 <ul>
 <li>580g de farine T65 bio</li>
@@ -260,7 +286,6 @@ Je n&rsquo;ai pas de marmite en fonte, donc j&rsquo;utilise deux plats en Pyrex 
 <h2 id="pain-complets">Pain complets</h2>
 <p>On peut également mélanger les farines, je conseille de tester la farine de sarrasin, seigle, épeautre.
 Le pain complet lève moins, mais il sera riche en fibre.</p>
-
         </div>
         
         
@@ -289,7 +314,7 @@ Le pain complet lève moins, mais il sera riche en fibre.</p>
   <footer class="pl-scrollbar">
     <div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
     <p class="text-sm text-tertiary-text">&copy; 2021 Timothée DORAND
- &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+ &middot;  </p>
 </div></div>
   </footer>
 </body>
