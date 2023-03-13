@@ -43,10 +43,9 @@ widget:
     attachment: 
 ---
 
-## What do you do for a living?
+## Presentation
 
-Hi, my name is Timothée, I am a web developper, working at Société Générale on the mobile app and desktop Bank Card features.
-In 2018-2019, I was a working student in Research and Development at Axway as developer and student at the IIM (Institut de l'Internet et du Multimédia).
+Hi, my name is Timothée, I am a web developper out of the IIM. During my sparetime, I work a programmer at the webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
 
 Also freelance web developer and work with various customers: self-employed, start-ups, companies, building and maintaining websites or mobile applications.
 
