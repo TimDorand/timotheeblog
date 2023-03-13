@@ -13,7 +13,7 @@ social:
     url: mailto:tim.dorand@gmail.com
   - icon: instagram
     iconPack: fab
-    url: https://www.instagram.com/broski_euphorik
+    url: https://www.instagram.com/broski_sofa
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/timotheedorand/
