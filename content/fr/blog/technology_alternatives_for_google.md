@@ -2,7 +2,7 @@
 title: "Les alternatives à Google"
 description: Comment j'ai arrêté d'utiliser Google
 date: 2021-11-01T16:49:27+01:00 
-draft: true
+draft: false
 categories: Technology
 ---
 
@@ -62,6 +62,14 @@ Le plus connu s'appelle "Lockdown", il fonctionne sur navigateur et sur appli (i
 
 ## Couriel
 
+Afin d'en finir avec Google, j'ai supprimé tous mes mails sur ma boite Gmail et j'ai basculé sur une messagerie OVH avec le client Spark.
+
 ## Maps
 
-Aïe
+L'heureux élu n'est autre que Here We Go, une fantastique application qui permet de générer des itinéraires hors-ligne plutôt bien ficelés et même pour vélo !
+
+## Agenda
+
+Bye bye Google Agenda, depuis 2 ans je me ballade jamais sans mon agenda de poche et un petit crayon à papier.
+
+A suivre...
