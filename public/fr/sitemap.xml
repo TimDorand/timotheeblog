@@ -17,6 +17,16 @@
   </url><url>
     <loc>/blog/desintox_numerique/</loc>
     <lastmod>2022-06-25T11:16:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/desintox_numerique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/desintox_numerique/"
+                />
   </url><url>
     <loc>/</loc>
     <lastmod>2022-06-25T11:16:13+02:00</lastmod>
@@ -46,9 +56,29 @@
   </url><url>
     <loc>/blog/technology_alternatives_for_google/</loc>
     <lastmod>2021-11-01T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/technology_alternatives_for_google/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/blog/technology_alternatives_for_google/"
+                />
   </url><url>
     <loc>/categories/technology/</loc>
     <lastmod>2021-11-01T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/categories/technology/"
+                />
   </url><url>
     <loc>/categories/music/</loc>
     <lastmod>2021-04-11T11:49:27+01:00</lastmod>
