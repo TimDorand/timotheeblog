@@ -11,12 +11,12 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:tim.dorand@gmail.com
-  - icon: instagram
+  - icon: github
     iconPack: fab
-    url: https://www.instagram.com/broski_sofa
-  # - icon: linkedin
-  #   iconPack: fab
-  #   url: https://www.linkedin.com/in/timotheedorand/
+    url: https://github.com/TimDorand
+  - icon: linkedin
+    iconPack: fab
+    url: https://www.linkedin.com/in/timotheedorand/
   - icon: soundcloud
     iconPack: fab
     url: https://soundcloud.com/hellobroski
@@ -48,7 +48,7 @@ widget:
 
 ## Présentation
 
-Je suis développeur web fullstack, diplômé de <a href="https://iim.fr">l'IIM</a> en 2019. Pendant mon temps libre, je m'occupe de la programmation de ma propre émission chez la webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
+Je suis développeur web fullstack, diplômé de <a href="https://iim.fr">l'IIM</a> en 2019 et responsable de l'espace Carte Bancaire en ligne chez Société Générale jusqu'en 2024. Pendant mon temps libre, je m'occupe du site et de la programmation de ma propre émission chez la webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
 
 <!-- 
  à la <a href="https://particuliers.societegenerale.fr">Société Générale</a>. En 2018-19, j'étais en alternance en R&D chez <a href="https://axway.com">Axway</a> et à l'<a href="https://iim.fr">IIM</a> - Institut de l'Internet et du Multimédia au Pôle Léonard de Vinci à La Défense. -->

@@ -11,9 +11,9 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:tim.dorand@gmail.com
-  - icon: instagram
+  - icon: github
     iconPack: fab
-    url: https://www.instagram.com/broski_sofa
+    url: https://github.com/TimDorand
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/timotheedorand/
@@ -45,8 +45,7 @@ widget:
 
 ## Presentation
 
-Hi, my name is Timothée, I am a web developper out of the IIM. During my sparetime, I work a programmer at the webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
 
-Also freelance web developer and work with various customers: self-employed, start-ups, companies, building and maintaining websites or mobile applications.
+Hi, my name is Timothée, I'm a fullstack web developer, graduating from IIM in 2019 and responsible for the online bankcard features at Société Générale until 2024. In my spare time, I'm in charge of the website and the programmation at the webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
 
 You will find on this site the progress of my side-projects, my reflexions and other culinary achievements!
