@@ -4,16 +4,16 @@ en:
    menu:
       main:
       -  name: Music
-         url: /categories/music/
+         url: categories/music/
          weight: 1
       -  name: Technology
-         url: /categories/technology/
+         url: categories/technology/
          weight: 2
       -  name: Cooking
-         url: /categories/cooking/
+         url: categories/cooking/
          weight: 3
       -  name: About
-         url: /posts/about
+         url: posts/about
          weight: 4
    params:
       homeInfoParams:
@@ -30,16 +30,16 @@ fr:
    menu:
       main:
       -  name: Musique
-         url: /categories/music/
+         url: categories/music/
          weight: 1
       -  name: Tech
-         url: /categories/technology/
+         url: categories/technology/
          weight: 2
       -  name: Cuisine
-         url: /categories/cooking/
+         url: categories/cooking/
          weight: 3
       -  name: A propos
-         url: /posts/about
+         url: posts/about
          weight: 4
    params: 
       homeInfoParams:
