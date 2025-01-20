@@ -1,16 +1,15 @@
 ---
 title: Timothée Dorand
-slug: about
 draft: false
 ---
 
 ## Présentation
 
-Je suis développeur web fullstack, diplômé de <a href="https://iim.fr">l'IIM</a> en 2019 et responsable de l'espace Carte Bancaire en ligne chez Société Générale jusqu'en 2024. Depuis 2024, je fait parti de l'équipe de développement chez <a href="https://ninox.com">Ninox</a>, une start up Berlinoise. 
+I'm a fullstack web developer, graduated from IIM in 2019 and responsible for the online bank card area at Société Générale until 2024. Since 2024, I've been part of the development team at <a href=‘https://ninox.com’>Ninox</a>, a Berlin start-up.
 <br/>
-<br/>Pendant mon temps libre, je m'occupe du site et de la programmation de ma propre émission chez la webradio <a href="https://www.radio-sofa.com">Radio Sofa</a> et chez <a href="https://www.thfradio.de/">THF Radio</a>.
+In my spare time, I manage the website and program my own show for the webradio Radio Sofa and THF Radio.
 
 
 ### Contenu du site
 
-Vous trouverez sur ce site l'avancement de mes side projects, mes reflexions et autres réalisations culinaires !
+On this site, you'll find the progress of my side projects, my reflections and other culinary achievements!
