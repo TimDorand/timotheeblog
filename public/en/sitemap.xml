@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>/en/posts/desintox_numerique/</loc>
-    <lastmod>2022-06-25T11:16:13+02:00</lastmod>
+    <lastmod>2023-06-25T11:16:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -91,19 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/posts/desintox_numerique/"
-                />
-  </url><url>
-    <loc>/en/posts/technology_alternatives_for_google/</loc>
-    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/technology_alternatives_for_google/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/technology_alternatives_for_google/"
                 />
   </url><url>
     <loc>/en/categories/technology/</loc>
@@ -117,6 +104,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/categories/technology/"
+                />
+  </url><url>
+    <loc>/en/posts/technology_alternatives_for_google/</loc>
+    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/technology_alternatives_for_google/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/technology_alternatives_for_google/"
                 />
   </url><url>
     <loc>/en/posts/rs_sofafrica_series/</loc>
@@ -145,12 +145,8 @@
                 href="/en/categories/cooking/"
                 />
   </url><url>
-    <loc>/en/posts/cooking_pain_maison/</loc>
+    <loc>/en/posts/pain_maison/</loc>
     <lastmod>2021-03-16T16:49:27+01:00</lastmod>
-  </url><url>
-    <loc>/en/archives/</loc>
-  </url><url>
-    <loc>/archives/</loc>
   </url><url>
     <loc>/en/authors/</loc>
     <xhtml:link

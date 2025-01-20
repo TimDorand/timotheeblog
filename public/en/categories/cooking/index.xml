@@ -10,11 +10,11 @@
     <lastBuildDate>Tue, 16 Mar 2021 16:49:27 +0100</lastBuildDate>
     <atom:link href="/en/categories/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Faire son pain maison</title>
-      <link>/en/posts/cooking_pain_maison/</link>
+      <title>Making your own bread</title>
+      <link>/en/posts/pain_maison/</link>
       <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate>
-      <guid>/en/posts/cooking_pain_maison/</guid>
-      <description>Je délivre mes secrets de la conception du pain maison sans machine à pain !</description>
+      <guid>/en/posts/pain_maison/</guid>
+      <description>I reveal my secrets of homemade bread making without a bread machine!</description>
     </item>
   </channel>
 </rss>
