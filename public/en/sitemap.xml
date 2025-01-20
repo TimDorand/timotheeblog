@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -12,10 +12,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>/categories/music/</loc>
+    <loc>/en/categories/music/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -25,10 +25,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/music/"
+                href="/en/categories/music/"
                 />
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -38,10 +38,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/"
+                href="/en/posts/"
                 />
   </url><url>
-    <loc>/posts/thf-radio-shows/</loc>
+    <loc>/en/posts/thf-radio-shows/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -51,10 +51,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/thf-radio-shows/"
+                href="/en/posts/thf-radio-shows/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>/en/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -64,10 +64,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
   </url><url>
-    <loc>/posts/rs-radio-shows/</loc>
+    <loc>/en/posts/rs-radio-shows/</loc>
     <lastmod>2024-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -77,10 +77,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/rs-radio-shows/"
+                href="/en/posts/rs-radio-shows/"
                 />
   </url><url>
-    <loc>/posts/desintox_numerique/</loc>
+    <loc>/en/posts/desintox_numerique/</loc>
     <lastmod>2023-06-25T11:16:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -90,10 +90,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/desintox_numerique/"
+                href="/en/posts/desintox_numerique/"
                 />
   </url><url>
-    <loc>/categories/technology/</loc>
+    <loc>/en/categories/technology/</loc>
     <lastmod>2021-11-01T16:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -103,10 +103,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/technology/"
+                href="/en/categories/technology/"
                 />
   </url><url>
-    <loc>/posts/technology_alternatives_for_google/</loc>
+    <loc>/en/posts/technology_alternatives_for_google/</loc>
     <lastmod>2021-11-01T16:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -116,10 +116,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/technology_alternatives_for_google/"
+                href="/en/posts/technology_alternatives_for_google/"
                 />
   </url><url>
-    <loc>/posts/rs_sofafrica_series/</loc>
+    <loc>/en/posts/rs_sofafrica_series/</loc>
     <lastmod>2021-04-11T11:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -129,10 +129,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/rs_sofafrica_series/"
+                href="/en/posts/rs_sofafrica_series/"
                 />
   </url><url>
-    <loc>/categories/cooking/</loc>
+    <loc>/en/categories/cooking/</loc>
     <lastmod>2021-03-16T16:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -142,13 +142,13 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/cooking/"
+                href="/en/categories/cooking/"
                 />
   </url><url>
-    <loc>/posts/pain_maison/</loc>
+    <loc>/en/posts/pain_maison/</loc>
     <lastmod>2021-03-16T16:49:27+01:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -157,10 +157,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="/en/authors/"
                 />
   </url><url>
-    <loc>/series/</loc>
+    <loc>/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -169,10 +169,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="/en/series/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -181,10 +181,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
   </url><url>
-    <loc>/posts/about/</loc>
+    <loc>/en/posts/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -193,7 +193,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/posts/about/"
+                href="/en/posts/about/"
                 />
   </url>
 </urlset>

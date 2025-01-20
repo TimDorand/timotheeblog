@@ -30,7 +30,7 @@ enableGitInfo: false
 summaryLength: 75
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 useResourceCacheWhen: fallback
 
