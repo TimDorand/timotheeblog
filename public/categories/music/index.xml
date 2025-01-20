@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Music on timothee.pro</title>
+    <title>Music on Timothée Dorand</title>
     <link>/categories/music/</link>
-    <description>Recent content in Music on timothee.pro</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <copyright>&amp;copy; 2023 Timothée DORAND
-</copyright>
-    <lastBuildDate>Sun, 11 Apr 2021 11:49:27 +0100</lastBuildDate><atom:link href="/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Music on Timothée Dorand</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <copyright>Timothée DORAND</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 11:10:54 +0100</lastBuildDate>
+    <atom:link href="/categories/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Podcasts sur les musiques d&#39;Afrique pour Radio Sofa (Sofafrica)</title>
-      <link>/blog/rs_sofafrica_series/</link>
-      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate>
-      
-      <guid>/blog/rs_sofafrica_series/</guid>
-      <description>&lt;p&gt;Pour ma résidence chez Radio Sofa, j&amp;rsquo;ai concocté des emissions que j&amp;rsquo;ai enregistré en direct.&lt;/p&gt;</description>
+      <title>THF Residency: The Concave Side of the Spoon</title>
+      <link>/posts/thf-radio-shows/</link>
+      <pubDate>Mon, 20 Jan 2025 11:10:54 +0100</pubDate>
+      <guid>/posts/thf-radio-shows/</guid>
+      <description>En 2025, je rejoins la radio THF pour une nouvelle résidence</description>
     </item>
-    
+    <item>
+      <title>Radio Shows : Radio Sofa, Egregore, Cashmere, FondationFM</title>
+      <link>/posts/rs-radio-shows/</link>
+      <pubDate>Sat, 20 Jan 2024 11:10:54 +0100</pubDate>
+      <guid>/posts/rs-radio-shows/</guid>
+      <description>My artistic musical project includes several radio programmes. Jan Astasia is a DJ alias, mixing bass music and experimental electronica. Sometimes slow, sometimes fast, designed for active listening, not necessarily for the club.</description>
+    </item>
+    <item>
+      <title>Podcasts on African music for Radio Sofa (Sofafrica)</title>
+      <link>/posts/rs_sofafrica_series/</link>
+      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate>
+      <guid>/posts/rs_sofafrica_series/</guid>
+      <description>For my residency at Radio Sofa, I&amp;#39;ve prepared some broadcasts that I&amp;#39;ve recorded live.</description>
+    </item>
   </channel>
 </rss>

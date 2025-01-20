@@ -6,6 +6,18 @@ repoEditURL:
 
 dateFormat:
 
+homeInfoParams:
+  Title: From Paris to Berlin
+    # Content: Je suis développeur web fullstack, diplômé de <a href="https://iim.fr">l'IIM</a> en 2019 et responsable de l'espace Carte Bancaire en ligne chez Société Générale jusqu'en 2024. Pendant mon temps libre, je m'occupe du site et de la programmation de ma propre émission chez la webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
+  Content: Web developper during the day and musician and at night. Learn more about me in the <a href="/posts/about" >About page.</a> <br/> <i>Développeur web le jour et musicien la nuit. En savoir plus sur la <a href="/posts/about" >page A propos.</a> </i> <br/><br/>Please find below my latests projects. <br><i>Vous trouverez ci-dessous mes derniers projets.</i>
+socialIcons:
+  - name: github
+    url: https://github.com/TimDorand
+  - name: linkedin
+    url: https://www.linkedin.com/in/timotheedorand/
+  - name: soundcloud
+    url: https://soundcloud.com/janastasiamusic
+
 titleSeparator:
 
 # Options: auto, light and dark. Default is auto.
@@ -16,8 +28,8 @@ style:
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
-icon: 
-publisherName: Timothée DORAND  
+icon:
+publisherName: Timothée DORAND
 publisherLogo:
 
 highlight:
@@ -76,6 +88,6 @@ diagram:
   #   # You can list the key and value you want as below.
   #   # Because Hugo's config params are case-insensitive, you need to add `-` or `_` before the uppercase letters.
   #   # For example, `diagramPadding` should be written as `diagram-Padding` or other acceptable formats.
-  #   theme: 
+  #   theme:
   #   flowchart:
   #     diagram-padding:

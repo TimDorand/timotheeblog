@@ -1,24 +1,38 @@
 baseURL: /
-title: timothee.pro
+title: Timothée Dorand
+theme: [PaperMod]
+pagination: 
+  paperSize: 3
 
-# Comment when installing using Hugo Modules
-#theme: eureka
-# Uncomment when installing using Hugo Modules
-theme: wangchucheng.com/hugo-eureka
+copyright: Timothée DORAND
 
-paginate: 3
-copyright: >
-  &copy; 2023 Timothée DORAND
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
 enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: false
+  minifyOutput: false
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 enableGitInfo: false
 summaryLength: 75
 
-defaultContentLanguage: fr
-hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 
-# Uncomment for google analytics
-googleAnalytics: UA-63217783-1
+useResourceCacheWhen: fallback
 
 markup:
   # Do not modify markup.highlight
@@ -38,6 +52,3 @@ taxonomies:
   tag: tags
   series: series
   author: authors
-
-build:
-  useResourceCacheWhen: always

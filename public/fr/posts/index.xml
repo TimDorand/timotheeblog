@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Timothée Dorand</title>
+    <link>/fr/posts/</link>
+    <description>Recent content in Posts on Timothée Dorand</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>fr</language>
+    <copyright>Timothée DORAND</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 11:10:54 +0100</lastBuildDate>
+    <atom:link href="/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THF Residency: The Concave Side of the Spoon</title>
+      <link>/fr/posts/thf-radio-shows/</link>
+      <pubDate>Mon, 20 Jan 2025 11:10:54 +0100</pubDate>
+      <guid>/fr/posts/thf-radio-shows/</guid>
+      <description>En 2025, je rejoins la radio THF pour une nouvelle résidence</description>
+    </item>
+    <item>
+      <title>Radio Shows : Radio Sofa, Egregore, Cashmere , FondationFM</title>
+      <link>/fr/posts/rs-radio-shows/</link>
+      <pubDate>Sat, 20 Jan 2024 11:10:54 +0100</pubDate>
+      <guid>/fr/posts/rs-radio-shows/</guid>
+      <description>Mon projet artistique musical comprend plusieurs émissions radios. Jan Astasia est un alias DJ, mêlant bass music et musiques expérimentales electroniques. Tantôt lentes ou rapides, conçu pour une écoute active et pas nécessairement pour le club.</description>
+    </item>
+    <item>
+      <title>Desintox numerique</title>
+      <link>/fr/posts/desintox_numerique/</link>
+      <pubDate>Sat, 25 Jun 2022 11:16:13 +0200</pubDate>
+      <guid>/fr/posts/desintox_numerique/</guid>
+      <description>Comment retrouver sa capacité à découvrir le monde? Stimuler sa créativité. Prendre conscience du monde autour de soit? </description>
+    </item>
+    <item>
+      <title>Les alternatives à Google</title>
+      <link>/fr/posts/technology_alternatives_for_google/</link>
+      <pubDate>Mon, 01 Nov 2021 16:49:27 +0100</pubDate>
+      <guid>/fr/posts/technology_alternatives_for_google/</guid>
+      <description>Comment j&amp;#39;ai arrêté d&amp;#39;utiliser Google</description>
+    </item>
+    <item>
+      <title>Podcasts sur les musiques d&#39;Afrique pour Radio Sofa (Sofafrica)</title>
+      <link>/fr/posts/rs_sofafrica_series/</link>
+      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate>
+      <guid>/fr/posts/rs_sofafrica_series/</guid>
+      <description>Pour ma résidence chez Radio Sofa, j&amp;#39;ai concocté des emissions que j&amp;#39;ai enregistré en direct.</description>
+    </item>
+    <item>
+      <title>Faire son pain maison</title>
+      <link>/fr/posts/cooking_pain_maison/</link>
+      <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate>
+      <guid>/fr/posts/cooking_pain_maison/</guid>
+      <description>Je délivre mes secrets de la conception du pain maison sans machine à pain !</description>
+    </item>
+    <item>
+      <title>Timothée Dorand</title>
+      <link>/fr/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/fr/posts/about/</guid>
+      <description>&lt;h2 id=&#34;présentation&#34;&gt;Présentation&lt;/h2&gt;
+&lt;p&gt;Je suis développeur web fullstack, diplômé de &lt;a href=&#34;https://iim.fr&#34;&gt;l&amp;rsquo;IIM&lt;/a&gt; en 2019 et responsable de l&amp;rsquo;espace Carte Bancaire en ligne chez Société Générale jusqu&amp;rsquo;en 2024. Pendant mon temps libre, je m&amp;rsquo;occupe du site et de la programmation de ma propre émission chez la webradio &lt;a href=&#34;https://www.radio-sofa.com&#34;&gt;Radio Sofa&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- 
+ à la &lt;a href=&#34;https://particuliers.societegenerale.fr&#34;&gt;Société Générale&lt;/a&gt;. En 2018-19, j&#39;étais en alternance en R&amp;D chez &lt;a href=&#34;https://axway.com&#34;&gt;Axway&lt;/a&gt; et à l&#39;&lt;a href=&#34;https://iim.fr&#34;&gt;IIM&lt;/a&gt; - Institut de l&#39;Internet et du Multimédia au Pôle Léonard de Vinci à La Défense. --&gt;
+&lt;h3 id=&#34;contenu-du-site&#34;&gt;Contenu du site&lt;/h3&gt;
+&lt;p&gt;Vous trouverez sur ce site l&amp;rsquo;avancement de mes side projects, mes reflexions et autres réalisations culinaires !&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

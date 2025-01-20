@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cooking on timothee.pro</title>
+    <title>Cooking on Timothée Dorand</title>
     <link>/categories/cooking/</link>
-    <description>Recent content in Cooking on timothee.pro</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <copyright>&amp;copy; 2023 Timothée DORAND
-</copyright>
-    <lastBuildDate>Tue, 16 Mar 2021 16:49:27 +0100</lastBuildDate><atom:link href="/categories/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Cooking on Timothée Dorand</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <copyright>Timothée DORAND</copyright>
+    <lastBuildDate>Tue, 16 Mar 2021 16:49:27 +0100</lastBuildDate>
+    <atom:link href="/categories/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Faire son pain maison</title>
-      <link>/blog/cooking_pain_maison/</link>
+      <title>Making your own bread</title>
+      <link>/posts/pain_maison/</link>
       <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate>
-      
-      <guid>/blog/cooking_pain_maison/</guid>
-      <description>&lt;p&gt;Après plusieurs tentatives et une dizaines de cuissons, je vous présente ma recette préférée.
-Le tout sans machine à pain, on va mettre la main à la pate.&lt;/p&gt;</description>
+      <guid>/posts/pain_maison/</guid>
+      <description>I reveal my secrets of homemade bread making without a bread machine!</description>
     </item>
-    
   </channel>
 </rss>

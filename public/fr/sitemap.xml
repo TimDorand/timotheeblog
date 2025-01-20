@@ -2,140 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2022-06-25T11:16:13+02:00</lastmod>
+    <loc>/fr/categories/</loc>
+    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/blog/"
-                />
-  </url><url>
-    <loc>/blog/desintox_numerique/</loc>
-    <lastmod>2022-06-25T11:16:13+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/desintox_numerique/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/blog/desintox_numerique/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-06-25T11:16:13+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/"
-                />
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
                 href="/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
   </url><url>
-    <loc>/blog/technology_alternatives_for_google/</loc>
-    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
+    <loc>/fr/categories/music/</loc>
+    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/blog/technology_alternatives_for_google/"
+                href="/categories/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/blog/technology_alternatives_for_google/"
+                href="/fr/categories/music/"
                 />
   </url><url>
-    <loc>/categories/technology/</loc>
-    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
+    <loc>/fr/posts/</loc>
+    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/technology/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="/fr/posts/"
+                />
+  </url><url>
+    <loc>/fr/posts/thf-radio-shows/</loc>
+    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/thf-radio-shows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/thf-radio-shows/"
+                />
+  </url><url>
+    <loc>/fr/</loc>
+    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+  </url><url>
+    <loc>/fr/posts/rs-radio-shows/</loc>
+    <lastmod>2024-01-20T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/rs-radio-shows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/rs-radio-shows/"
+                />
+  </url><url>
+    <loc>/fr/posts/desintox_numerique/</loc>
+    <lastmod>2022-06-25T11:16:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/desintox_numerique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/desintox_numerique/"
+                />
+  </url><url>
+    <loc>/fr/posts/technology_alternatives_for_google/</loc>
+    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/technology_alternatives_for_google/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/technology_alternatives_for_google/"
+                />
+  </url><url>
+    <loc>/fr/categories/technology/</loc>
+    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/categories/technology/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/technology/"
+                />
   </url><url>
-    <loc>/categories/music/</loc>
+    <loc>/fr/posts/rs_sofafrica_series/</loc>
     <lastmod>2021-04-11T11:49:27+01:00</lastmod>
-  </url><url>
-    <loc>/blog/rs_sofafrica_series/</loc>
-    <lastmod>2021-04-11T11:49:27+01:00</lastmod>
-  </url><url>
-    <loc>/categories/cooking/</loc>
-    <lastmod>2021-03-16T16:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/cooking/"
+                href="/posts/rs_sofafrica_series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="/fr/posts/rs_sofafrica_series/"
+                />
+  </url><url>
+    <loc>/fr/categories/cooking/</loc>
+    <lastmod>2021-03-16T16:49:27+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/categories/cooking/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/cooking/"
+                />
   </url><url>
-    <loc>/blog/cooking_pain_maison/</loc>
+    <loc>/fr/posts/cooking_pain_maison/</loc>
     <lastmod>2021-03-16T16:49:27+01:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>/fr/archives/</loc>
+  </url><url>
+    <loc>/archives/</loc>
+  </url><url>
+    <loc>/fr/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
                 href="/authors/"
                 />
-  </url><url>
-    <loc>/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/series/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
+                href="/fr/authors/"
+                />
+  </url><url>
+    <loc>/fr/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="/series/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/"
+                />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/tags/"
+                href="/fr/tags/"
+                />
+  </url><url>
+    <loc>/fr/posts/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/about/"
                 />
   </url>
 </urlset>

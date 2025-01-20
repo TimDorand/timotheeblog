@@ -2,8 +2,36 @@ fr:
    languageCode: fr
    languageName: French
    contentDir: content/fr
-   title: timothee.pro
+   menu:
+      main:
+      -  name: Musique
+         url: /categories/music/
+         weight: 1
+      -  name: Tech
+         url: /categories/technology/
+         weight: 2
+      -  name: Cuisine
+         url: /categories/cooking/
+         weight: 3
+      -  name: A propos
+         url: '/blog/about'
+         weight: 4
+
 en:
    languageCode: en
    languageName: English
    contentDir: content/en
+   menu:
+      main:
+      -  name: Music
+         url: /categories/music/
+         weight: 1
+      -  name: Technology
+         url: /categories/technology/
+         weight: 2
+      -  name: Cooking
+         url: /categories/cooking/
+         weight: 3
+      -  name: About
+         url: '/blog/about'
+         weight: 4
