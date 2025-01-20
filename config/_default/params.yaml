@@ -17,12 +17,12 @@ homeInfoParams:
     <br/><br/>Please find below my latests projects. 
     <br><i>Vous trouverez ci-dessous mes derniers projets.</i>
 socialIcons:
-  - name: github
-    url: https://github.com/TimDorand
-  - name: linkedin
-    url: https://www.linkedin.com/in/timotheedorand/
   - name: soundcloud
     url: https://soundcloud.com/janastasiamusic
+  - name: linkedin
+    url: https://www.linkedin.com/in/timotheedorand/
+  - name: github
+    url: https://github.com/TimDorand
 
 titleSeparator:
 
