@@ -14,7 +14,7 @@ fr:
          url: /categories/cooking/
          weight: 3
       -  name: A propos
-         url: '/blog/about'
+         url: '/posts/about'
          weight: 4
 
 en:
@@ -33,5 +33,5 @@ en:
          url: /categories/cooking/
          weight: 3
       -  name: About
-         url: '/blog/about'
+         url: '/posts/about'
          weight: 4

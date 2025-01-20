@@ -1,6 +1,6 @@
 ---
 title: "THF Residency: The Concave Side of the Spoon"
-description: "En 2025, je rejoins la radio THF pour une nouvelle résidence"
+description: "In 2025, I'm joining THF Radio for a new Residency."
 date: 2025-01-20T11:10:54+01:00
 draft: false
 categories: Music
