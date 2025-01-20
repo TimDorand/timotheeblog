@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Music on Timothée Dorand</title>
+    <link>//localhost:1313/en/categories/music/</link>
+    <description>Recent content in Music on Timothée Dorand</description>
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <copyright>Timothée DORAND</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 11:10:54 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/en/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THF Residency: The Concave Side of the Spoon</title>
+      <link>//localhost:1313/en/posts/thf-radio-shows/</link>
+      <pubDate>Mon, 20 Jan 2025 11:10:54 +0100</pubDate>
+      <guid>//localhost:1313/en/posts/thf-radio-shows/</guid>
+      <description>En 2025, je rejoins la radio THF pour une nouvelle résidence</description>
+    </item>
+    <item>
+      <title>Radio Shows : Radio Sofa, Egregore, Cashmere , FondationFM</title>
+      <link>//localhost:1313/en/posts/rs-radio-shows/</link>
+      <pubDate>Sat, 20 Jan 2024 11:10:54 +0100</pubDate>
+      <guid>//localhost:1313/en/posts/rs-radio-shows/</guid>
+      <description>Mon projet artistique musical comprend plusieurs émissions radios. Jan Astasia est un alias DJ, mêlant bass music et musiques expérimentales electroniques. Tantôt lentes ou rapides, conçu pour une écoute active et pas nécessairement pour le club.</description>
+    </item>
+    <item>
+      <title>Podcasts sur les musiques d&#39;Afrique pour Radio Sofa (Sofafrica)</title>
+      <link>//localhost:1313/en/posts/rs_sofafrica_series/</link>
+      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate>
+      <guid>//localhost:1313/en/posts/rs_sofafrica_series/</guid>
+      <description>Pour ma résidence chez Radio Sofa, j&amp;#39;ai concocté des emissions que j&amp;#39;ai enregistré en direct.</description>
+    </item>
+  </channel>
+</rss>

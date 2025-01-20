@@ -2,202 +2,198 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>//localhost:1313/fr/categories/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="//localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="//localhost:1313/fr/categories/"
                 />
   </url><url>
-    <loc>/fr/categories/music/</loc>
+    <loc>//localhost:1313/fr/categories/music/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/music/"
+                href="//localhost:1313/en/categories/music/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/music/"
+                href="//localhost:1313/fr/categories/music/"
                 />
   </url><url>
-    <loc>/fr/posts/</loc>
+    <loc>//localhost:1313/fr/posts/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="//localhost:1313/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/"
+                href="//localhost:1313/fr/posts/"
                 />
   </url><url>
-    <loc>/fr/posts/thf-radio-shows/</loc>
+    <loc>//localhost:1313/fr/posts/thf-radio-shows/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/thf-radio-shows/"
+                href="//localhost:1313/en/posts/thf-radio-shows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/thf-radio-shows/"
+                href="//localhost:1313/fr/posts/thf-radio-shows/"
                 />
   </url><url>
-    <loc>/fr/</loc>
+    <loc>//localhost:1313/fr/</loc>
     <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="//localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="//localhost:1313/fr/"
                 />
   </url><url>
-    <loc>/fr/posts/rs-radio-shows/</loc>
+    <loc>//localhost:1313/fr/posts/rs-radio-shows/</loc>
     <lastmod>2024-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/rs-radio-shows/"
+                href="//localhost:1313/en/posts/rs-radio-shows/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/rs-radio-shows/"
+                href="//localhost:1313/fr/posts/rs-radio-shows/"
                 />
   </url><url>
-    <loc>/fr/posts/desintox_numerique/</loc>
-    <lastmod>2022-06-25T11:16:13+02:00</lastmod>
+    <loc>//localhost:1313/fr/posts/desintox_numerique/</loc>
+    <lastmod>2023-06-25T11:16:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/desintox_numerique/"
+                href="//localhost:1313/en/posts/desintox_numerique/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/desintox_numerique/"
+                href="//localhost:1313/fr/posts/desintox_numerique/"
                 />
   </url><url>
-    <loc>/fr/posts/technology_alternatives_for_google/</loc>
+    <loc>//localhost:1313/fr/categories/technology/</loc>
     <lastmod>2021-11-01T16:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/technology_alternatives_for_google/"
+                href="//localhost:1313/en/categories/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/technology_alternatives_for_google/"
+                href="//localhost:1313/fr/categories/technology/"
                 />
   </url><url>
-    <loc>/fr/categories/technology/</loc>
+    <loc>//localhost:1313/fr/posts/technology_alternatives_for_google/</loc>
     <lastmod>2021-11-01T16:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/technology/"
+                href="//localhost:1313/en/posts/technology_alternatives_for_google/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/technology/"
+                href="//localhost:1313/fr/posts/technology_alternatives_for_google/"
                 />
   </url><url>
-    <loc>/fr/posts/rs_sofafrica_series/</loc>
+    <loc>//localhost:1313/fr/posts/rs_sofafrica_series/</loc>
     <lastmod>2021-04-11T11:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/rs_sofafrica_series/"
+                href="//localhost:1313/en/posts/rs_sofafrica_series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/rs_sofafrica_series/"
+                href="//localhost:1313/fr/posts/rs_sofafrica_series/"
                 />
   </url><url>
-    <loc>/fr/categories/cooking/</loc>
+    <loc>//localhost:1313/fr/categories/cooking/</loc>
     <lastmod>2021-03-16T16:49:27+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/cooking/"
+                href="//localhost:1313/en/categories/cooking/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/cooking/"
+                href="//localhost:1313/fr/categories/cooking/"
                 />
   </url><url>
-    <loc>/fr/posts/cooking_pain_maison/</loc>
+    <loc>//localhost:1313/fr/posts/pain_maison/</loc>
     <lastmod>2021-03-16T16:49:27+01:00</lastmod>
   </url><url>
-    <loc>/fr/archives/</loc>
-  </url><url>
-    <loc>/archives/</loc>
-  </url><url>
-    <loc>/fr/authors/</loc>
+    <loc>//localhost:1313/fr/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="//localhost:1313/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/authors/"
+                href="//localhost:1313/fr/authors/"
                 />
   </url><url>
-    <loc>/fr/series/</loc>
+    <loc>//localhost:1313/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="//localhost:1313/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/series/"
+                href="//localhost:1313/fr/series/"
                 />
   </url><url>
-    <loc>/fr/tags/</loc>
+    <loc>//localhost:1313/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="//localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="//localhost:1313/fr/tags/"
                 />
   </url><url>
-    <loc>/fr/posts/about/</loc>
+    <loc>//localhost:1313/fr/posts/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/about/"
+                href="//localhost:1313/en/posts/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/about/"
+                href="//localhost:1313/fr/posts/about/"
                 />
   </url>
 </urlset>

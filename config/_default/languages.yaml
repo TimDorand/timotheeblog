@@ -1,26 +1,6 @@
-fr:
-   languageCode: fr
-   languageName: French
-   contentDir: content/fr
-   menu:
-      main:
-      -  name: Musique
-         url: /categories/music/
-         weight: 1
-      -  name: Tech
-         url: /categories/technology/
-         weight: 2
-      -  name: Cuisine
-         url: /categories/cooking/
-         weight: 3
-      -  name: A propos
-         url: '/posts/about'
-         weight: 4
-
 en:
-   languageCode: en
-   languageName: English
-   contentDir: content/en
+   languageName: "English"
+   contentDir: content/fr
    menu:
       main:
       -  name: Music
@@ -33,5 +13,38 @@ en:
          url: /categories/cooking/
          weight: 3
       -  name: About
-         url: '/posts/about'
+         url: /posts/about
          weight: 4
+   params:
+      homeInfoParams:
+         Title: From Paris to Berlin
+            # Content: Je suis développeur web fullstack, diplômé de <a href="https://iim.fr">l'IIM</a> en 2019 et responsable de l'espace Carte Bancaire en ligne chez Société Générale jusqu'en 2024. Pendant mon temps libre, je m'occupe du site et de la programmation de ma propre émission chez la webradio <a href="https://www.radio-sofa.com">Radio Sofa</a>.
+         Content: >
+            Web developper during the day and musician and at night. 
+            Learn more about me in the <a href="/posts/about">About page.</a>
+            <br/><br/>Please find below my latests projects. 
+
+fr:
+   languageName: "French"
+   contentDir: content/en
+   menu:
+      main:
+      -  name: Musique
+         url: /categories/music/
+         weight: 1
+      -  name: Tech
+         url: /categories/technology/
+         weight: 2
+      -  name: Cuisine
+         url: /categories/cooking/
+         weight: 3
+      -  name: A propos
+         url: /posts/about
+         weight: 4
+   params: 
+      homeInfoParams:
+         Title: De Paris à Berlin
+         Content: >
+            Développeur web le jour et musicien la nuit. 
+            En savoir plus sur la <a href="/posts/about" >page A propos.</a>
+            <br>Vous trouverez ci-dessous mes derniers projets.
