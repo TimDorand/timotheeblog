@@ -23,7 +23,22 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 ### March 9th 2025
 
-Here's your data converted into a Markdown table:
+Today's episode is inspired by the carnaval season and the percussions of Brazil and Guadeloupe.
+We'll start by exploring percussions in Dub and experimental music, and willl then journey into the interesting world of Mulsimgauze, percussionnist from Martinique Jonaz Joslen, a carnaval group "à Po" from Guadeloupe "Klé la", and a Julio "Chocolate" Algendones a Peruvian percusionnist.
+
+A brief description of the artists played in this mix:
+- Steve Reich American composer best known as a pioneer of minimal music in the mid to late 1960s
+- Sub Dub: The pioneering experimental dub duo Sub Dub, were active between 1992-1998 in NYC, produced by Badawi aka Ghost Producer and John Ward, credited as being the catalyst for the so called "illbient" scene, predating Dub Step by over a decade.
+- Woob: is the stage name of Paul Frankland, an English composer, musician and filmmaker who started recording in the early 1990s. Woob's albums combine elements of ambient, downtempo and space music, with samples from field recordings. Frankland has also recorded under the names of Journeyman and Max & Harvey.
+- Adham Shaikh is a composer, record producer and sound designer living near Nelson, British Columbia. The 21st-century rituals of dance and chill-out have drawn Shaikh to explore the trance phenomenon that these different expressions of music create and allow. Over the years, Shaikh has worked with musicians playing musical instruments from India; Bali, Indonesia; Africa; Scandinavia; Turkey; the United States; and Canada.
+- Muslimgauze was the main musical project of Bryn Jones (17 June 1961 – 14 January 1999), a British ethnic electronica and experimental musician who was influenced by conflicts and history in the Muslim world, often with an emphasis on the Israeli–Palestinian conflict. With dozens of albums released under the Muslimgauze name, Jones was prolific, but he never achieved mainstream success. His music has been described by one critic as "among the most startling and unique in the noise underground.
+- Jonaz Joslen: Martinique: sound designer, beatmaker composer and songwriter, also director of documentaries from french caribbean.
+- Klé La: Fervent contributeur de la culture guadeloupéenne, Klé La est ce que l'on appelle un Groupe a Po. Ces groupes à Po sont des groupes faisant partie du carnaval.
+- Nomine Andrew Ferguson (aka Nomine aka Outrage), began his career as a drum & bass DJ in 1995 under the name Rage.
+- Tino Corp. is a record label dedicated to curating unique beats and sounds that are not available from any other source.
+- Jah Wobble is an English bass guitarist and singer. He became known to a wider audience as the original bass player in Public Image Ltd (PiL) in the late 1970s ...
+- Julio "Chocolate" Algendones is one of the essential percussionists in the great tradition of Afro-Peruvian music.
+
 
 | #  | Track Title                          | Artist                                |
 |----|--------------------------------------|---------------------------------------|
@@ -61,7 +76,10 @@ Here's your data converted into a Markdown table:
 
 ### February 9th 2025
 
-Here's your data converted into a Markdown table:
+We'll start with some artists from Jakarta and New Guinea, but also music from ancient ceremonies of Ghana.
+Then, we'll get into to the rhythms of salsa and cumbia, featuring percussionists from Cuba, Puerto Rico, Colombia and the US.
+Finally, we'll glide into the modern beats of electronic music from Miami, Zambia, and Paris.
+
 
 | #  | Track Title                          | Artist                                                                                     |
 |----|--------------------------------------|--------------------------------------------------------------------------------------------|
@@ -93,4 +111,3 @@ Here's your data converted into a Markdown table:
 | 26 | Mbui Mbui                            | Wagogo (Tanzania)                                                                          |
 | 27 | Chalo gwe (Msaigwa)                  | Wagogo (Tanzania)                                                                          |
 
-### 
