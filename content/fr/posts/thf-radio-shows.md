@@ -9,8 +9,8 @@ categories: Music
 Je suis Jan Astasia, membre de Radio Sofa, une webradio basée à Paris. Je vous présente ma nouvelle émission sur THF. Je voulais explorer la musique avec des percussions, jouer avec la musique traditionnelle et comment ils influencent la musique électronique d'aujourd'hui. 
 
 
-A retrouver en réécoute sur mon Soundcloud: 
-- Ma résidence "The Concave Side of the Spoon", Percussions Folk leur influences sur des musiques contemporaines expérimentales chez THF Radio. 
+Ma résidence "The Concave Side of the Spoon", Percussions Folk leur influences sur des musiques contemporaines expérimentales chez THF Radio. 
+
 https://www.thfradio.de 
 La radio se décrit comme une communauté basé sur l'ancien aéroport Tempelhofer Feld, dans le studio Torhaus.
 

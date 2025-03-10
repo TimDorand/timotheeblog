@@ -9,10 +9,8 @@ categories: Music
 
 I’m Jan Astasia, member of Radio Sofa, a web radio based in Paris. Let me present my new show on THF. I wanted to explore the music with percussion, play with tradition music and how they influence the electronic music of today. 
 
-In the first part of this how, I’ll be playing tracks from Guem a Algerian percussionnist, Simon Popp and the Nok Cultural Ensemble a Nigerian British collective that play ancient music from the NOK civilisation. 
+In ‘The Concave Side of the Spoon’ residency, I explore the rhythms and percussion of traditional music and its influence on contemporary music. It's like looking at the reflection of the spoon and seing our world in reverse, taking a step back form the music I play, leading me to a different approach to music.
 
-You can listen to it again on my Soundcloud: 
-- My residency ‘The Concave Side of the Spoon’, Folk Percussions their influences on experimental contemporary music at THF Radio. 
 https://www.thfradio.de 
 The radio station describes itself as a community based at the former Tempelhofer Feld airport, in the Torhaus studio.
 
