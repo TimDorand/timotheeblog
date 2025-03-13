@@ -17,7 +17,7 @@ First, let's take a look at examples of impactful projects done by radio station
 
 ### Genocide in Gaza / Assault in Lebanon
 
-**LOT Radio**: Organized the "Resistance Stream" to support Palestine Mutual Aid <sup>[^1]</sup> <sup>[^^2]</sup>.
+**LOT Radio**: Organized the "Resistance Stream" to support Palestine Mutual Aid <sup>[^1]</sup> <sup>[^2]</sup>.
 
 ![LOT Radio Organized the "Resistance Stream" to support Palestine Mutual Aid.](/images/positive_impact_radio/3.jpg)
 
