@@ -212,31 +212,31 @@ Try not to be too greedy, avoid capitalistic private investors, have a small bus
 
 
 # References
-[^1]: [Instagram - Resistance Stream](https://www.instagram.com/sssimisea/p/C-oS3V_Nxe7/?locale=en_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB&hl=am-et&img_index=1)   
-[^2]: [Instagram - Kraejiyaeji](https://www.instagram.com/kraejiyaeji/p/DDNcnkuRV1p/)
-[^3]: [Visit website: www.radioalhara.net/](https://www.radioalhara.net/)
-[^4]: [ The mixtape Learning Palestine Until Liberation](https://en.wikipedia.org/wiki/Radio_Alhara). 
-[^5]: [Visite website: soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)](https://soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)
-[^6]: [Visit website: operator-radio.com](https://operator-radio.com/)
-[^7]: [Visit website: soundcloud.com/operator-radio. Operator organized a crucially important manifestation: The Glass House for Gaza. Fundraiser for Lebanon.](https://soundcloud.com/operator-radio).
-[^8]: [Visit website: radio-tnp.com](https://radio-tnp.com/blog-M-E-W-B-1). 
-[^9]: [Visit website: soundcloud.com/rootradiolive).](https://soundcloud.com/rootradiolive).
-[^10]: [Visit refugeworldwide: on November 2nd 2024, Root Radio and Refuge Worldwide will once again collaborate on an event to raise funds for the ongoing assault on Lebanon and Gaza. ](https://refugeworldwide.com/news/fundraiser-nov-02-2024).
-[^11]: [Visit website: refugeworldwide.com/news/3ezwa-interview-17-dec-2024](https://refugeworldwide.com/news/3ezwa-interview-17-dec-2024)
-[^12]: [Visit website: 3ezwa.de/](https://3ezwa.de/)
-[^13]: [Visit refugeworldwide: To uplift and highlight voices from Ukraine, we have compiled some shows from the last two years that celebrate Ukrainian art and resistance. If you’re based in ](https://refugeworldwide.com/news/playlist-2-years-of-ukrainian-resistance)
-[^14]: [Visit website: europeanlab.com/en/mariana-berekovska/](https://europeanlab.com/en/mariana-berekovska/)
-[^15]: [Visit website: refugeworldwide.com/artists/mariana-berezovska](https://refugeworldwide.com/artists/mariana-berezovska)
-[^16]: [Visit website: gasolineradio.com/main](https://gasolineradio.com/main)
-[^17]: [Visit website: radiovilnius.live/](https://radiovilnius.live/)
-[^18]: [Visit website: 20ftradio.net/](https://20ftradio.net/)
-[^19]: [Visit website: soundcloud.com/20ft_radio/sets/grains-of-peace](https://soundcloud.com/20ft_radio/sets/grains-of-peace)
-[^20]: [Visit website: soundcloud.com/standard-deviation](https://soundcloud.com/standard-deviation)
-[^21]: [Visit website: www.nts.live/incoming/international-migrants-day-pt-1](https://www.nts.live/incoming/international-migrants-day-pt-1)
-[^22]: [Visit website: www.instagram.com/p/C4IStXkIIWk/?hl=en](https://www.instagram.com/p/C4IStXkIIWk/?hl=en)
-[^23]: [Visit website: www.mutantradio.net/](https://www.mutantradio.net/)
-[^24]: [Visit website: www.shapeplatform.eu/](https://www.shapeplatform.eu/)
-[^25]: [Visit website: reset-network.eu/](https://reset-network.eu/)
+[^1]: <a href="https://www.instagram.com/sssimisea/p/C-oS3V_Nxe7/?locale=en_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB&hl=am-et&img_index=1)  " target="_blank">Instagram - Resistance Stream</a>
+[^2]: <a href="https://www.instagram.com/kraejiyaeji/p/DDNcnkuRV1p/" target="_blank">Instagram - Kraejiyaeji</a>
+[^3]: <a href="https://www.radioalhara.net/" target="_blank">Visit website: www.radioalhara.net/</a>
+[^4]: <a href="https://en.wikipedia.org/wiki/Radio_Alhara)." target="_blank"> The mixtape Learning Palestine Until Liberation</a>
+[^5]: <a href="https://soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine" target="_blank">Visite website: soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)</a>
+[^6]: <a href="https://operator-radio.com/" target="_blank">Visit website: operator-radio.com</a>
+[^7]: <a href="https://soundcloud.com/operator-radio)" target="_blank">Visit website: soundcloud.com/operator-radio. Operator organized a crucially important manifestation: The Glass House for Gaza. Fundraiser for Lebanon.</a>
+[^8]: <a href="https://radio-tnp.com/blog-M-E-W-B-1)." target="_blank">Visit website: radio-tnp.com</a>
+[^9]: <a href="https://soundcloud.com/rootradiolive)" target="_blank">Visit website: soundcloud.com/rootradiolive).</a>
+[^10]: <a href="https://refugeworldwide.com/news/fundraiser-nov-02-2024)" target="_blank">Visit refugeworldwide: on November 2nd 2024, Root Radio and Refuge Worldwide will once again collaborate on an event to raise funds for the ongoing assault on Lebanon and Gaza. </a>
+[^11]: <a href="https://refugeworldwide.com/news/3ezwa-interview-17-dec-2024" target="_blank">Visit website: refugeworldwide.com/news/3ezwa-interview-17-dec-2024</a>
+[^12]: <a href="https://3ezwa.de/" target="_blank">Visit website: 3ezwa.de/</a>
+[^13]: <a href="https://refugeworldwide.com/news/playlist-2-years-of-ukrainian-resistance" target="_blank">Visit refugeworldwide: To uplift and highlight voices from Ukraine, we have compiled some shows from the last two years that celebrate Ukrainian art and resistance. If you’re based in </a>
+[^14]: <a href="https://europeanlab.com/en/mariana-berekovska/" target="_blank">Visit website: europeanlab.com/en/mariana-berekovska/</a>
+[^15]: <a href="https://refugeworldwide.com/artists/mariana-berezovska" target="_blank">Visit website: refugeworldwide.com/artists/mariana-berezovska</a>
+[^16]: <a href="https://gasolineradio.com/main" target="_blank">Visit website: gasolineradio.com/main</a>
+[^17]: <a href="https://radiovilnius.live/" target="_blank">Visit website: radiovilnius.live/</a>
+[^18]: <a href="https://20ftradio.net/" target="_blank">Visit website: 20ftradio.net/</a>
+[^19]: <a href="https://soundcloud.com/20ft_radio/sets/grains-of-peace" target="_blank">Visit website: soundcloud.com/20ft_radio/sets/grains-of-peace</a>
+[^20]: <a href="https://soundcloud.com/standard-deviation" target="_blank">Visit website: soundcloud.com/standard-deviation</a>
+[^21]: <a href="https://www.nts.live/incoming/international-migrants-day-pt-1" target="_blank">Visit website: www.nts.live/incoming/international-migrants-day-pt-1</a>
+[^22]: <a href="https://www.instagram.com/p/C4IStXkIIWk/?hl=en" target="_blank">Visit website: www.instagram.com/p/C4IStXkIIWk/?hl=en</a>
+[^23]: <a href="https://www.mutantradio.net/" target="_blank">Visit website: www.mutantradio.net/</a>
+[^24]: <a href="https://www.shapeplatform.eu/" target="_blank">Visit website: www.shapeplatform.eu/</a>
+[^25]: <a href="https://reset-network.eu/" target="_blank">Visit website: reset-network.eu/</a>
 
 ---
 - Date: March 13th 2025
