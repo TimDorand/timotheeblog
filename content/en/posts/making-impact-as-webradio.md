@@ -12,10 +12,10 @@ Online radio stations are musical playgrounds for both upcoming and established 
 
 First, let's take a look at examples of impactful projects done by radio stations across the world.
 
-## Examples of Impactful Projects
-### Geo-Political Debates
+# Examples of Impactful Projects
+## Geo-Political Debates
 
-#### Genocide in Gaza / Assault in Lebanon
+### Genocide in Gaza / Assault in Lebanon
 
 
 
@@ -50,7 +50,7 @@ The radio is also active in
 **Root Radio** Calling for a strike for all musiscians 
 ![**Root Radio** Calling for a strike for all musiscians on insta](/images/positive_impact_radio/9.jpg)
 
-#### Invasion of Ukraine
+### Invasion of Ukraine
 
 **Refuge Worldwide**
 ![Refuge Worldwide Radio](/images/positive_impact_radio/13.jpg)
@@ -132,7 +132,7 @@ https://www.nts.live/incoming/international-migrants-day-pt-1
 ![NTS](/images/positive_impact_radio/22.jpg) 
 
 
-#### Relief and Humanitarian Aid
+### Relief and Humanitarian Aid
 **Root Radio & Metamorphosen**: Donation-based event for families affected by the earthquake in Syria.
 ![NTS](/images/positive_impact_radio/23.png) 
 
@@ -142,7 +142,7 @@ https://www.nts.live/incoming/international-migrants-day-pt-1
 
 **First Response Radio**: Sets up radio stations within 72 hours of a disaster.
 
-#### Local Politics and Issues
+### Local Politics and Issues
 **Mutant Radio**: Engages in local political debates.
 ![Mutant Radio](/images/positive_impact_radio/25.jpg) 
 ![Mutant Radio](/images/positive_impact_radio/26.png) 
@@ -174,7 +174,7 @@ Reset! is a European network, initiated by Arty Farty, gathering and supporting 
 ![Front electronique EP on Bandcamp](/images/positive_impact_radio/32.jpg) 
 ![Front electronique on Instagram](/images/positive_impact_radio/33.jpg) 
 
-#### Empowering Local Communities
+### Empowering Local Communities
 **Root Radio (Istanbul)**: Broadcasts feminist content.
 Root Radio (Istanbul) : Feminist March Broadcast. Saluting the womxn who are fighting for equitable futures and honoring 8 March week as we did in the last years with beautiful and powerful voices of Root’s women & non-binary residents. While we are still mourning, we are also here to remind one another the power of solidarity, and that we will never walk alone.
 ![Root Radio](/images/positive_impact_radio/34.jpg) 
@@ -195,7 +195,7 @@ Root Radio (Istanbul) : Feminist March Broadcast. Saluting the womxn who are fig
 
 **Radio Ada**: Provides a platform for local talent.
 
-#### Promoting Sustainability
+### Promoting Sustainability
 **Radio Sofa**: Upcycles clothes, promoting sustainable fashion.
 Radio Sofa is a collective set up in April 2020, originally as a web radio station. The idea was to continue broadcasting current and electronic music while cultural venues had to stay silent. Our activities have now expanded to include traditional radio broadcasting, production of festive and meditative events, visual arts, and micro-collections of clothing and cassettes.
 
@@ -215,11 +215,11 @@ Radio Sofa creates a space of expression for artists and discovery for the audie
 Take a look <a href="https://drive.google.com/file/d/1YcYH0OvgkKQ9O91QU6Mh-ktg6pJ4T9Wf/view?usp=sharing" target="_blank" >at the Presentation PDF with visual examples</a>
 
 
-## Conclusion
+# Conclusion
 
 What can we do as Media or Radio Platform? Here are some meaningful actions you can take to address societal issues or challenges.
 
-### Empower Local Communities
+## Empower Local Communities
 **Create a new show hosted by Radio Team**
 Promote local artists (from record shops, artists that can’t auto-promote)
 Give a voice to minorities
@@ -227,13 +227,13 @@ Give a voice to minorities
 **Find a journalist to create a residency**
 Show a flavor of normal life experience in another country/culture
 
-### Activism: Education before Fund Raising
+## Activism: Education before Fund Raising
 **Share more Educational content**
 Interviews, mixtapes, shows, residencies
 Teaching about geo-political conflicts and the actual lives of people is more important than raising money
 It's important that the people giving money are aware and engaged. So they can do it by themselves instead of waiting for something in return from a fundraising event ticket, like a great party/fun time.
 
-### Activism: Freedom of Speech
+## Activism: Freedom of Speech
 Web Radios are good for democracy and giving resources to artists. They are a great opportunity to avoid social media and big corporations and keep the freedom of speech.
 
 **Use the radio station as a relay for people threatened by local authorities**
@@ -242,7 +242,7 @@ If they talk about some subjects, they can use an independent radio station to u
 **Create or be a relay for content**
 Help people find ways to demonstrate, to be more engaged, like facilitators. People are sometimes interested in being more engaged and being more activists, but they don't know where to start. Who should they trust? Who's really independent - saying the truth?
 
-### Finance the Radio Studio / Station
+## Finance the Radio Studio / Station
 **Public funding**
 How to deal with funding cuts in the Netherlands and in Germany? Talking about it and sharing potential solutions seems to change things.
 
