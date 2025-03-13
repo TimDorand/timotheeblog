@@ -2,7 +2,7 @@ baseURL: /
 title: Timothée Dorand
 theme: [PaperMod]
 pagination: 
-  paperSize: 3
+  paperSize: 5
 
 copyright: Timothée DORAND
 
