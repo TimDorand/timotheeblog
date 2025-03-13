@@ -30,14 +30,14 @@ For a 40% smaller loaf
 
 ## Baking
 
-This is the most important step to finish our homemade bread. 
+T his is the most important step to finish our homemade bread. 
 The best way to do this is to place the floured bread in a cast iron (or Dutch oven) pot that has been placed in the oven.
 I don't have a cast iron pot, so I use two Pyrex dishes that fit together.
 
 Alternatively, you can put the bread on a baking sheet and place a pan full of water in the bottom of the oven.
 
 The goal is to keep the bread moist enough during the baking process so that it can rise slowly.
-![Homemade bread](/images/homemade_bread.jpeg)
+![Homemade bread](/images/pain_maison.jpeg)
 
 
 ## Wholemeal bread
