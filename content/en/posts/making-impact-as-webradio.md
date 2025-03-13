@@ -17,23 +17,25 @@ First, let's take a look at examples of impactful projects done by radio station
 
 ### Genocide in Gaza / Assault in Lebanon
 
-**LOT Radio**: Organized the "Resistance Stream" to support Palestine Mutual Aid  [[1]](https://www.instagram.com/sssimisea/p/C-oS3V_Nxe7/?locale=en_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB&hl=am-et&img_index=1)    [[2]](https://www.instagram.com/kraejiyaeji/p/DDNcnkuRV1p/tomorrow-dec-6-resistance-stream-set-timesa-12-hour-fundraising-livestream-suppo/?img_index=1).
+**LOT Radio**: Organized the "Resistance Stream" to support Palestine Mutual Aid <sup>[^1]</sup> <sup>[^^2]</sup>.
+
 ![LOT Radio Organized the "Resistance Stream" to support Palestine Mutual Aid.](/images/positive_impact_radio/3.jpg)
 
-**Radio alHara**: Broadcasts from Bethlehem, focusing on social change [[3]](https://www.radioalhara.net/) [[4]](https://en.wikipedia.org/wiki/Radio_Alhara). The mixtape Learning Palestine Until Liberation is a 12 hours sound program created from content downloaded from Youtube “interweaving songs, poems, music, chants, talks, discussions, presentations, and conversations by many, many singers, intellectuals, academics, researchers, musicians, students, and fighters to teach, tell, inform, and to understand the history, the present, and reality of the ongoing struggle for justice and liberation for Palestine” [[5]](https://soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)
+**Radio alHara**: Broadcasts from Bethlehem, focusing on social change <sup>[^3]</sup> <sup>[^4]</sup> 
+The mixtape Learning Palestine Until Liberation is a 12 hours sound program created from content downloaded from Youtube “interweaving songs, poems, music, chants, talks, discussions, presentations, and conversations by many, many singers, intellectuals, academics, researchers, musicians, students, and fighters to teach, tell, inform, and to understand the history, the present, and reality of the ongoing struggle for justice and liberation for Palestine” <sup>[^5]</sup>liberation-radio-alhara-12-hours-program-on-palestine)
 ![Radio alHara**: Broadcasts from Bethlehem, focusing on social change.](/images/positive_impact_radio/4.png)
 ![Radio alHara The mixtape Learning Palestine _ Until Liberation](/images/positive_impact_radio/5.jpg)
 
-**Operator Radio Rotterdam**: Asking for help for a demonstration [[6]](https://operator-radio.com) [[7]](https://soundcloud.com/operator-radio). Operator organized a crucially important manifestation: The Glass House for Gaza. Fundraiser for Lebanon.
+**Operator Radio Rotterdam**: Asking for help for a demonstration <sup>[^6]</sup> <sup>[^7]</sup>. Operator organized a crucially important manifestation: The Glass House for Gaza. Fundraiser for Lebanon.
 ![Asking for help for a demonstration](/images/positive_impact_radio/6.jpg)
 ![The Glass House for Gaza.](/images/positive_impact_radio/7.jpg)
 
-**TNP Radio**: Sharing documentary [[8]](https://radio-tnp.com/). 
+**TNP Radio**: Sharing documentary <sup>[^8]</sup>
 ![TNP Music Experiences in the West Bank.](/images/positive_impact_radio/8.png)
 
 The radio is also active in collecting clothing for the homeless in our studio, collecting laptops for Ukrainian refugees, fundraising money for Gaza, Syria/Turkey + for a music school in Palestine. In Brazil we helped build a football school by raising over €28k. We did campaigns to motivate the younger generation to vote during elections. Recently we also did a radio workshop for refugees.
 
-**Root Radio**: Calling for a strike for all musicians [[9]](https://soundcloud.com/rootradiolive).
+**Root Radio**: Calling for a strike for all musicians <sup>[^9]</sup>
 ![**Root Radio** Calling for a strike for all musiscians on insta](/images/positive_impact_radio/9.jpg)
 
 
@@ -43,44 +45,42 @@ The radio is also active in collecting clothing for the homeless in our studio, 
 ![Refuge Worldwide Radio](/images/positive_impact_radio/13.jpg)
 
 ![Refuge Worldwide Radio](/images/positive_impact_radio/14.jpg)
-**Reminiscing Our Land: A fundraiser by Root Radio & Refuge Worldwide ** [[10]](https://refugeworldwide.com/news/fundraiser-nov-02-2024). On November 2nd 2024, Root Radio and Refuge Worldwide will once again collaborate on an event to raise funds for the ongoing assault on Lebanon and Gaza. The event, which takes place at a secret "multidisciplinary venue" in Berlin, also aims to provide a space for collective reflection and raising awareness. Over 1.2 million people have been displaced from their homes, and thousands killed, since Israel has escalated its attacks on Lebanon throughout the past month. Lebanon is now suffering from a nationwide humanitarian crisis, while the situation in neighbouring Palestine also continues to worsen each day. Starting from 3PM and running until 2AM, Reminiscing Our Land will feature a number of live performances and listening sessions, as well as an art market, food and a screening of On Thyme Hills (a documentary about resistant ecologies in London, Lebanon, and Palestine). Musical contributions come from Abadir, Nour Sokhon, Dakn, Peter Kirn, Q, Marylou, Lateef & VEX, Joumana, Sunfear & Lawrence Goodwin, Aalia & Azemad, and Root Radio founder Ahmadshk. The arts and merch sale will include pieces from Aliaa Kurdi, Hildashaus, Sina Opalka, Space Of Urgency, Suhail Nassar + Moayed Abu Ammouna and Diaspora Rising, as well as a vinyl sale organised by Refuge and its resident artists. Entry will be by donation - minimum 10€ is suggested - but nobody will be turned away for lack of funds. All proceeds from the event will be donated to a small number of trusted groups working on the ground in Lebanon and Palestine, including a trusted individual facilitating aid and ambulance visits, and organisations supporting migrant workers in Lebanon. Artwork by Rawand Issa.
+**Reminiscing Our Land: A fundraiser by Root Radio & Refuge Worldwide ** <sup>[^10]</sup>
+
+ On November 2nd 2024, Root Radio and Refuge Worldwide will once again collaborate on an event to raise funds for the ongoing assault on Lebanon and Gaza. The event, which takes place at a secret "multidisciplinary venue" in Berlin, also aims to provide a space for collective reflection and raising awareness. Over 1.2 million people have been displaced from their homes, and thousands killed, since Israel has escalated its attacks on Lebanon throughout the past month. Lebanon is now suffering from a nationwide humanitarian crisis, while the situation in neighbouring Palestine also continues to worsen each day. Starting from 3PM and running until 2AM, Reminiscing Our Land will feature a number of live performances and listening sessions, as well as an art market, food and a screening of On Thyme Hills (a documentary about resistant ecologies in London, Lebanon, and Palestine). Musical contributions come from Abadir, Nour Sokhon, Dakn, Peter Kirn, Q, Marylou, Lateef & VEX, Joumana, Sunfear & Lawrence Goodwin, Aalia & Azemad, and Root Radio founder Ahmadshk. The arts and merch sale will include pieces from Aliaa Kurdi, Hildashaus, Sina Opalka, Space Of Urgency, Suhail Nassar + Moayed Abu Ammouna and Diaspora Rising, as well as a vinyl sale organised by Refuge and its resident artists. Entry will be by donation - minimum 10€ is suggested - but nobody will be turned away for lack of funds. All proceeds from the event will be donated to a small number of trusted groups working on the ground in Lebanon and Palestine, including a trusted individual facilitating aid and ambulance visits, and organisations supporting migrant workers in Lebanon. Artwork by Rawand Issa.
  ![Reminiscing our World fundraising](/images/positive_impact_radio/10.jpg)
 
 
-**3ezwa**: A new association offering financial support for those facing repression [[11]](https://refugeworldwide.com/news/3ezwa-interview-17-dec-2024) [[12]](https://3ezwa.de/).
+**3ezwa**: A new association offering financial support for those facing repression <sup>[^11]</sup> <sup>[^12]</sup>
 ![3ezwa](/images/positive_impact_radio/16.png)
 
 
-**Playlist: 2 Years of Ukrainian Resistance**  [[13]](https://refugeworldwide.com/news/playlist-2-years-of-ukrainian-resistance): To uplift and highlight voices from Ukraine, we have compiled some shows from the last two years that celebrate Ukrainian art and resistance. If you’re based in Berlin and want to show solidarity, join Vitsche Berlin today, Saturday 24 February, from 13-15:00 at Brandenburger Tor, and tune in from 15-16:00 to listen to P Kirn & Dmytro Fedorenko’s Ukraine Resistance Radio.
+**Playlist: 2 Years of Ukrainian Resistance**  <sup>[^13]</sup>2-years-of-ukrainian-resistance): To uplift and highlight voices from Ukraine, we have compiled some shows from the last two years that celebrate Ukrainian art and resistance. If you’re based in Berlin and want to show solidarity, join Vitsche Berlin today, Saturday 24 February, from 13-15:00 at Brandenburger Tor, and tune in from 15-16:00 to listen to P Kirn & Dmytro Fedorenko’s Ukraine Resistance Radio.
 
 **Residencies & shows**
 
 ![Refuge Worldwide Radio](/images/positive_impact_radio/15.png)
 
-**Borshch magazine's** Mariana Berezovska talks to Pledov and Kate Tarabukina (Vitsche Culture), the co-organizers of Kyiv's Art—Weapon! Festival. The festival is dedicated to Ukrainian art created during the full-scale war and is co-organised with Vitsche Berlin, the Ukrainian civil movement in Berlin. The one-day program features 40 artists and art groups of various genres and will be held at Alte Münze in Berlin on 25 February. Most of the artists are currently based in Ukraine and are travelling to Berlin for the festival.  [[14]](https://europeanlab.com/en/mariana-berekovska /)[[15]](https://refugeworldwide.com/artists/mariana-berezovska)
+**Borshch magazine's** Mariana Berezovska talks to Pledov and Kate Tarabukina (Vitsche Culture), the co-organizers of Kyiv's Art—Weapon! Festival. The festival is dedicated to Ukrainian art created during the full-scale war and is co-organised with Vitsche Berlin, the Ukrainian civil movement in Berlin. The one-day program features 40 artists and art groups of various genres and will be held at Alte Münze in Berlin on 25 February. Most of the artists are currently based in Ukraine and are travelling to Berlin for the festival.  <sup>[^14]</sup> <sup>[^15]</sup>
 ![Borshch magazine's Mariana Berezovska](/images/positive_impact_radio/17.jpg)
 
-**Gasoline Radio**: Gasoline Radio is a non-commercial media platform, based in Kyiv. Our main goal is to disseminate Ukrainian culture and bring together artists, DJ's and activists in Kyiv and beyond. We aim to expand our listeners musical knowledge, build a community, and to put Ukrainian musicians in a global context. Rooted in Ukrainian identity and heritage, the project aims to combat deep-seated inferiority complexes and cultivate a proud cultural identity.  [[16]](https://gasolineradio.com/main)
-
+**Gasoline Radio**: Gasoline Radio is a non-commercial media platform, based in Kyiv. Our main goal is to disseminate Ukrainian culture and bring together artists, DJ's and activists in Kyiv and beyond. We aim to expand our listeners musical knowledge, build a community, and to put Ukrainian musicians in a global context. Rooted in Ukrainian identity and heritage, the project aims to combat deep-seated inferiority complexes and cultivate a proud cultural identity.  <sup>[^16]</sup>
 ![Gasoline Radio:](/images/positive_impact_radio/19.png)
 ![Gasoline Radio:](/images/positive_impact_radio/20.png)
-**Radio Vilnius** (Lithuania): the new platform will launch with four hours of experimental and underground music from Ukrainian artists. You can hear the transmission live on Lithuania's Radio Vilnius from 2 PM through 6 PM CET. After this, the show will be available to stream from Radio Vilnius's website .[[17]](https://radiovilnius.live/)
-
-**The Resistance Radio project** was set up to amplify the experimental sounds and music of Ukrainian artists and their collaborations with international musicians. Over the past month, Ukrainian producers living inside and outside the country were invited to submit new experimental music, field recordings, noise and other DIY electronics .[[18]](https://20ftradio.net/)
-![20ftradio](/images/positive_impact_radio/21.jpg) 
+**Radio Vilnius** (Lithuania): the new platform will launch with four hours of experimental and underground music from Ukrainian artists. You can hear the transmission live on Lithuania's Radio Vilnius from 2 PM through 6 PM CET. After this, the show will be available to stream from Radio Vilnius's website .<sup>[^17]</sup>**The Resistance Radio project** was set up to amplify the experimental sounds and music of Ukrainian artists and their collaborations with international musicians. Over the past month, Ukrainian producers living inside and outside the country were invited to submit new experimental music, field recordings, noise and other DIY electronics .<sup>[^18]</sup>
 
 **20ftradio** (Kyiv): Independent music radio. Online daily streams on our website. Artist unity, Give a voice to artists.
 ![20ftradio](/images/positive_impact_radio/18.jpg) 
-**Grains of Peace**: Except for guns and bombs, the main weapons of the enemy are fear and anxiety. They poison our thoughts, destroy our strength, and oppress our hearts. We believe that music is an instrument of peace, a medicine, whose power can be felt by everyone and can help to find faith, hope, and peace in this world again. We invite artists from all over the world to sow grains of peace to support the spirit of our country, fill souls with light, and fill the future with meaning. Listen to music and stand with Ukraine.  [[19]](https://soundcloud.com/20ft_radio/sets/grains-of-peace)
+**Grains of Peace**: Except for guns and bombs, the main weapons of the enemy are fear and anxiety. They poison our thoughts, destroy our strength, and oppress our hearts. We believe that music is an instrument of peace, a medicine, whose power can be felt by everyone and can help to find faith, hope, and peace in this world again. We invite artists from all over the world to sow grains of peace to support the spirit of our country, fill souls with light, and fill the future with meaning. Listen to music and stand with Ukraine.  <sup>[^19]</sup>
 
-**Mystictrax residency**: Mystictrax is the Ukrainian experimental laboratory of sound, run by musician & dj Lostlojic. Started in 2019 as a mystification with “radioactive” cassettes from Chornobyl, the label has now accumulated the capacity of 50 artists from Ukraine and beyond, including Monotronique, Poly Chain, Radiant Futur, Vadim Griboedov, Ufaze, Raavel, Lostlojic himself and many more.  [[20]](https://fr.ra.co/features/3978) [[20.2]](https://fr.ra.co/features/4148)
+**Mystictrax residency**: Mystictrax is the Ukrainian experimental laboratory of sound, run by musician & dj Lostlojic. Started in 2019 as a mystification with “radioactive” cassettes from Chornobyl, the label has now accumulated the capacity of 50 artists from Ukraine and beyond, including Monotronique, Poly Chain, Radiant Futur, Vadim Griboedov, Ufaze, Raavel, Lostlojic himself and many more.  <sup>[^20]</sup></sup>
 
 
  
 
 **Labels**: 
 
-**Standard Deviation** (Kyev) Established in 2020, Standard Deviation is a multidisciplinary label platform, working on the intersection of music, art and publishing. We aim to foster creative collaborative exchange between an aspiring Ukrainian scene and a global community.  [[20]](https://soundcloud.com/standard-deviation)
+**Standard Deviation** (Kyev) Established in 2020, Standard Deviation is a multidisciplinary label platform, working on the intersection of music, art and publishing. We aim to foster creative collaborative exchange between an aspiring Ukrainian scene and a global community.  <sup>[^20]</sup>
 **Mystrictrax**: Ukrainian Experimental Laboratory of Sound
 
 Kyiv labels Standard Deviation and Mystictrax came together for a charity compilation featuring 65 Ukrainian and international artists, including Laurent Garnier, Alinka and Héctor Oaks. "It's probably a very strange decision, to [put together] a release during the shelling and the war, but I just didn't know what else I could do," said Mystictrax head Lostlojic. "Sasha Zakrevska (AKA Poly Chain) wrote to me, 'let's put together a compilation,' and we immediately started contacting everyone we knew. Eventually, we joined forces with Standard Deviation, the Modern Matters agency and others. Everyone was keen to get involved. It was probably the best thing I could have done during this time, and I am very proud of this project.”
@@ -91,14 +91,13 @@ Kyiv labels Standard Deviation and Mystictrax came together for a charity compil
 **Eye on Global Politics**: A US-based station focusing on international political affairs, providing in-depth analysis of global issues1.
 
 
-**NTS**: Hosted a "musique de silence" event in solidarity with the genocide in Gaza.  [[21]](https://www.nts.live/incoming/international-migrants-day-pt-1)
-
+**NTS**: Hosted a "musique de silence" event in solidarity with the genocide in Gaza.  <sup>[^21]</sup>
 18th December is International Migrants Day - an annual day recognising the lives and contributions of migrants around the world. We're marking the event on Sunday 15th December with a 24-hour-long broadcast, recognising the ineradicable influence migrant communities around the world have had on global music, art and culture. Featuring specials on vital contemporary and historic music scenes, illuminating interviews, live performances, and big guests. Raising money for Music Action, helping refugees heal from trauma through music and performance.
 ![NTS](/images/positive_impact_radio/22.jpg) 
 
 
 ### Relief and Humanitarian Aid
-**Root Radio & Metamorphosen**: Donation-based event for families affected by the earthquake in Syria.  [[22]](https://www.instagram.com/p/C4IStXkIIWk/?hl=en)
+**Root Radio & Metamorphosen**: Donation-based event for families affected by the earthquake in Syria.  <sup>[^22]</sup>
 ![NTS](/images/positive_impact_radio/23.png) 
 
 Root Radio & Metamorphosen: This will be a donation-based event, with the aim of raising funds for families that are still affected by the earthquake that struck Syria last year.
@@ -111,19 +110,17 @@ Root Radio & Metamorphosen: This will be a donation-based event, with the aim of
 **First Response Radio**: Sets up radio stations within 72 hours of a disaster.
 
 ### Local Politics and Issues
-**Mutant Radio**: Engages in local political debates.  [[23]](https://www.mutantradio.net/)
-> On April 4th 2025, we’re excited to announce the opening of Mutant’s new home and studio in Berlin! To celebrate, we’re hosting a full-day marathon with our friends and residents. Join us in person at Erlanger Str. 8 or tune in online — let’s kick off this new chapter together!
+**Mutant Radio**: Engages in local political debates.  <sup>[^23]</sup>> On April 4th 2025, we’re excited to announce the opening of Mutant’s new home and studio in Berlin! To celebrate, we’re hosting a full-day marathon with our friends and residents. Join us in person at Erlanger Str. 8 or tune in online — let’s kick off this new chapter together!
 
 ![Mutant Radio](/images/positive_impact_radio/25.jpg) 
 ![Mutant Radio](/images/positive_impact_radio/26.png) 
 ![Mutant Radio](/images/positive_impact_radio/27.jpg) 
 
 
-**SHAPE+** is a European platform for innovative music and art. It is artist-oriented, and, every year, it creates a selection of  exceptional emerging talent via open call and curatorial voting, to then foster their careers with performance invitations, collaborative residencies, commissions, seminars and networking events. SHAPE+ consists of non-profit venues and festivals, and is co-funded by the European Union and, as of July 2024, Pro Helvetia. [[24]](https://www.shapeplatform.eu/)
+**SHAPE+** is a European platform for innovative music and art. It is artist-oriented, and, every year, it creates a selection of  exceptional emerging talent via open call and curatorial voting, to then foster their careers with performance invitations, collaborative residencies, commissions, seminars and networking events. SHAPE+ consists of non-profit venues and festivals, and is co-funded by the European Union and, as of July 2024, Pro Helvetia. <sup>[^24]</sup>
 ![Shape+](/images/positive_impact_radio/29.png) 
 
-**Reset! Network**: Supports independent cultural and media organizations in Europe.  [[25]](https://reset-network.eu/)
-Georgia and Moldova Facing Elections
+**Reset! Network**: Supports independent cultural and media organizations in Europe.  <sup>[^25]</sup>
 
 Reset! Live Podcast #5 — Club Culture And The Independent Cultural Sector: ‘Foreign Agents’ ? 
 
@@ -215,31 +212,31 @@ Try not to be too greedy, avoid capitalistic private investors, have a small bus
 
 
 # References
-1. [https://www.instagram.com /sssimisea[/] ](https://www.instagram.com/sssimisea/p/C-oS3V_Nxe7/?locale=en_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB&hl=am-et&img_index=1)   
-2. [https://www.instagram.com/kraejiyaeji/](https://www.instagram.com/kraejiyaeji/p/DDNcnkuRV1p/)
-3. [https://www.radioalhara.net/](https://www.radioalhara.net/)
-4. [https://en.wikipedia.org/wiki/Radio_Alhara. The mixtape Learning Palestine Until Liberation is a 12 hours sound program created from content downloaded from Youtube “interweaving songs, ](https://en.wikipedia.org/wiki/Radio_Alhara). 
-5. [https://soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)](https://soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)
-6. [https://operator-radio.com/)](https://operator-radio.com/)
-7. [https://soundcloud.com/operator-radio. Operator organized a crucially important manifestation: The Glass House for Gaza. Fundraiser for Lebanon.](https://soundcloud.com/operator-radio).
-8. [https://radio-tnp.com/ ](https://radio-tnp.com/). 
-9. [https://soundcloud.com/rootradiolive).](https://soundcloud.com/rootradiolive).
-10. [https://refugeworldwide.com/news/fundraiser-nov-02-2024). On November 2nd 2024, Root Radio and Refuge Worldwide will once again collaborate on an event to raise funds for the ongoing assault on Lebanon and Gaza. The ](https://refugeworldwide.com/news/fundraiser-nov-02-2024).
-11. [https://refugeworldwide.com/news/3ezwa-interview-17-dec-2024](https://refugeworldwide.com/news/3ezwa-interview-17-dec-2024)
-12. [https://3ezwa.de/).](https://3ezwa.de/)
-13. [https://refugeworldwide.com/news/playlist-2-years-of-ukrainian-resistance): To uplift and highlight voices from Ukraine, we have compiled some shows from the last two years that celebrate Ukrainian art and resistance. If you’re based in ](https://refugeworldwide.com/news/playlist-2-years-of-ukrainian-resistance)
-14. [https://europeanlab.com/en/mariana-berekovska/](https://europeanlab.com/en/mariana-berekovska/)
-15. [https://refugeworldwide.com/artists/mariana-berezovska](https://refugeworldwide.com/artists/mariana-berezovska)
-16. [https://gasolineradio.com/main](https://gasolineradio.com/main)
-17. [https://radiovilnius.live/](https://radiovilnius.live/)
-18. [https://20ftradio.net/](https://20ftradio.net/)
-19. [https://soundcloud.com/20ft_radio/sets/grains-of-peace](https://soundcloud.com/20ft_radio/sets/grains-of-peace)
-20. [https://soundcloud.com/standard-deviation](https://soundcloud.com/standard-deviation)
-21. [https://www.nts.live/incoming/international-migrants-day-pt-1](https://www.nts.live/incoming/international-migrants-day-pt-1)
-22. [https://www.instagram.com/p/C4IStXkIIWk/?hl=en](https://www.instagram.com/p/C4IStXkIIWk/?hl=en)
-23. [https://www.mutantradio.net/](https://www.mutantradio.net/)
-24. [https://www.shapeplatform.eu/](https://www.shapeplatform.eu/)
-25. [https://reset-network.eu/](https://reset-network.eu/)
+[^1]: [Instagram - Resistance Stream](https://www.instagram.com/sssimisea/p/C-oS3V_Nxe7/?locale=en_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB%2Cen_US%2Cen_GB&hl=am-et&img_index=1)   
+[^2]: [Instagram - Kraejiyaeji](https://www.instagram.com/kraejiyaeji/p/DDNcnkuRV1p/)
+[^3]: [Visit website: www.radioalhara.net/](https://www.radioalhara.net/)
+[^4]: [ The mixtape Learning Palestine Until Liberation](https://en.wikipedia.org/wiki/Radio_Alhara). 
+[^5]: [Visite website: soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)](https://soundcloud.com/radiokarantina/until-liberation-radio-alhara-12-hours-program-on-palestine)
+[^6]: [Visit website: operator-radio.com](https://operator-radio.com/)
+[^7]: [Visit website: soundcloud.com/operator-radio. Operator organized a crucially important manifestation: The Glass House for Gaza. Fundraiser for Lebanon.](https://soundcloud.com/operator-radio).
+[^8]: [Visit website: radio-tnp.com](https://radio-tnp.com/blog-M-E-W-B-1). 
+[^9]: [Visit website: soundcloud.com/rootradiolive).](https://soundcloud.com/rootradiolive).
+[^10]: [Visit refugeworldwide: on November 2nd 2024, Root Radio and Refuge Worldwide will once again collaborate on an event to raise funds for the ongoing assault on Lebanon and Gaza. ](https://refugeworldwide.com/news/fundraiser-nov-02-2024).
+[^11]: [Visit website: refugeworldwide.com/news/3ezwa-interview-17-dec-2024](https://refugeworldwide.com/news/3ezwa-interview-17-dec-2024)
+[^12]: [Visit website: 3ezwa.de/](https://3ezwa.de/)
+[^13]: [Visit refugeworldwide: To uplift and highlight voices from Ukraine, we have compiled some shows from the last two years that celebrate Ukrainian art and resistance. If you’re based in ](https://refugeworldwide.com/news/playlist-2-years-of-ukrainian-resistance)
+[^14]: [Visit website: europeanlab.com/en/mariana-berekovska/](https://europeanlab.com/en/mariana-berekovska/)
+[^15]: [Visit website: refugeworldwide.com/artists/mariana-berezovska](https://refugeworldwide.com/artists/mariana-berezovska)
+[^16]: [Visit website: gasolineradio.com/main](https://gasolineradio.com/main)
+[^17]: [Visit website: radiovilnius.live/](https://radiovilnius.live/)
+[^18]: [Visit website: 20ftradio.net/](https://20ftradio.net/)
+[^19]: [Visit website: soundcloud.com/20ft_radio/sets/grains-of-peace](https://soundcloud.com/20ft_radio/sets/grains-of-peace)
+[^20]: [Visit website: soundcloud.com/standard-deviation](https://soundcloud.com/standard-deviation)
+[^21]: [Visit website: www.nts.live/incoming/international-migrants-day-pt-1](https://www.nts.live/incoming/international-migrants-day-pt-1)
+[^22]: [Visit website: www.instagram.com/p/C4IStXkIIWk/?hl=en](https://www.instagram.com/p/C4IStXkIIWk/?hl=en)
+[^23]: [Visit website: www.mutantradio.net/](https://www.mutantradio.net/)
+[^24]: [Visit website: www.shapeplatform.eu/](https://www.shapeplatform.eu/)
+[^25]: [Visit website: reset-network.eu/](https://reset-network.eu/)
 
 ---
 - Date: March 13th 2025
