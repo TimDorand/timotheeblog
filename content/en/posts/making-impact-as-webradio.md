@@ -1,7 +1,7 @@
 ---
 title: "Making a positive impact on the world with an online radio platform."
 description: "We'll look at examples of impactful projects done by radio stations across the world."
-date: 2025-03-13T11:10:54+01:00
+date: 2025-03-12T11:10:54+01:00
 draft: false
 categories: Music
 ---

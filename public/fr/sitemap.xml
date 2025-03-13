@@ -2,34 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/posts/</loc>
-    <lastmod>2025-03-13T11:10:54+01:00</lastmod>
+    <loc>/fr/posts/making-impact-as-webradio/</loc>
+    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="/en/posts/making-impact-as-webradio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/"
-                />
-  </url><url>
-    <loc>/fr/</loc>
-    <lastmod>2025-03-13T11:10:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
+                href="/fr/posts/making-impact-as-webradio/"
                 />
   </url><url>
     <loc>/fr/categories/</loc>
-    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
+    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +29,7 @@
                 />
   </url><url>
     <loc>/fr/categories/music/</loc>
-    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
+    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +39,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/music/"
+                />
+  </url><url>
+    <loc>/fr/posts/</loc>
+    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/"
+                />
+  </url><url>
+    <loc>/fr/</loc>
+    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
                 />
   </url><url>
     <loc>/fr/posts/thf-radio-shows/</loc>
