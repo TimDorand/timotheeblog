@@ -6,9 +6,6 @@ draft: false
 categories: Music
 ---
 
-
-I’m Jan Astasia, member of Radio Sofa, a web radio based in Paris. Let me present my new show on THF. I wanted to explore the music with percussion, play with tradition music and how they influence the electronic music of today. 
-
 In ‘The Concave Side of the Spoon’ residency, I explore the rhythms and percussion of traditional music and its influence on contemporary music. It's like looking at the reflection of the spoon and seing our world in reverse, taking a step back form the music I play, leading me to a different approach to music.
 
 https://www.thfradio.de 
@@ -109,3 +106,8 @@ Finally, we'll glide into the modern beats of electronic music from Miami, Zambi
 | 26 | Mbui Mbui                            | Wagogo (Tanzania)                                                                          |
 | 27 | Chalo gwe (Msaigwa)                  | Wagogo (Tanzania)                                                                          |
 
+
+
+---- 
+
+I’m Jan Astasia, member of Radio Sofa, a web radio based in Paris. Let me present my new show on THF. I wanted to explore the music with percussion, play with tradition music and how they influence the electronic music of today. 

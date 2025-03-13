@@ -30,4 +30,3 @@ of data on 4 hard disks in a Synology NAS. Thanks to the latest data replication
 I can lose a disk without losing a single file. This costs me around 15% of the total space, but
 offers me a certain serenity.
 
-Synology has done a rem
