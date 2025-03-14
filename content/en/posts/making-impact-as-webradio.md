@@ -45,7 +45,7 @@ The radio is also active in collecting clothing for the homeless in our studio, 
 ![Refuge Worldwide Radio](/images/positive_impact_radio/13.jpg)
 
 ![Refuge Worldwide Radio](/images/positive_impact_radio/14.jpg)
-**Reminiscing Our Land: A fundraiser by Root Radio & Refuge Worldwide ** <sup>[^10]</sup>
+**Reminiscing Our Land: A fundraiser by Root Radio & Refuge Worldwide** <sup>[^10]</sup>
 
  On November 2nd 2024, Root Radio and Refuge Worldwide will once again collaborate on an event to raise funds for the ongoing assault on Lebanon and Gaza. The event, which takes place at a secret "multidisciplinary venue" in Berlin, also aims to provide a space for collective reflection and raising awareness. Over 1.2 million people have been displaced from their homes, and thousands killed, since Israel has escalated its attacks on Lebanon throughout the past month. Lebanon is now suffering from a nationwide humanitarian crisis, while the situation in neighbouring Palestine also continues to worsen each day. Starting from 3PM and running until 2AM, Reminiscing Our Land will feature a number of live performances and listening sessions, as well as an art market, food and a screening of On Thyme Hills (a documentary about resistant ecologies in London, Lebanon, and Palestine). Musical contributions come from Abadir, Nour Sokhon, Dakn, Peter Kirn, Q, Marylou, Lateef & VEX, Joumana, Sunfear & Lawrence Goodwin, Aalia & Azemad, and Root Radio founder Ahmadshk. The arts and merch sale will include pieces from Aliaa Kurdi, Hildashaus, Sina Opalka, Space Of Urgency, Suhail Nassar + Moayed Abu Ammouna and Diaspora Rising, as well as a vinyl sale organised by Refuge and its resident artists. Entry will be by donation - minimum 10€ is suggested - but nobody will be turned away for lack of funds. All proceeds from the event will be donated to a small number of trusted groups working on the ground in Lebanon and Palestine, including a trusted individual facilitating aid and ambulance visits, and organisations supporting migrant workers in Lebanon. Artwork by Rawand Issa.
  ![Reminiscing our World fundraising](/images/positive_impact_radio/10.jpg)
@@ -173,6 +173,8 @@ Radio Sofa creates a space of expression for artists and discovery for the audie
 
 **iHeartRadio Earth**: Encourages sustainable actions.
 **Sustainable World Radio**: Focuses on ecology, permaculture, and regenerative farming.
+
+### PDF Presentation
 Take a look <a href="https://drive.google.com/file/d/1YcYH0OvgkKQ9O91QU6Mh-ktg6pJ4T9Wf/view?usp=sharing" target="_blank" >at the Presentation PDF with visual examples</a>
 
 
