@@ -16,7 +16,56 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 ## Tracklist
 
-### March 9th 2025
+### Jazz & Drum&Bass - April 6th 2025
+
+In this residency, I explore the rhythms and percussion of traditional music and its influence on contemporary music. It's like looking at the reflection of a spoon and seeing our world in reverse, taking a step back form the music I play, leading me to a different approach to music.
+
+In today's episode, we'll dive into Jazz music and its extraordinary drumming section. 
+
+We will first have a look a jazz pioneers like Art Blakey, Louie Bellson, Gene Krupa, Clifford Brown, Buddie Rich and modern jazzman like Medeksi, Martin and Wood.
+
+In the second part of the show, we'll explore how it influenced the Drum and Bass of Ornette Hawkins, Amon Tobin, Earl Grey, Calibre and many more.
+
+
+| #  | Track Title                          | Artist                                |
+|----|--------------------------------------|---------------------------------------|
+| 1  | Stoney Street                        | Amon Tobin                            |
+| 2  | Drums in the Rain                    | Art Blakey                            |
+| 3  | Percussionistically Speaking         | Louie Bellson                         |
+| 4  | The Drum Battle                      | Gene Krupa and Buddy Rich             |
+| 5  | Caravan                              | Buddy Rich                            |
+| 6  | Moanin' (Remastered)                 | Art Blakey                            |
+| 7  | Crescent                             | Joe Lovano The Steve Kuhn Trio        |
+| 8  | A Night in Tunisia                   | Clifford Brown                        |
+| 9  | The Lover                            | Medeski, Martin and Wood              |
+| 10 | Ten on the Door                      | ATA Records                           |
+| 11 | Contemplating Jazz                   | Attica Blues                          |
+| 12 | Bitter & Twistd                      | Amon Tobin                            |
+| 13 | Raw Sun (2020 Remaster)             | Ornette Hawkins                       |
+| 14 | Passion                              | PinkPantheress                        |
+| 15 | Jazz Police                          | Ornette Hawkins                       |
+| 16 | Dega & Papi                          | Earl Grey                             |
+| 17 | Aspirations                          | PFM                                   |
+| 18 | Inner Conflict                       | Earl Grey                             |
+| 19 | Broke My Heart + Passion             | Sade + PinkPantheress                 |
+| 20 | Suspend Disbelief                    | Earl Grey                             |
+| 21 | Let Me Hold You (2019 Remaster)      | Calibre                               |
+| 22 | Rules                                | Dreadmaul & Ornette Hawkins           |
+| 23 | Miles From Home                      | Peshay                                |
+| 24 | Mirage (Original Mix)                | Calibre                               |
+| 25 | Primavera                            | Zar                                   |
+| 26 | Perspective                          | Brendon Moeller                       |
+| 27 | Noirism                              | Indidjinous & Ornette Hawkins         |
+| 28 | The Love She Needs                   | Zero T                                |
+| 29 | Witchdoctor                          | Rude Operator & Ornette Hawkins       |
+| 30 | Clubbed To Death (Peshay rmx)        | Rob Dougan                            |
+| 31 | The Fugitive Drummer                 | Phuture T                             |
+| 32 | Some Hip Drum Shit                   | The Tony Williams Lifetime            |
+| 33 | Return Of The Original Art-Form      | Hiroshi Fujiwara & K.U.D.O Feat. DJ Milo |
+| 34 | The Number Song                      | DJ Shadow                             |
+| 35 | Is It Us?                            | Soulstatejazz                         |
+
+### Dub & Carnaval Music - March 9th 2025
 
 Today's episode is inspired by the carnaval season and the percussions of Brazil and Guadeloupe.
 We'll start by exploring percussions in Dub and experimental music, and willl then journey into the interesting world of Mulsimgauze, percussionnist from Martinique Jonaz Joslen, a carnaval group "à Po" from Guadeloupe "Klé la", and a Julio "Chocolate" Algendones a Peruvian percusionnist.
@@ -69,7 +118,7 @@ A brief description of the artists played in this mix:
 | 30 | What's On Your Mind?                 | Sine                                  |
 
 
-### February 9th 2025
+### Salsa, Cumbia & Dancehall - February 9th 2025
 
 We'll start with some artists from Jakarta and New Guinea, but also music from ancient ceremonies of Ghana.
 Then, we'll get into to the rhythms of salsa and cumbia, featuring percussionists from Cuba, Puerto Rico, Colombia and the US.
