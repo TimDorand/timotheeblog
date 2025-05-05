@@ -16,6 +16,35 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 ## Tracklist
 
+### Sacred Drums & Percussions - May 4th 2025
+
+Today's episode explores sacred drums and percussions from various traditions. We'll listen to spiritual and meditative pieces featuring artists like Gabrielle Roth & The Mirrors, Hearn Gadbois, and others who blend traditional percussion with contemporary expressions.
+
+| #  | Track Title                          | Artist                                |
+|----|--------------------------------------|---------------------------------------|
+| 1  | Mazarene                             | Hearn Gadbois                         |
+| 2  | Night Whisper                        | Gabrielle Roth & The Mirrors          |
+| 3  | Shavasana                            | Gabrielle Roth & The Mirrors          |
+| 4  | Sufis and Gypsies                    | Chinmaya Dunster                      |
+| 5  | Zone Unknown                         | Gabrielle Roth & The Mirrors          |
+| 6  | The Cowboy Song - Solo Drum          | Hearn Gadbois                         |
+| 7  | Nectar Moon                          | Gabrielle Roth and The Mirrors        |
+| 8  | Lullaby For Frederic                 | Carly Barton                          |
+| 9  | The Rambler                          | Simon Leleux, François Sep            |
+| 10 | Aguidavi                             | Cyro Baptista                         |
+| 11 | Double Rainbow (Chovendo Na Roseiro)  | Gene Bertoncini                       |
+| 12 | Eliana                               | Gabrielle Roth & The Mirrors          |
+| 13 | Passion in the Basement              | Cyro BAPTISTA                         |
+| 14 | Anambra (Edited Version)             | Ozo                                   |
+| 15 | Krazy Groove                         | Christian McBride Meets DJ Krazy      |
+| 16 | Sinú                                 | nodes                                 |
+| 17 | Morphine - Kerouac                   | Compilation                           |
+| 18 | Smoke                                | Vanessa Daou                          |
+| 19 | Soul Makossa (Drums De Makossa)      | Shovell & The Latin Hooligans        |
+| 20 | Dolor                                | Hammond classics                       |
+
+
+
 ### Jazz & Drum&Bass - April 6th 2025
 
 In this residency, I explore the rhythms and percussion of traditional music and its influence on contemporary music. It's like looking at the reflection of a spoon and seeing our world in reverse, taking a step back form the music I play, leading me to a different approach to music.
