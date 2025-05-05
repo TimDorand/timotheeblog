@@ -23,6 +23,21 @@ La radio se décrit comme une communauté basé sur l'ancien aéroport Tempelhof
 ### Sacred Drums & Percussions - May 4th 2025
 
 L'épisode d'aujourd'hui explore les tambours et percussions sacrés de différentes traditions. Nous écouterons des morceaux spirituels et méditatifs avec des artistes comme Gabrielle Roth & The Mirrors, Hearn Gadbois, et d'autres qui mêlent percussions traditionnelles et expressions contemporaines.
+Ils m'inspirent tous par l'énergie de leur musique. Je suis vraiment passionné par la façon dont des rythmes simples peuvent créer ce groove et vous faire danser.
+Voici une courte présentation des artistes présents dans cette sélection.
+
+- Hearn Gadbois est un maître percussionniste connu pour son travail dans la musique sacrée et méditative. Il est spécialisé dans les percussions du Moyen-Orient et d'Afrique du Nord, intégrant les traditions rythmiques anciennes dans la pratique spirituelle contemporaine.
+
+- Chinmaya Dunster est un musicien britannique qui a dédié sa vie à créer une musique qui relie les traditions orientales et occidentales. Après avoir étudié la musique classique indienne dans les années 1970, il combine le sarod, la guitare et diverses percussions pour créer des paysages sonores contemplatifs et spirituels.
+
+- Gabrielle Roth (1941-2012) était une danseuse, musicienne et pionnière du mouvement américaine qui a créé la pratique de méditation en mouvement 5Rhythms. Son groupe, The Mirrors, combine des influences de musiques du monde avec des rythmes hypnotiques pour créer des ambiances méditatives.
+
+- Cyro Baptista est un percussionniste et compositeur brésilien connu pour son approche innovante de la percussion et de la musique du monde. Son style unique mêle les rythmes traditionnels brésiliens au jazz contemporain et aux sons expérimentaux.
+
+- OZO est un ensemble afro-funk contemporain qui s'inspire des traditions percussives d'Afrique de l'Ouest. Leur musique combine des rythmes africains traditionnels avec des éléments électroniques modernes.
+
+- Carly Barton est une percussionniste et compositrice contemporaine connue pour son approche méditative du rythme et son exploration des traditions de percussions sacrées de diverses cultures.
+
 
 | #  | Track Title                          | Artist                                |
 |----|--------------------------------------|---------------------------------------|

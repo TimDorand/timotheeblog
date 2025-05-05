@@ -19,6 +19,20 @@ The radio station describes itself as a community based at the former Tempelhofe
 ### Sacred Drums & Percussions - May 4th 2025
 
 Today's episode explores sacred drums and percussions from various traditions. We'll listen to spiritual and meditative pieces featuring artists like Gabrielle Roth & The Mirrors, Hearn Gadbois, and others who blend traditional percussion with contemporary expressions.
+They all inspire me because of the energy of their music. I'm really passionnate about how the simple rhythms can really create this groove and make you dance.
+Here's a brief introduction to the artists featured in this selection. 
+
+- Hearn Gadbois is a master percussionist known for his work with sacred and meditative music. He specializes in Middle Eastern and North African frame drums, bringing ancient rhythmic traditions into contemporary spiritual practice.
+
+- Chinmaya Dunster is a British musician who has dedicated his life to creating music that bridges Eastern and Western traditions. After studying Indian classical music in the 1970s, he combines sarod, guitar, and various percussion instruments to create contemplative, spiritual soundscapes.
+
+- Gabrielle Roth (1941-2012) was an American dancer, musician, and movement pioneer who created the 5Rhythms movement meditation practice. Her band, The Mirrors, combines world music influences with trance-inducing rhythms to create meditative soundscapes.
+
+- Cyro Baptista is a Brazilian percussionist and composer known for his innovative approach to percussion and world music. His unique style blends traditional Brazilian rhythms with contemporary jazz and experimental sounds.
+
+- OZO is a contemporary Afro-funk ensemble that draws inspiration from West African percussion traditions. Their music combines traditional African rhythms with modern electronic elements.
+
+- Carly Barton is a contemporary percussionist and composer known for her meditative approach to rhythm and her exploration of sacred drumming traditions from various cultures.
 
 | #  | Track Title                          | Artist                                |
 |----|--------------------------------------|---------------------------------------|
