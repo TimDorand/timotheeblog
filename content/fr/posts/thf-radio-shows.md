@@ -21,7 +21,7 @@ La radio se décrit comme une communauté basé sur l'ancien aéroport Tempelhof
 
 ### Brazilian drums - June 1st 2025
 
-L'épisode d'aujourd'hui explore la musique brésilienne des années 50 à nos jours, de São Paulo, Rio de Janeiro, Recife, Santa Catarina et de multiples genres allant de la Samba, du Jazz, de la Bossa Nova, du Funk, du Rock, de la MPB jusqu'aux différents mouvements comme le Manguebeat ou le Clube da Esquina.
+L'épisode d'aujourd'hui explore la musique brésilienne des années 50 à nos jours, de São Paulo, Rio de Janeiro, Recife, Santa Catarina et de multiples genres allant de la Samba, du Jazz, de la Bossa Nova, du Funk, du Rock, de la MPB (Música popular brasileira) jusqu'aux différents mouvements comme le Manguebeat ou le Clube da Esquina.
 Cameron Worsley me rejoint pour ce voyage passionnant autour des tambours et des percussions.
 
 

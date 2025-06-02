@@ -18,7 +18,7 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 ### Brazilian drums - June 1st 2025
 
-Today’s episode explores Brazilian music, from the 50s to present, from Sao Paulo, Rio de Janeiro, Recife, Santa Catarina and multiple genre from Samba, Jazz, Bossa Nova, Funk, Rock, MBP to different movements like Manguebeat movement or Clube de Esquina movement.
+Today’s episode explores Brazilian music, from the 50s to present, from Sao Paulo, Rio de Janeiro, Recife, Santa Catarina and multiple genre from Samba, Jazz, Bossa Nova, Funk, Rock, MPB (Música popular brasileira) to different movements like Manguebeat movement or Clube de Esquina movement.
 Cameron Worsley is joining me for this exciting trip around drums and percussions.
 
 
