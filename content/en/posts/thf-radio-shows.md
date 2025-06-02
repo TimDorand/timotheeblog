@@ -16,6 +16,31 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 ## Tracklist
 
+### Brazilian drums - June 1st 2025
+
+Today’s episode explores Brazilian music, from the 50s to present, from Sao Paulo, Rio de Janeiro, Recife, Santa Catarina and multiple genre from Samba, Jazz, Bossa Nova, Funk, Rock, MBP to different movements like Manguebeat movement or Clube de Esquina movement.
+Cameron Worsley is joining me for this exciting trip around drums and percussions.
+
+
+| #  | Track Title                  | Artist                            |
+|----|------------------------------|-----------------------------------|
+| 1  | Infinito                     | Tamba Trio                        |
+| 2  | Corcovado                    | Tamba Trio                        |
+| 3  | Brazil                       | Antônio Carlos Jobim             |
+| 4  | Cidade Vazia                 | Milton Banana Trio                |
+| 5  | Flor de Lis                  | Milton Banana Trio                |
+| 6  | São Jorge                    | Juçara Marçal e Kiko Dinucci     |
+| 7  | Tudo Que Você Podia Ser      | Milton Nascimento & Lô Borges     |
+| 8  | Adelita                      | Jorge Ben Jor                     |
+| 9  | Ritmo Do Mundo               | Airto Moreira                     |
+| 10 | Rios, Pontes e Overdrives    | Chico Science                     |
+| 11 | Maracatu Atômico            | Chico Science & Nação Zumbi       |
+| 12 | Banho de Lua                 | Celly Campello                    |
+| 13 | Celebration Suite            | Airto Moreira                     |
+| 14 | Onda                         | Guaxe                             |
+| 15 | Lembranças Que Guardei       | Juçara Marçal Fernando Catatau    |
+| 16 | Maracuja                     | Tapioca                           |
+
 ### Sacred Drums & Percussions - May 4th 2025
 
 Today's episode explores sacred drums and percussions from various traditions. We'll listen to spiritual and meditative pieces featuring artists like Gabrielle Roth & The Mirrors, Hearn Gadbois, and others who blend traditional percussion with contemporary expressions.

@@ -19,6 +19,30 @@ La radio se décrit comme une communauté basé sur l'ancien aéroport Tempelhof
 
 ## Tracklist
 
+### Brazilian drums - June 1st 2025
+
+L'épisode d'aujourd'hui explore la musique brésilienne des années 50 à nos jours, de São Paulo, Rio de Janeiro, Recife, Santa Catarina et de multiples genres allant de la Samba, du Jazz, de la Bossa Nova, du Funk, du Rock, de la MPB jusqu'aux différents mouvements comme le Manguebeat ou le Clube da Esquina.
+Cameron Worsley me rejoint pour ce voyage passionnant autour des tambours et des percussions.
+
+
+| #  | Track Title                  | Artist                            |
+|----|------------------------------|-----------------------------------|
+| 1  | Infinito                     | Tamba Trio                        |
+| 2  | Corcovado                    | Tamba Trio                        |
+| 3  | Brazil                       | Antônio Carlos Jobim             |
+| 4  | Cidade Vazia                 | Milton Banana Trio                |
+| 5  | Flor de Lis                  | Milton Banana Trio                |
+| 6  | São Jorge                    | Juçara Marçal e Kiko Dinucci     |
+| 7  | Tudo Que Você Podia Ser      | Milton Nascimento & Lô Borges     |
+| 8  | Adelita                      | Jorge Ben Jor                     |
+| 9  | Ritmo Do Mundo               | Airto Moreira                     |
+| 10 | Rios, Pontes e Overdrives    | Chico Science                     |
+| 11 | Maracatu Atômico            | Chico Science & Nação Zumbi       |
+| 12 | Banho de Lua                 | Celly Campello                    |
+| 13 | Celebration Suite            | Airto Moreira                     |
+| 14 | Onda                         | Guaxe                             |
+| 15 | Lembranças Que Guardei       | Juçara Marçal Fernando Catatau    |
+| 16 | Maracuja                     | Tapioca                           |
 
 ### Sacred Drums & Percussions - May 4th 2025
 
