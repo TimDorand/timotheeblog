@@ -1,7 +1,8 @@
 baseURL: /
 title: Timothée Dorand
+description: Web developer by day, musician by night. Find below my latest projects.
 theme: [PaperMod]
-pagination: 
+pagination:
   paperSize: 5
 
 copyright: Timothée DORAND
@@ -18,7 +19,6 @@ mainsections: ["posts", "papermod"]
 minify:
   disableXML: false
   minifyOutput: false
-
 
 outputs:
   home:
