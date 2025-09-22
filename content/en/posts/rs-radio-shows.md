@@ -6,22 +6,15 @@ draft: false
 categories: Music
 ---
 
-Listen again on my Soundcloud: 
+Listen again on my Soundcloud: mixes that are made for dancefloor.
 
-- An episode on Egregore Radio (Toulouse), a rather fun station playing Ghetto Tech & Hip Hop.
-- A downtempo & ambient episode recorded at Cashmere Radio in Berlin.
-- A show on Foundation.FM UK based on bass and breakbeat music
-- A Ghetto Tech show from the residency at Radio Sofa 
-
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1816410486&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/janastasiamusic" title="Jan Astasia" target="_blank" style="color: #cccccc; text-decoration: none;">Jan Astasia</a> · <a href="https://soundcloud.com/janastasiamusic/sets/radio-shows" title="Radio Shows" target="_blank" style="color: #cccccc; text-decoration: none;">Radio Shows</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1986995652&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/janastasiamusic" title="Jan Astasia" target="_blank" style="color: #cccccc; text-decoration: none;">Jan Astasia</a> · <a href="https://soundcloud.com/janastasiamusic/sets/dancefloor-reports" title="Dancefloor reports" target="_blank" style="color: #cccccc; text-decoration: none;">Dancefloor reports</a></div>
 
 
 
 # Slow shows
 
-Plus en détails, les replays de ma résidence Radio Sofa plutôt donwtempo & ambient.
-
+Calmer, downtempo and ambient music podcasts.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1816409505&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/janastasiamusic" title="Jan Astasia" target="_blank" style="color: #cccccc; text-decoration: none;">Jan Astasia</a> · <a href="https://soundcloud.com/janastasiamusic/sets/slow-shows" title="Slow shows" target="_blank" style="color: #cccccc; text-decoration: none;">Slow shows</a></div>
 

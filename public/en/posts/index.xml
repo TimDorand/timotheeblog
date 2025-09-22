@@ -63,12 +63,11 @@
       <link>/en/posts/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/en/posts/about/</guid>
-      <description>&lt;h2 id=&#34;présentation&#34;&gt;Présentation&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a fullstack web developer, graduated from IIM in 2019 and responsible for the online bank card area at Société Générale until 2024. Since 2024, I&amp;rsquo;ve been part of the development team at &lt;a href=‘https://ninox.com’&gt;Ninox&lt;/a&gt;, a Berlin start-up.
-&lt;br/&gt;
-In my spare time, I manage the website and program my own show for the webradio Radio Sofa and THF Radio.&lt;/p&gt;
-&lt;h3 id=&#34;contenu-du-site&#34;&gt;Contenu du site&lt;/h3&gt;
-&lt;p&gt;On this site, you&amp;rsquo;ll find the progress of my side projects, my reflections and other culinary achievements!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;I am a Senior Web Developer, currently working at Ninox Software—a low-code platform—where I focus on frontend features for both the app and desktop versions.&lt;/p&gt;
+&lt;p&gt;From 2019 to 2024, I worked at Société Générale (French bank) on the mobile app and desktop Bank Card features, serving over 4 million users.&lt;br&gt;
+In 2018–2019, I was a working student in Research and Development at Axway, while studying at IIM (Institut de l&amp;rsquo;Internet et du Multimédia).&lt;/p&gt;
+&lt;p&gt;I also work as a freelance web developer, collaborating with a variety of clients—self-employed professionals, start-ups, and companies—building and maintaining websites and mobile applications.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -3,13 +3,21 @@ title: Timothée Dorand
 draft: false
 ---
 
-## Présentation
+## About
 
-I'm a fullstack web developer, graduated from IIM in 2019 and responsible for the online bank card area at Société Générale until 2024. Since 2024, I've been part of the development team at <a href=‘https://ninox.com’>Ninox</a>, a Berlin start-up.
-<br/>
-In my spare time, I manage the website and program my own show for the webradio Radio Sofa and THF Radio.
+I am a Senior Web Developer, currently working at Ninox Software—a low-code platform—where I focus on frontend features for both the app and desktop versions.
 
+From 2019 to 2024, I worked at Société Générale (French bank) on the mobile app and desktop Bank Card features, serving over 4 million users.  
+In 2018–2019, I was a working student in Research and Development at Axway, while studying at IIM (Institut de l'Internet et du Multimédia).
 
-### Contenu du site
+I also work as a freelance web developer, collaborating with a variety of clients—self-employed professionals, start-ups, and companies—building and maintaining websites and mobile applications.
 
-On this site, you'll find the progress of my side projects, my reflections and other culinary achievements!
+Since 2014, I have developed and managed numerous web projects, coordinating designers, developers, and marketers.
+
+In my spare time, I manage the website and host my own show for the webradios Radio Sofa and THF Radio.
+
+---
+
+### Site Content
+
+On this site, you'll find updates on my side projects, reflections, and some culinary achievements!
