@@ -18,7 +18,7 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 ### Experimental Percussion & Slow Beats/Trance – September 21st 2025
 
-This episode explores experimental percussion and slow, trance-inducing beats, focusing on down-tempo grooves around 90–130 bpm. Expect dreamy dub atmospheres, tape hiss, and hypnotic rhythms.
+This episode explores experimental percussion and slow, trance-inducing beats, focusing on down-tempo grooves. Expect dreamy dub atmospheres, tape hiss, and hypnotic rhythms.
 
 **Featured Artists:**
 - **Heavenchord** – "Просто морской даб" (112 BPM)  
@@ -61,6 +61,8 @@ This episode explores experimental percussion and slow, trance-inducing beats, f
 
 A journey from the roots of dub to the deep, hypnotic sounds of dub techno, featuring a special guest mix by Raphael.
 
+[The Concave Side Of The Spoon w/ Jan Astasia & Raphaël Galano // 19.08.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-raphael-galano-190825?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 **Tracklist Highlights:**
 
 **Ambient Dub**
@@ -95,11 +97,71 @@ A journey from the roots of dub to the deep, hypnotic sounds of dub techno, feat
 - Basic Channel
 - Monolake
 
+### African Drums & Congo Rhythms – June 25th 2025 (with Davy)
+
+This special episode with Davy is a journey through the history, geography, and influence of African drums, focusing on the Congo region and its musical diaspora.
+
+This show is a celebration of the Congo’s deep rhythmic heritage, its influence across Africa and the world, and the ongoing innovation of African percussion. From the golden age of rumba and soukous to modern electronic and afro-punk fusions, the episode highlights both the roots and the future of African drums. Special attention is given to the role of women, the impact of colonial histories, and the creative resilience of artists who continue to shape global music.
+
+[The Concave Side Of The Spoon w/ Jan Astasia & David Mottram // 20.06.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-david-mottram-200625?in=thfradio/sets/the-concave-side-of-the-spoon)
+
+
+#### Context & History
+
+- **Geography:**  
+  The Congo region is split between two countries: the Democratic Republic of Congo (Congo-Kinshasa, ex-Zaire, Belgian colony) and the Republic of Congo (Congo-Brazzaville, French colony). The capitals, Kinshasa and Brazzaville, sit across from each other on the Congo River, making them the world’s closest capitals.
+- **Cultural & Musical Roots:**  
+  Despite shared ethnic groups and river, each country developed distinct musical identities due to their colonial histories and economic differences.  
+  The DRC is famed for its mineral wealth and musical innovation, while Congo-Brazzaville is known for oil and vibrant urban culture.
+- **Musical Evolution:**  
+  - **1940s–60s:** The birth and golden age of Congolese rumba, with artists like Wendo Kolosoy, Joseph Kabasele (Grand Kallé), African Jazz, and OK Jazz (Franco Luambo, Vicky Longomba).
+  - **1970s–90s:** Big bands (Zaïko, Stukas), the rise of soukous, and political changes affecting music scenes.
+  - **Modern Era:** Contemporary artists like Fally Ipupa and Ferre Gola continue to innovate, while genres like soukous, ndombolo, and electronic fusions thrive.
+
+#### Influences & Connections
+
+- **Pan-African & Global:**  
+  Congolese music has influenced and been influenced by Benga (Kenya), Champeta (Colombia), and funk, jazz, and electronic music worldwide.
+- **Women in Tradition:**  
+  *Stella Chiweshe* broke gender barriers as Africa’s most famous female mbira player, blending Zimbabwean tradition with global sounds.
+- **Percussion Power:**  
+  *Les Tambours de Brazza* (Congo-Brazzaville) blend traditional ngoma drums with modern instruments, representing the region’s rhythmic diversity.
+- **Highlife & Afrobeat:**  
+  *Ebo Taylor* (Ghana) and *Oghene Kologbo* (Nigeria) show the cross-pollination of West African highlife, afrobeat, and Congolese rumba.
+
+#### Featured Tracks & Artists
+
+| #  | Track/Artist                                      | Notes                                                                                   |
+|----|---------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 1  | Stella Chiweshe – Kachembere                      | Zimbabwean mbira legend, broke gender barriers                                          |
+| 2  | Les Tambours de Brazza – Kele                     | Choreographed percussion ensemble from Congo-Brazzaville                                |
+| 3  | Ebo Taylor – Dofo Nnye Ekyir                      | Ghanaian highlife pioneer                                                               |
+| 4  | Amara Touré – Temedy (feat. Ensemble Black & White)| Guinean percussionist, pan-African collaborations                                       |
+| 5  | Ekonda Musicians – Généalogie De La Walé (Rumba Rules Edit) | Modern rumba from Kinshasa, featured in the film "Rumba Rules"                          |
+| 6  | Manu Dibango – New Bell                           | Cameroonian saxophonist, fused jazz, funk, and African rhythms                          |
+| 7  | Oghene Kologbo & Afrobeat Academy – Remember Fela Anikulapo Kuti | Nigerian guitar legend, Fela Kuti collaborator                                          |
+| 8  | Sofrito Specials – Christina Lover (Sofrito edit) | Afro-disco collective bridging African and Caribbean influences                         |
+| 9  | The Ogyatanaa Show Band – Disco Africa            | Ghanaian disco and funk                                                                 |
+| 10 | Voilaaa – On te l'avait dit                       | French afro-disco project with African and Caribbean influences                         |
+| 11 | African Vibration – Hinde                         | Kenyan electronic soul, 1980s                                                           |
+| 12 | Les mamans du Congo & Rrobin – Sala sala          | Modern Congolese women’s percussion and vocals [YouTube](https://www.youtube.com/watch?v=hHcr1RdlI9M) |
+| 13 | Tshegue – Muanapoto                               | Paris-based duo, Kinshasa roots, afro-punk/tribal techno                                |
+| 14 | Jo Tongo – Sa Discossa                            | Cameroonian bassist, Paris disco scene                                                  |
+| 15 | Franco Luambo, Tabu Ley Rochereau, Fally Ipupa, Ferre Gola | Rumba and soukous legends from DRC                                                      |
+| 16 | Zazou, Bikaye & Cy1 – Noir et Blanc               | 1983 Congolese/French electronic fusion, still futuristic                              |
+| 17 | Jean-Marie Bolangassa – Brazzaville Percussions   | Blends traditional Congolese rhythms with modern electronics                            |
+| 18 | Atamina – Sychophantic Friends                    | Ghanaian Kologo Power scene, stripped-down, hypnotic riffs                              |
+| 19 | African Head Charge – Latin Temperament           | UK-based psychedelic dub ensemble with African roots                                    |
+
+
 
 ### Brazilian drums - June 1st 2025
 
 Today’s episode explores Brazilian music, from the 50s to present, from Sao Paulo, Rio de Janeiro, Recife, Santa Catarina and multiple genre from Samba, Jazz, Bossa Nova, Funk, Rock, MPB (Música popular brasileira) to different movements like Manguebeat movement or Clube de Esquina movement.
 Cameron Worsley is joining me for this exciting trip around drums and percussions.
+
+[The Concave Side Of The Spoon w/ Jan Astasia & Cameron Worsley // 01.06.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-cameron-worsley-010625?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 
 
 | #  | Track Title                  | Artist                            |
@@ -126,6 +188,9 @@ Cameron Worsley is joining me for this exciting trip around drums and percussion
 Today's episode explores sacred drums and percussions from various traditions. We'll listen to spiritual and meditative pieces featuring artists like Gabrielle Roth & The Mirrors, Hearn Gadbois, and others who blend traditional percussion with contemporary expressions.
 They all inspire me because of the energy of their music. I'm really passionnate about how the simple rhythms can really create this groove and make you dance.
 Here's a brief introduction to the artists featured in this selection. 
+
+[The Concave Side Of The Spoon w/ Jan Astasia // 04.05.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-040525?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 
 - Hearn Gadbois is a master percussionist known for his work with sacred and meditative music. He specializes in Middle Eastern and North African frame drums, bringing ancient rhythmic traditions into contemporary spiritual practice.
 
@@ -174,6 +239,8 @@ We will first have a look a jazz pioneers like Art Blakey, Louie Bellson, Gene K
 
 In the second part of the show, we'll explore how it influenced the Drum and Bass of Ornette Hawkins, Amon Tobin, Earl Grey, Calibre and many more.
 
+[The Concave Side Of The Spoon w/ Jan Astasia // 06.04.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-060425?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 
 | #  | Track Title                          | Artist                                |
 |----|--------------------------------------|---------------------------------------|
@@ -217,6 +284,9 @@ In the second part of the show, we'll explore how it influenced the Drum and Bas
 
 Today's episode is inspired by the carnaval season and the percussions of Brazil and Guadeloupe.
 We'll start by exploring percussions in Dub and experimental music, and willl then journey into the interesting world of Mulsimgauze, percussionnist from Martinique Jonaz Joslen, a carnaval group "à Po" from Guadeloupe "Klé la", and a Julio "Chocolate" Algendones a Peruvian percusionnist.
+
+[The Concave Side Of The Spoon w/ Jan Astasia // 09.03.25](https://soundcloud.com/thfradio/the-concave-side-the-spoon-w-jan-astasia-090325?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 
 A brief description of the artists played in this mix:
 - Steve Reich American composer best known as a pioneer of minimal music in the mid to late 1960s
@@ -272,6 +342,9 @@ We'll start with some artists from Jakarta and New Guinea, but also music from a
 Then, we'll get into to the rhythms of salsa and cumbia, featuring percussionists from Cuba, Puerto Rico, Colombia and the US.
 Finally, we'll glide into the modern beats of electronic music from Miami, Zambia, and Paris.
 
+[The Concave Side Of The Spoon w/ Jan Astasia // 09.02.25](https://soundcloud.com/thfradio/the-concave-side-the-spoon-w-jan-astasia-090225?in=thfradio/sets/the-concave-side-of-the-spoon)
+
+
 
 | #  | Track Title                          | Artist                                                                                     |
 |----|--------------------------------------|--------------------------------------------------------------------------------------------|
@@ -304,6 +377,7 @@ Finally, we'll glide into the modern beats of electronic music from Miami, Zambi
 | 27 | Chalo gwe (Msaigwa)                  | Wagogo (Tanzania)                                                                          |
 
 
+[THF Presents: New Residents w/ Jan Astasia // 07.12.2024](https://soundcloud.com/thfradio/thf-presents-new-residents-w-jan-astasia-07122024?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 ---- 
 

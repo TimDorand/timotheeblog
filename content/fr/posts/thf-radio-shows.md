@@ -98,6 +98,8 @@ Un voyage des racines du dub jusqu’aux sons profonds et hypnotiques du dub tec
 - Substance & Vainqueur
 - Basic Channel
 - Monolake
+
+
 ### Brazilian drums - June 1st 2025
 
 L'épisode d'aujourd'hui explore la musique brésilienne des années 50 à nos jours, de São Paulo, Rio de Janeiro, Recife, Santa Catarina et de multiples genres allant de la Samba, du Jazz, de la Bossa Nova, du Funk, du Rock, de la MPB (Música popular brasileira) jusqu'aux différents mouvements comme le Manguebeat ou le Clube da Esquina.
@@ -122,6 +124,62 @@ Cameron Worsley me rejoint pour ce voyage passionnant autour des tambours et des
 | 14 | Onda                         | Guaxe                             |
 | 15 | Lembranças Que Guardei       | Juçara Marçal Fernando Catatau    |
 | 16 | Maracuja                     | Tapioca                           |
+
+
+### Tambours africains & rythmes du Congo – 25 juin 2025 (avec Davy)
+
+Cet épisode spécial avec Davy est un voyage à travers l’histoire, la géographie et l’influence des tambours africains, en se concentrant sur la région du Congo et sa diaspora musicale.
+
+Cette émission célèbre la richesse rythmique du Congo, son influence à travers l’Afrique et le monde, ainsi que l’innovation continue des percussions africaines. De l’âge d’or de la rumba et du soukous aux fusions électroniques et afro-punk modernes, l’épisode met en lumière à la fois les racines et l’avenir des tambours africains. Un accent particulier est mis sur le rôle des femmes, l’impact des histoires coloniales et la résilience créative des artistes qui continuent de façonner la musique mondiale.
+
+[The Concave Side Of The Spoon w/ Jan Astasia & David Mottram // 20.06.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-david-mottram-200625?in=thfradio/sets/the-concave-side-of-the-spoon)
+
+#### Contexte & Histoire
+
+- **Géographie :**  
+  La région du Congo est partagée entre deux pays : la République Démocratique du Congo (Congo-Kinshasa, ex-Zaïre, colonie belge) et la République du Congo (Congo-Brazzaville, colonie française). Les capitales, Kinshasa et Brazzaville, se font face de part et d’autre du fleuve Congo, ce qui en fait les capitales les plus proches du monde.
+- **Racines culturelles & musicales :**  
+  Malgré des groupes ethniques et un fleuve communs, chaque pays a développé une identité musicale distincte, influencée par son histoire coloniale et ses différences économiques.  
+  La RDC est reconnue pour sa richesse minière et son innovation musicale, tandis que le Congo-Brazzaville est marqué par le pétrole et une culture urbaine dynamique.
+- **Évolution musicale :**  
+  - **Années 1940–60 :** Naissance et âge d’or de la rumba congolaise, avec des artistes comme Wendo Kolosoy, Joseph Kabasele (Grand Kallé), African Jazz, et OK Jazz (Franco Luambo, Vicky Longomba).
+  - **Années 1970–90 :** Big bands (Zaïko, Stukas), essor du soukous, et bouleversements politiques.
+  - **Époque contemporaine :** Des artistes comme Fally Ipupa et Ferre Gola innovent encore, tandis que soukous, ndombolo et fusions électroniques prospèrent.
+
+#### Influences & Connexions
+
+- **Pan-africain & global :**  
+  La musique congolaise a influencé et a été influencée par le Benga (Kenya), la Champeta (Colombie), le funk, le jazz et la musique électronique à travers le monde.
+- **Femmes et tradition :**  
+  *Stella Chiweshe* a brisé les barrières de genre en devenant la joueuse de mbira la plus célèbre d’Afrique, mêlant tradition zimbabwéenne et sons globaux.
+- **Puissance des percussions :**  
+  *Les Tambours de Brazza* (Congo-Brazzaville) mélangent les tambours ngoma traditionnels à des instruments modernes, illustrant la diversité rythmique de la région.
+- **Highlife & Afrobeat :**  
+  *Ebo Taylor* (Ghana) et *Oghene Kologbo* (Nigeria) montrent la fertilisation croisée entre le highlife ouest-africain, l’afrobeat et la rumba congolaise.
+
+#### Morceaux & artistes présentés
+
+| #  | Morceau/Artiste                                      | Notes                                                                                   |
+|----|------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 1  | Stella Chiweshe – Kachembere                         | Légende du mbira zimbabwéen, pionnière féminine                                         |
+| 2  | Les Tambours de Brazza – Kele                        | Ensemble de percussions chorégraphiées du Congo-Brazzaville                             |
+| 3  | Ebo Taylor – Dofo Nnye Ekyir                         | Pionnier du highlife ghanéen                                                            |
+| 4  | Amara Touré – Temedy (feat. Ensemble Black & White)  | Percussionniste guinéen, collaborations panafricaines                                   |
+| 5  | Ekonda Musicians – Généalogie De La Walé (Rumba Rules Edit) | Rumba moderne de Kinshasa, bande-son du film "Rumba Rules"                              |
+| 6  | Manu Dibango – New Bell                              | Saxophoniste camerounais, fusion jazz, funk et rythmes africains                        |
+| 7  | Oghene Kologbo & Afrobeat Academy – Remember Fela Anikulapo Kuti | Légende nigériane de la guitare, collaborateur de Fela Kuti                             |
+| 8  | Sofrito Specials – Christina Lover (Sofrito edit)    | Collectif afro-disco reliant Afrique et Caraïbes                                        |
+| 9  | The Ogyatanaa Show Band – Disco Africa               | Disco et funk ghanéens                                                                  |
+| 10 | Voilaaa – On te l'avait dit                          | Projet afro-disco français aux influences africaines et caribéennes                     |
+| 11 | African Vibration – Hinde                            | Soul électronique kényane, années 1980                                                  |
+| 12 | Les mamans du Congo & Rrobin – Sala sala             | Percussions et voix féminines congolaises modernes [YouTube](https://www.youtube.com/watch?v=hHcr1RdlI9M) |
+| 13 | Tshegue – Muanapoto                                  | Duo parisien, racines à Kinshasa, afro-punk/techno tribale                              |
+| 14 | Jo Tongo – Sa Discossa                               | Bassiste camerounais, scène disco parisienne                                             |
+| 15 | Franco Luambo, Tabu Ley Rochereau, Fally Ipupa, Ferre Gola | Légendes de la rumba et du soukous de RDC                                               |
+| 16 | Zazou, Bikaye & Cy1 – Noir et Blanc                  | Fusion électronique franco-congolaise de 1983, toujours futuriste                       |
+| 17 | Jean-Marie Bolangassa – Brazzaville Percussions      | Mélange rythmes congolais traditionnels et électronique moderne                         |
+| 18 | Atamina – Sychophantic Friends                       | Scène Kologo Power du Ghana, riffs hypnotiques dépouillés                               |
+| 19 | African Head Charge – Latin Temperament              | Ensemble dub psychédélique britannique aux racines africaines                           |
 
 ### Sacred Drums & Percussions - May 4th 2025
 
