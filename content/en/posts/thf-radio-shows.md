@@ -20,6 +20,9 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 This episode explores experimental percussion and slow, trance-inducing beats, focusing on down-tempo grooves. Expect dreamy dub atmospheres, tape hiss, and hypnotic rhythms.
 
+[The Concave Side Of The Spoon w/ Jan Astasia // 21.09.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-210925)
+
+
 **Featured Artists:**
 - **Heavenchord** – "Просто морской даб" (112 BPM)  
   Russian producer Arthur Galstyan, known for his classic dub techno with heavy chords and tape hiss, blending psychedelic and experimental sound synthesis.
