@@ -16,6 +16,86 @@ The radio station describes itself as a community based at the former Tempelhofe
 
 ## Tracklist
 
+### Experimental Percussion & Slow Beats/Trance – September 21st 2025
+
+This episode explores experimental percussion and slow, trance-inducing beats, focusing on down-tempo grooves around 90–130 bpm. Expect dreamy dub atmospheres, tape hiss, and hypnotic rhythms.
+
+**Featured Artists:**
+- **Heavenchord** – "Просто морской даб" (112 BPM)  
+  Russian producer Arthur Galstyan, known for his classic dub techno with heavy chords and tape hiss, blending psychedelic and experimental sound synthesis.
+- **Padmasana** – "Transition" (105 BPM)  
+  A space ambient dub project by Gio Makyo and David Hikari, incorporating traditional Balinese and Japanese sounds for trance-inducing electronic music.
+- **Alien D** – "Liquid Nails" (105 BPM)  
+  NY-based Dan Creahan’s project, focusing on dubbed-out breakwork and groove-focused productions.
+- **The Ullulators** – "Simply Conscious" (136/68 BPM, slow)  
+  UK experimental dub and global music ensemble, pioneers of the UK’s free festival movement.
+- **Moin** – "I Don't Know Where to Look" (133.9 BPM)  
+  London-based project with Joe Andrews, Tom Halstead, and percussionist Valentina Magaletti, blending experimental rock and percussion.
+- **Tolouse Low Trax (Detlef Weinrich)** – "Demo 1" (95 BPM), "Light Space (Remix)" (97 BPM)  
+  Paris/Düsseldorf-based producer, known for experimental dance music and dubby textures.
+- **Bufiman** – "Ntndo Pitch" (98 BPM)  
+  Jan Schulte from Düsseldorf, producing odd styles of dance music under various aliases.
+- **jobfit** – "Pan Mug Break In" (90 BPM)  
+  Naarm/Ngunnawal country (Australia) producer.
+- **Montel Palmer** – "Monopoly" (102 BPM)  
+  Cologne-based trio creating captivating dub soundscapes.
+- **B.Rupp** – "2 O'Clock And The Time" (102 BPM)
+- **Bocksrucker** – "Mephisto's Offer" (110 BPM)  
+  Berlin/Austria, balancing experimental dance music and obscure sound worlds.
+- **Will Hofbauer & Sangre Voss** – "Total Flush" (110 BPM)
+- **Stenze Quo** – "Untitled 3" (176 BPM)
+- **Conna Haraway** – "Cortisol (with Sensational)"
+- **Ghost Warrior** – "Nameless Streets" (170 BPM)
+- **Vinyl Speed Adjust** – "Spill the beans" (126 BPM)  
+  Romanian duo exploring minimal house and techno.
+- **Efdemin** – "America (Terrence Dixon Minimal Detroit Mix)" (126 BPM)  
+  Detroit minimal techno legend Terrence Dixon remixes Efdemin.
+- **Wychwood Du – Al Wootton**  
+  UK producer known for minimal, dub-influenced techno and psychedelic percussion.
+- **Rupert Clervaux & Beatrice Dillon** – "IX"  
+  Experimental musicians from Mallorca/London, blending percussion and electronics.
+
+---
+
+### Dub Roots to Dub Techno with Raphael – August 19th 2025
+
+A journey from the roots of dub to the deep, hypnotic sounds of dub techno, featuring a special guest mix by Raphael.
+
+**Tracklist Highlights:**
+
+**Ambient Dub**
+- Luss (Switzerland) – 2025
+- Warmth
+- Intrusion – 2014
+
+**Dub Roots**
+- Ghost Dubs – 2024
+- Aaron Carl – 2008
+- Altone – 2024
+- Another Channel – 2018
+- Dialog – 2024
+- Pulshar – 2009
+- Beat Pharmacy – 2008
+- cv313
+- Rhythm & Sound – 2012
+- Masis Meas Remix – 2019
+
+**Dub House**
+- Paul St Hilaire ft. Rhauder, Rene Lo, Tikiman – 2003–2020
+- Takuya Morita
+- PFL – 2015
+- Frenk Dublin – 2018–2023
+
+**Dub Techno**
+- Maurizio – 2021
+- Moreon – 2015
+- Pacou
+- Sterac
+- Substance & Vainqueur
+- Basic Channel
+- Monolake
+
+
 ### Brazilian drums - June 1st 2025
 
 Today’s episode explores Brazilian music, from the 50s to present, from Sao Paulo, Rio de Janeiro, Recife, Santa Catarina and multiple genre from Samba, Jazz, Bossa Nova, Funk, Rock, MPB (Música popular brasileira) to different movements like Manguebeat movement or Clube de Esquina movement.

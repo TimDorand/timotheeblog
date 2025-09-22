@@ -5,7 +5,7 @@ This is the code of my personnal website. I'm using the library Hugo (JS).
 # Push updates and pull them
 locally 
 ```
-hugo -D && git add . && git commit -m "update march 25" && git push origin main
+hugo -D && git add . && git commit -m "update sept 25" && git push origin main
 
 ```
 

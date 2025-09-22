@@ -19,6 +19,85 @@ La radio se décrit comme une communauté basé sur l'ancien aéroport Tempelhof
 
 ## Tracklist
 
+### Percussions expérimentales & rythmes lents/trance – 21 septembre 2025
+
+Cet épisode explore les percussions expérimentales et les rythmes lents, propices à la transe, en se concentrant sur des grooves down-tempo autour de 90–130 bpm. Attendez-vous à des atmosphères dub oniriques, du souffle de bande et des rythmes hypnotiques.
+
+**Artistes présentés :**
+- **Heavenchord** – "Просто морской даб" (112 BPM)  
+  Producteur russe Arthur Galstyan, connu pour son dub techno classique aux accords lourds et au souffle de bande, mêlant synthèse sonore psychédélique et expérimentale.
+- **Padmasana** – "Transition" (105 BPM)  
+  Projet ambient dub spatial de Gio Makyo et David Hikari, incorporant des sons traditionnels balinais et japonais pour une musique électronique propice à la transe.
+- **Alien D** – "Liquid Nails" (105 BPM)  
+  Projet new-yorkais de Dan Creahan, axé sur des breakbeats dub et des productions groove.
+- **The Ullulators** – "Simply Conscious" (136/68 BPM, lent)  
+  Ensemble britannique de dub expérimental et musiques du monde, pionniers du mouvement des festivals libres au Royaume-Uni.
+- **Moin** – "I Don't Know Where to Look" (133,9 BPM)  
+  Projet londonien avec Joe Andrews, Tom Halstead et la percussionniste Valentina Magaletti, mêlant rock expérimental et percussions.
+- **DJ OUSSAMA** – "BETA MALE LOVES" (126 BPM)
+- **Tolouse Low Trax (Detlef Weinrich)** – "Demo 1" (95 BPM), "Light Space (Remix)" (97 BPM)  
+  Producteur basé à Paris/Düsseldorf, connu pour sa musique dance expérimentale et ses textures dub.
+- **Bufiman** – "Ntndo Pitch" (98 BPM)  
+  Jan Schulte de Düsseldorf, produisant différents styles de dance music sous divers alias.
+- **jobfit** – "Pan Mug Break In" (90 BPM)  
+  Producteur basé en Australie (Naarm/Ngunnawal country).
+- **Montel Palmer** – "Monopoly" (102 BPM)  
+  Trio de Cologne créant des paysages sonores dub captivants.
+- **B.Rupp** – "2 O'Clock And The Time" (102 BPM)
+- **Bocksrucker** – "Mephisto's Offer" (110 BPM)  
+  Berlin/Autriche, entre dance music contemporaine et univers sonores obscurs.
+- **Will Hofbauer & Sangre Voss** – "Total Flush" (110 BPM)
+- **Stenze Quo** – "Untitled 3" (176 BPM)
+- **Conna Haraway** – "Cortisol (with Sensational)"
+- **Ghost Warrior** – "Nameless Streets" (170 BPM)
+- **Vinyl Speed Adjust** – "Spill the beans" (126 BPM)  
+  Duo roumain explorant les frontières de la house et de la techno minimale.
+- **Efdemin** – "America (Terrence Dixon Minimal Detroit Mix)" (126 BPM)  
+  Remix par la légende de la techno minimale de Detroit, Terrence Dixon.
+- **Wychwood Du – Al Wootton**  
+  Producteur britannique reconnu pour sa techno minimale, influencée par le dub et les percussions psychédéliques.
+- **Rupert Clervaux & Beatrice Dillon** – "IX"  
+  Musiciens expérimentaux de Majorque/Londres, mêlant percussions et électronique.
+
+---
+
+### Des racines du dub au dub techno avec Raphael – 19 août 2025
+
+Un voyage des racines du dub jusqu’aux sons profonds et hypnotiques du dub techno, avec un mix spécial invité par Raphael.
+
+**Extraits de la tracklist :**
+
+**Ambient Dub**
+- Luss (Suisse) – 2025
+- Warmth
+- Intrusion – 2014
+
+**Dub Roots**
+- Ghost Dubs – 2024
+- Aaron Carl – 2008
+- Altone – 2024
+- Another Channel – 2018
+- Dialog – 2024
+- Pulshar – 2009
+- Beat Pharmacy – 2008
+- cv313
+- Rhythm & Sound – 2012
+- Masis Meas Remix – 2019
+
+**Dub House**
+- Paul St Hilaire ft. Rhauder, Rene Lo, Tikiman – 2003–2020
+- Takuya Morita
+- PFL – 2015
+- Frenk Dublin – 2018–2023
+
+**Dub Techno**
+- Maurizio – 2021
+- Moreon – 2015
+- Pacou
+- Sterac
+- Substance & Vainqueur
+- Basic Channel
+- Monolake
 ### Brazilian drums - June 1st 2025
 
 L'épisode d'aujourd'hui explore la musique brésilienne des années 50 à nos jours, de São Paulo, Rio de Janeiro, Recife, Santa Catarina et de multiples genres allant de la Samba, du Jazz, de la Bossa Nova, du Funk, du Rock, de la MPB (Música popular brasileira) jusqu'aux différents mouvements comme le Manguebeat ou le Clube da Esquina.
