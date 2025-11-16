@@ -87,11 +87,6 @@ Nathan returned to New Zealand in the early 2000s.
 Artist: Can Oral (also known as Khan). Origin of Name: The artist's apartment number, 4E, in the East Village, NYC
 History: He started using the alias in the 1990s while producing music in New York and it's often used for his downtempo and electro material.
 Born in Frankfurt am Main to a Finnish mother and Turkish father, he was raised in Germany and now lives in Berlin. From 1992 to 2002 he lived in New York City and was the owner of the Temple Records shop in the East Village and the associated label, Temple Records N.Y.C. Inc. In 2008 he founded the I'm Single record label. He is the brother of Cem Oral.
-Tracks
-Give me more
-Don't fuck with nails
-Khan - Somnambulist (Dr. Caligari)
-
 
 **Ian Pooley**
 Ian Pooley (born Ian Pinnekamp, 1973) is a German DJ and record producer known for his distinctive house and tech-house sound, often infused with Brazilian influences. Active since the early days of house music in Europe, he has consistently shaped the underground scene with authentic, genre-spanning productions that incorporate elements of jazz, soul, and Krautrock.
