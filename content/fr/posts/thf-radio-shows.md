@@ -28,7 +28,7 @@ This episode explores the slow & balearic house music from the early 2000s.
 
 **Tracklist**
 
-Tracklist
+### Tracklist
 (Intro)
 Mr Fingers (Larry Heard) - Can you Feel it 
 
@@ -66,18 +66,18 @@ Central - Livet
 Kimara Lovelace - Misery (Lil Louis Extended Club & Harmony Mix)
 
 
-Featured artists
-- Phil Asher as Restless Soul and Phlash 3000
+#### Featured artists
+**Phil Asher as Restless Soul and Phlash 3000**
 Phil Asher (British DJ, producer, label owner. Born: 1966 in London, England, UK. Died: 22 January 2021 in Brighton, England, UK (aged 55).) & Luke McCarty are the founding members of the Restless Soul production team, which also incorporates producers Modaji (Laws Of Motion label), Taxi Driver (Estereo label), Dalvin August Jnr. and Roy Marsh.
 They also run a label under the same name, Restless Soul.
 
-- Everyday People (GGF Don Remix)
+**Everyday People (GGF Don Remix)**
 Kaidi Tatham
 British multi-instrumentalist, producer/remixer, DJ, and artist.
 Once nicknamed the 'Herbie Hancock of the UK' by DJ Benji B due to his keyboards prowess, Tatham is a true innovator and virtuoso in sound production, as one of the original creators of the West London broken beat sound.
 Orin Walters, Paul Dolby
 
-- Nathan Haines
+**Nathan Haines**
 Saxophone player, born in Auckland, New Zealand on 18 January 1972.
 Part of a renowned jazz family (his father is bassist Kevin Haines and his brother is guitarist Joel Haines), Nathan started his music career in his late teens and early twenties, with Jazz Committee and Freebass (8), before forming his own band, which eventually became The Enforcers (2).
 Signing to Huh Records, his debut solo album Shift Left (1995) is the biggest selling New Zealand-recorded jazz album of all time, released globally on Verve Records.
@@ -86,29 +86,29 @@ He also began DJing, along with recording drum'n'bass for the Metalheadz label, 
 Nathan returned to New Zealand in the early 2000s.
 
 
-- Khan (Khan of Finland, 4E, Khan)
+**Khan (Khan of Finland, 4E, Khan)**
 Artist: Can Oral (also known as Khan). Origin of Name: The artist's apartment number, 4E, in the East Village, NYC
 History: He started using the alias in the 1990s while producing music in New York and it's often used for his downtempo and electro material.
 Born in Frankfurt am Main to a Finnish mother and Turkish father, he was raised in Germany and now lives in Berlin. From 1992 to 2002 he lived in New York City and was the owner of the Temple Records shop in the East Village and the associated label, Temple Records N.Y.C. Inc. In 2008 he founded the I'm Single record label. He is the brother of Cem Oral.
 Tracks
-
-
 Give me more
 Don't fuck with nails
 Khan - Somnambulist (Dr. Caligari)
 
 
-- Ian Pooley
+**Ian Pooley**
 Ian Pooley (born Ian Pinnekamp, 1973) is a German DJ and record producer known for his distinctive house and tech-house sound, often infused with Brazilian influences. Active since the early days of house music in Europe, he has consistently shaped the underground scene with authentic, genre-spanning productions that incorporate elements of jazz, soul, and Krautrock.
 Pooley grew up immersed in music, inspired by Chicago and Detroit sounds, which set him apart from his peers. His acclaimed albums Meridian and Since Then are considered milestones in house music. He is among the few artists to remix Daft Punk and receive a remix in return. Over the years, he has released numerous tracks and remixes on influential labels, while primarily working through his own imprint, Pooledmusic.
 His artistry is marked by subtlety and precision, evident in projects like his Silvershower alias, which explored deep and minimal techno. As a respected DJ, Pooley has performed worldwide at major clubs and festivals, blending classics with fresh tracks in dynamic sets. After 17 years, he is preparing to launch a new live show, offering another glimpse into his evolving musical world.
-- DJ Gregory
+
+**DJ Gregory**
 Real name: Grégory Darsa. alias Point G
 Style: Unusual within French house—never fully fitting into French Touch, deep house, Latin, Afro, or UK Funky, yet influential in all.
 Background: Started in Paris in the 90s, influenced by New York house, and became a key figure in the French Touch scene.
 He is an “accidental hero” of house, respected across scenes but never confined to one.
 His work on UK Funky (e.g., “Don’t Panic”) and collaborations with artists from various backgrounds highlight his versatility.
-- DJ Mehdi
+
+**DJ Mehdi**
 DJ Mehdi (Mehdi Favéris-Essadi) was a pivotal figure in the French electronic music scene, known for his innovative production, eclectic taste, and role in shaping the global sound of French house and hip-hop. He was part of the Ed Banger Records collective and worked closely with artists like Justice, Cassius, and Daft Punk. Tragically, he passed away in 2011, but his influence endures.
 Started as a hip-hop DJ and producer, working with 113, Oxmo Puccino, and others.
 Produced beats for Kanye West, Jay-Z, and Nas, bridging French and American hip-hop.French Touch & Ed Banger Records Co-founded Ed Banger with Pedro Winter (Busy P). Produced and co-wrote tracks for Justice, including their breakthrough album † (Cross).His remixes (e.g., Cassius – “Sound of Violence” (DJ Mehdi Remix)) became anthems.
@@ -116,21 +116,19 @@ Solo Work & Signature Sound “Signatune” (2006): A funky, bass-heavy instrume
 “Lucky Boy” (2006): A collaboration with Feadz, blending electro, funk, and hip-hop.
 “Pocket Piano” (2009): A melodic, synth-driven track, later remixed by Boys Noize.DJ Mehdi was a bridge between hip-hop and electronic music, known for his technical skill, creativity, and ability to blend genres.
 
-- Simon
+**Simon**
 Real Name:Simon Pearson
 Profile:aka Simon Pearson, Electronic / House artist, has some releases on for example Future Dreams
 
-- Acupressure
+**Acupressure**
 Alex Swift UK Producer, composer, programmer, bassist and keyboardist.
 
-- Ski Oakenfull
+**Ski Oakenfull**
 Dominic "Ski" Oakenfull is an English music producer, keyboard player, and educator. His nickname "Ski" was given by his bandmates in The K-Creative who named him after the dance music artist Adamski. In 2019 Ski interviewed Adamski for a deconstruction video for pointblank Music School
 
-Jazzanova German DJ and producer collective in electronic fusion music from Berlin, Hamburg, and Munich.
-
+**Jazzanova** 
+German DJ and producer collective in electronic fusion music from Berlin, Hamburg, and Munich.
 Started as a DJ team in 1995 and moved on to production in 1996. In 1998, they founded a collective (a formless group of musicians, producers and DJ's) as well as running and operating a label, both under the name Sonar Kollektiv. 
-
-
 
 
 ### Percussions expérimentales & rythmes lents/trance – 21 septembre 2025
