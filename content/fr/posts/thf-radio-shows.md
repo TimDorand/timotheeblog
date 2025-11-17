@@ -8,11 +8,11 @@ categories: Music
 
 Je suis Jan Astasia, membre de Radio Sofa, une webradio basée à Paris. Je vous présente ma nouvelle émission sur THF. Je voulais explorer la musique avec des percussions, jouer avec la musique traditionnelle et comment ils influencent la musique électronique d'aujourd'hui. 
 
-
 Ma résidence "The Concave Side of the Spoon", Percussions Folk leur influences sur des musiques contemporaines expérimentales chez THF Radio. 
 
-https://www.thfradio.de 
-La radio se décrit comme une communauté basé sur l'ancien aéroport Tempelhofer Feld, dans le studio Torhaus.
+https://www.thfradio.de/en/shows/concave-side
+
+THF Radio est une communauté radio qui émet depuis l'ancien aéroport Tempelhof à Berlin. Insta: @thfradio
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1982756824&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thfradio" title="THF Radio" target="_blank" style="color: #cccccc; text-decoration: none;">THF Radio</a> · <a href="https://soundcloud.com/thfradio/sets/the-concave-side-of-the-spoon" title="The Concave Side Of The Spoon w/ Jan Astasia" target="_blank" style="color: #cccccc; text-decoration: none;">The Concave Side Of The Spoon w/ Jan Astasia</a></div>
 
@@ -29,41 +29,41 @@ This episode explores the slow & balearic house music from the early 2000s.
 **Tracklist**
 
 ### Tracklist
-(Intro)
-Mr Fingers (Larry Heard) - Can you Feel it 
+#### Intro
+- Mr Fingers (Larry Heard) - Can you Feel it 
 
-(Balearic phase, 110bpm)
-Groove Armada - Dusk You & Me
-Bullitnuts - Because It Does
-Ian Pooley - 900 Degrees
-Nathan Haines -  Sound Travels
-Doctor Rockit - Café De Flore
-Ski Oakenfull - Fifths (Jazzanova 6 Sickth mix)
-DJ Mehdi - Busy Being Born
+####  Balearic phase, 110bpm
+- Groove Armada - Dusk You & Me
+- Bullitnuts - Because It Does
+- Ian Pooley - 900 Degrees
+- Nathan Haines -  Sound Travels
+- Doctor Rockit - Café De Flore
+- Ski Oakenfull - Fifths (Jazzanova 6 Sickth mix)
+- DJ Mehdi - Busy Being Born
 
-(Funk inspiration & House music)
-Everyday people - I Can't Sleep (GGF Don Mix) 
-Nitin Sawhney - Eastern Eyes
-Phlash 3000 (Phil Asher) - High Breed
-Swirl People - Call Bert 
-Brett Johnson & Dave Barker - It Was You (Brett's Space Dub)
+####  Funk inspiration & House music
+- Everyday people - I Can't Sleep (GGF Don Mix) 
+- Nitin Sawhney - Eastern Eyes
+- Phlash 3000 (Phil Asher) - High Breed
+- Swirl People - Call Bert 
+- Brett Johnson & Dave Barker - It Was You (Brett's Space Dub)
 
-(Hip-hop inspiration)
-4E (Khan Of Finland) - Don't Fuck With Nails
-Ian Pooley Feat. Marcos Valle - Sentimento 
-MF DOOM - Saffron (instrumental for Doomsday) 
+####  Hip-hop inspiration
+- 4E (Khan Of Finland) - Don't Fuck With Nails
+- Ian Pooley Feat. Marcos Valle - Sentimento 
+- MF DOOM - Saffron (instrumental for Doomsday) 
 
-(Dance groove and disco inspiration - 120bpm)
-Hi Mount & Man-Dee - Impresionante
-Africanism & DJ Gregory - Block Party
-C.K - Ember
-Ian Pooley - Samo Iluzija
-Acupressure - We Are the Future
-Dj Medhi - Wee Bounce
-Aleksandir - iso200
-Silicone Soul - Gimme Danger
-Central - Livet
-Kimara Lovelace - Misery (Lil Louis Extended Club & Harmony Mix)
+####  Dance groove and disco inspiration - 120bpm
+- Hi Mount & Man-Dee - Impresionante
+- Africanism & DJ Gregory - Block Party
+- C.K - Ember
+- Ian Pooley - Samo Iluzija
+- Acupressure - We Are the Future
+- Dj Medhi - Wee Bounce
+- Aleksandir - iso200
+- Silicone Soul - Gimme Danger
+- Central - Livet
+- Kimara Lovelace - Misery (Lil Louis Extended Club & Harmony Mix)
 
 
 #### Featured artists
