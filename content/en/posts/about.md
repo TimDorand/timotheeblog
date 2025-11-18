@@ -18,6 +18,17 @@ In my spare time, I manage the website and host my own show for the webradios Ra
 
 ---
 
+### Contact
+
+To reach me, use this tag on any social media (Telegram, Instagram, Soundcloud, Facebook) `@janastasiamusic`
+
+https://www.instagram.com/janastasiamusic/
+https://soundcloud.com/janastasiamusic
+https://www.facebook.com/janastasiamusic/
+https://facebook.com/janastasiamusic/about/
+
+---
+
 ### Site Content
 
 On this site, you'll find updates on my side projects, reflections, and some culinary achievements!

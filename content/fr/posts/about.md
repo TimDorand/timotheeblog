@@ -19,6 +19,17 @@ Pendant mon temps libre, je m'occupe du site et anime ma propre émission sur le
 
 ---
 
+### Contact
+
+Pour me joindre, merci d'utiliser cet identifiant sur les différents réseaux sociaux (Telegram, Instagram, Soundcloud, Facebook) `@janastasiamusic`
+
+https://www.instagram.com/janastasiamusic/
+https://soundcloud.com/janastasiamusic
+https://www.facebook.com/janastasiamusic/
+https://facebook.com/janastasiamusic/about/
+
+---
+
 ### Contenu du site
 
 Vous trouverez sur ce site l'avancement de mes side projects, mes réflexions et quelques réalisations culinaires !
