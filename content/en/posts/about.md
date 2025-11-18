@@ -22,11 +22,10 @@ In my spare time, I manage the website and host my own show for the webradios Ra
 
 To reach me, use this tag on any social media `@janastasiamusic`
 
-- [Telegram](https://t.me/janastasiamusic)
-- [Instagram](https://www.instagram.com/janastasiamusic/)
-- [Soundcloud](https://soundcloud.com/janastasiamusic)
-- [Facebook](https://www.facebook.com/janastasiamusic/)
-- [Paypal](https://paypal.me/timdorand)
+- [Telegram](https://t.me/janastasiamusic) to message me 
+- [Instagram](https://www.instagram.com/janastasiamusic/) to follow my artist updates
+- [Soundcloud](https://soundcloud.com/janastasiamusic) to listen to my latest mixes
+- [Paypal](https://paypal.me/timdorand) 💸
 
 
 ---

@@ -23,11 +23,10 @@ Pendant mon temps libre, je m'occupe du site et anime ma propre émission sur le
 
 Pour me joindre, merci d'utiliser cet identifiant sur les différents réseaux sociaux `@janastasiamusic`
 
-- [Telegram](https://t.me/janastasiamusic)
-- [Instagram](https://www.instagram.com/janastasiamusic/)
-- [Soundcloud](https://soundcloud.com/janastasiamusic)
-- [Facebook](https://www.facebook.com/janastasiamusic/)
-- [Paypal](https://paypal.me/timdorand)
+- [Telegram](https://t.me/janastasiamusic) pour m'envoyer un message
+- [Instagram](https://www.instagram.com/janastasiamusic/) pour suivres mon compte artiste
+- [Soundcloud](https://soundcloud.com/janastasiamusic) pour écouter mes derniers mix
+- [Paypal](https://paypal.me/timdorand) 💸
 
 ---
 
