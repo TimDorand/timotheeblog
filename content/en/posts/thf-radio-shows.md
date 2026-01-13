@@ -25,22 +25,22 @@ In the last part, I'm playing more recent jazz and electronic releases (2025), s
 [The Concave Side Of The Spoon w/ Jan Astasia // 11.01.26](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-110126?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 **Tracklist**
-Archie Shepp - Conversations 1; The Introduction
-Chicago Underground Quartet – Four in the Evening
-Chicago Underground Trio – Othello
-Chicago Underground Trio – Warm Marsh
-Chicago Underground Duo – Access And Enlightenment
-Chicago Underground Trio – O Balanco
-Chicago Underground Trio - Possible Cube
-Isotope 217 - The Unstable Molecule - Kryptonite Smokes The Red Line
-Isotope 217 - The Unstable Molecule - Beneath the Undertow
-Keith Jarrett Trio - Bye Bye Blackbird
-Kenny Wheeler, Lee Konitz, Bill Frisell, Dave Holland – Unti
-Tortoise - Touch - 09 - Oganesson
-GoGo Penguin – Naga Ghost
-Jun Miyake – Lilies of the Valley
-Cujo - Cat People
-Keith Jarrett Trio – It Could Happen To You (Live Tokyo '96)
+- Archie Shepp - Conversations 1; The Introduction  
+- Chicago Underground Quartet – Four in the Evening  
+- Chicago Underground Trio – Othello  
+- Chicago Underground Trio – Warm Marsh  
+- Chicago Underground Duo – Access And Enlightenment  
+- Chicago Underground Trio – O Balanco  
+- Chicago Underground Trio - Possible Cube  
+- Isotope 217 - The Unstable Molecule - Kryptonite Smokes The Red Line  
+- Isotope 217 - The Unstable Molecule - Beneath the Undertow  
+- Keith Jarrett Trio - Bye Bye Blackbird  
+- Kenny Wheeler, Lee Konitz, Bill Frisell, Dave Holland – Unti  
+- Tortoise - Touch - 09 - Oganesson  
+- GoGo Penguin – Naga Ghost  
+- Jun Miyake – Lilies of the Valley  
+- Cujo - Cat People  
+- Keith Jarrett Trio – It Could Happen To You (Live Tokyo '96)
 
 
 ### Funk & electronic music - December 15th 2025
@@ -49,17 +49,17 @@ Lydon Lewis & I (Jan Astasia) are exploring "traditionnal" Funk music and how th
 
 [The Concave Side Of The Spoon w/ Jan Astasia & Lyndon Lewis // 15.12.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-lyndon-lewis-151225?in=thfradio/sets/the-concave-side-of-the-spoon)
 
-**Tracklist (partial)**
-The Brothers Johnson - "Q"
-Volker Meitz - Mayibuye I (Africa Edit)
-Lee Ritenour - Road Runner
-Lee Ritenour - Rio Funk
-Houseparty - Dangerous Love
-Mooloodje (Etienne De Crécy) - Respect The Magic
-Needs (Germany)
-Roy Davis Jr - Michael
-Dj Medhi & Zdar - Naja
-Case Woo - Subliminal
+**Tracklist (partiel)**  
+- The Brothers Johnson - "Q"  
+- Volker Meitz - Mayibuye I (Africa Edit)  
+- Lee Ritenour - Road Runner  
+- Lee Ritenour - Rio Funk  
+- Houseparty - Dangerous Love  
+- Mooloodje (Etienne De Crécy) - Respect The Magic  
+- Needs (Germany)  
+- Roy Davis Jr - Michael  
+- Dj Medhi & Zdar - Naja  
+- Case Woo - Subliminal
 
 
 ### Slow House from the early 2000 - November 16st 2025
