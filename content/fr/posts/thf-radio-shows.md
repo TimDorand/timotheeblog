@@ -19,6 +19,47 @@ THF Radio est une communauté radio qui émet depuis l'ancien aéroport Tempelho
 
 ## Description des épisodes
 Les plus récents en premier.
+### Avant-Garde Jazz de Chicago au jazz contemporain - 11 janvier 2026
+
+Dans cet épisode, je plonge dans l'univers fascinant du jazz et du jazz d'avant‑garde né à Chicago. Dans ce mouvement, les artistes improvisent et explorent les idées du free jazz. Ce que j'apprécie chez les artistes présentés, c'est l'utilisation de sons électroniques ou de rythmes et techniques de batterie très spécifiques, parfois proches du smooth jazz, très agréables à l'écoute. Dans la dernière partie, je diffuse des sorties jazz et électroniques plus récentes (2025), montrant comment elles ont été influencées par leurs aînés.
+
+[The Concave Side Of The Spoon w/ Jan Astasia // 11.01.26](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-110126?in=thfradio/sets/the-concave-side-of-the-spoon)
+
+**Tracklist**
+Archie Shepp - Conversations 1; The Introduction  
+Chicago Underground Quartet – Four in the Evening  
+Chicago Underground Trio – Othello  
+Chicago Underground Trio – Warm Marsh  
+Chicago Underground Duo – Access And Enlightenment  
+Chicago Underground Trio – O Balanco  
+Chicago Underground Trio - Possible Cube  
+Isotope 217 - The Unstable Molecule - Kryptonite Smokes The Red Line  
+Isotope 217 - The Unstable Molecule - Beneath the Undertow  
+Keith Jarrett Trio - Bye Bye Blackbird  
+Kenny Wheeler, Lee Konitz, Bill Frisell, Dave Holland – Unti  
+Tortoise - Touch - 09 - Oganesson  
+GoGo Penguin – Naga Ghost  
+Jun Miyake – Lilies of the Valley  
+Cujo - Cat People  
+Keith Jarrett Trio – It Could Happen To You (Live Tokyo '96)
+
+### Funk & musique électronique - 15 décembre 2025
+
+Lydon Lewis et moi (Jan Astasia) explorons le funk « traditionnel » et la manière dont la section rythmique a inspiré la musique électronique moderne.
+
+[The Concave Side Of The Spoon w/ Jan Astasia & Lyndon Lewis // 15.12.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-lyndon-lewis-151225?in=thfradio/sets/the-concave-side-of-the-spoon)
+
+**Tracklist (partiel)**  
+The Brothers Johnson - "Q"  
+Volker Meitz - Mayibuye I (Africa Edit)  
+Lee Ritenour - Road Runner  
+Lee Ritenour - Rio Funk  
+Houseparty - Dangerous Love  
+Mooloodje (Etienne De Crécy) - Respect The Magic  
+Needs (Germany)  
+Roy Davis Jr - Michael  
+Dj Medhi & Zdar - Naja  
+Case Woo - Subliminal
 
 ### Slow House from the early 2000 - November 16st 2025
 
@@ -28,7 +69,6 @@ This episode explores the slow & balearic house music from the early 2000s.
 
 **Tracklist**
 
-### Tracklist
 #### Intro
 - Mr Fingers (Larry Heard) - Can you Feel it 
 
