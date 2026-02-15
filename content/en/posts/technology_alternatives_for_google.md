@@ -45,7 +45,7 @@ The best-known is "Lockdown," which works on browsers and apps (iOS and Android)
 
 ## Email
 
-To finish with Google, I deleted all my emails from Gmail and switched to an OVH mailbox with the Spark client. Firefox Relay is also very convinient not to share your public email to all the website you signup to.
+To finish with Google, I deleted all my emails from Gmail and switched to an OVH mailbox with the Spark client. Firefox Relay is also very convenient not to share your public email to all the website you sign up to.
 
 ## Maps
 
