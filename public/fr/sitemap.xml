@@ -106,6 +106,19 @@
                 href="/fr/posts/desintox_numerique/"
                 />
   </url><url>
+    <loc>/fr/categories/technology/</loc>
+    <lastmod>2022-06-25T11:16:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/technology/"
+                />
+  </url><url>
     <loc>/fr/posts/technology_alternatives_for_google/</loc>
     <lastmod>2021-11-01T16:49:27+01:00</lastmod>
     <xhtml:link
@@ -117,19 +130,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/posts/technology_alternatives_for_google/"
-                />
-  </url><url>
-    <loc>/fr/categories/technology/</loc>
-    <lastmod>2021-11-01T16:49:27+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/technology/"
                 />
   </url><url>
     <loc>/fr/posts/rs_sofafrica_series/</loc>
