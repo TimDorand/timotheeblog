@@ -19,6 +19,48 @@ THF Radio est une communauté radio qui émet depuis l'ancien aéroport Tempelho
 
 ## Description des épisodes
 Les plus récents en premier.
+
+### Musique Honky Tonk, Country et Blues avec Cameron Worsley – 8 février 2026
+
+Dans cet épisode, Cameron Worsley et moi explorons les racines de la musique Country, du Honky Tonk et leur histoire. Nous avons également joué et découvert l'autre facette de cette histoire en écoutant du blues. Embarquez pour ce récit chronologique et brillant, agrémenté de petites anecdotes tout au long du chemin !
+
+[The Concave Side Of The Spoon w/ Jan Astasia & Cameron Worsley // 08.02.26 ](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon)
+
+**Tracklist**
+1. Honky Tonkin' – Hank Williams
+2. Pledging My Love – Johnny Ace
+3. It Wasn't God Who Made Honky Tonk Angels – Kitty Wells
+4. Honky Tonk, Pt. 1 – Bill Doggett
+5. Drifting Texas Sand – Webb Pierce
+6. Amazing Grace – Jesse Fuller
+7. Jambalaya – Hank Williams
+8. Tic Toc – Lee Allen
+9. Hillbilly Fever (#2) – (& Red Foley)
+10. 16.88 – Hayden Thompson
+11. The Night Hank Williams Came to Town – Johnny Cash
+12. Cold, Cold Feeling – Albert Collins
+13. Where The Steel Guitars Ring – Steve Hammond
+14. Talk To Me Baby – Elmore James
+15. In Spite Of Ourselves – John Prine
+16. Prayer Changes Things – Sister Sarah James
+17. Boom Boom – John Lee Hooker
+18. Crosscut Saw – Albert King
+19. Gijima Mifana – George Sibanda
+20. My Baby – Nappy Brown
+21. Sun Sinking Low – Mr. Airplane Man
+22. Pass the Booze – Ernest Tubb
+23. Wine Country Girl – Tommy And The Ohs
+24. Always Late With Your Kisses – Lefty Frizzell
+25. Black Magic Country – Paul Benjaman Band
+26. Lorena – Waylon Jennings
+27. Living the Dream – Sturgill Simpson
+28. The Love That Faded – Bob Dylan
+29. How Many Times – Norah Jones
+30. Walking Blues – Pigmeat Jarrett
+31. Leda Ray – Good Ole' Armadillo Killer
+32. Pay For That Money – The Defibulators
+33. West Texas Wind – Seldom Scene
+
 ### Avant-Garde Jazz de Chicago au jazz contemporain - 11 janvier 2026
 
 Dans cet épisode, je plonge dans l'univers fascinant du jazz et du jazz d'avant‑garde né à Chicago. Dans ce mouvement, les artistes improvisent et explorent les idées du free jazz. Ce que j'apprécie chez les artistes présentés, c'est l'utilisation de sons électroniques ou de rythmes et techniques de batterie très spécifiques, parfois proches du smooth jazz, très agréables à l'écoute. Dans la dernière partie, je diffuse des sorties jazz et électroniques plus récentes (2025), montrant comment elles ont été influencées par leurs aînés.

@@ -17,6 +17,47 @@ THF Radio is a community radio broadcasting from the former Tempelhof Airport in
 ## Episodes description
 Order from the most recent to the oldest.
 
+### Honky Tonk, country and blues music with Cameron Worsley - February 8th 2026
+
+In this episode, Cameron Worsley and I explore the roots of Country music, the Honk Tonk music and its history. We aslo played and explore the other side of the history by playing some blues music. Hop-on to this chronological and brilliant story, with little anectodes along the way! 
+
+[The Concave Side Of The Spoon w/ Jan Astasia & Cameron Worsley // 08.02.26 ](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon)
+
+**Tracklist**
+1. Honky Tonkin' – Hank Williams
+2. Pledging My Love – Johnny Ace
+3. It Wasn't God Who Made Honky Tonk Angels – Kitty Wells
+4. Honky Tonk, Pt. 1 – Bill Doggett
+5. Drifting Texas Sand – Webb Pierce
+6. Amazing Grace – Jesse Fuller
+7. Jambalaya – Hank Williams
+8. Tic Toc – Lee Allen
+9. Hillbilly Fever (#2) – (& Red Foley)
+10. 16.88 – Hayden Thompson
+11. The Night Hank Williams Came to Town – Johnny Cash
+12. Cold, Cold Feeling – Albert Collins
+13. Where The Steel Guitars Ring – Steve Hammond
+14. Talk To Me Baby – Elmore James
+15. In Spite Of Ourselves – John Prine
+16. Prayer Changes Things – Sister Sarah James
+17. Boom Boom – John Lee Hooker
+18. Crosscut Saw – Albert King
+19. Gijima Mifana – George Sibanda
+20. My Baby – Nappy Brown
+21. Sun Sinking Low – Mr. Airplane Man
+22. Pass the Booze – Ernest Tubb
+23. Wine Country Girl – Tommy And The Ohs
+24. Always Late With Your Kisses – Lefty Frizzell
+25. Black Magic Country – Paul Benjaman Band
+26. Lorena – Waylon Jennings
+27. Living the Dream – Sturgill Simpson
+28. The Love That Faded – Bob Dylan
+29. How Many Times – Norah Jones
+30. Walking Blues – Pigmeat Jarrett
+31. Leda Ray – Good Ole' Armadillo Killer
+32. Pay For That Money – The Defibulators
+33. West Texas Wind – Seldom Scene
+
 ### Avant-Garde Jazz from Chicago to Contemporary Jazz - January 11th 2026
 
 In this episode I dive into the amazing world of Jazz and avant-garde jazz born in Chicago. In this movement, the artists are improvising and playing with free jazz ideas and experiment with it. What I really like about the artists I featured, is the use of electronic sounds or very specific rythms and drums technique, sounding like smooth jazz, very pleasing to listen to.
@@ -25,23 +66,23 @@ In the last part, I'm playing more recent jazz and electronic releases (2025), s
 [The Concave Side Of The Spoon w/ Jan Astasia // 11.01.26](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-110126?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 **Tracklist**
-- Archie Shepp - Conversations 1; The Introduction  
-- Chicago Underground Quartet – Four in the Evening  
-- Chicago Underground Trio – Othello  
-- Chicago Underground Trio – Warm Marsh  
-- Chicago Underground Duo – Access And Enlightenment  
-- Chicago Underground Trio – O Balanco  
-- Chicago Underground Trio - Possible Cube  
-- Isotope 217 - The Unstable Molecule - Kryptonite Smokes The Red Line  
-- Isotope 217 - The Unstable Molecule - Beneath the Undertow  
-- Keith Jarrett Trio - Bye Bye Blackbird  
-- Kenny Wheeler, Lee Konitz, Bill Frisell, Dave Holland – Unti  
-- Tortoise - Touch - 09 - Oganesson  
-- GoGo Penguin – Naga Ghost  
-- Jun Miyake – Lilies of the Valley  
-- Cujo - Cat People  
-- Keith Jarrett Trio – It Could Happen To You (Live Tokyo '96)
-
+#### Jazz & Experimental
+1. Archie Shepp - Conversations 1; The Introduction
+2. Chicago Underground Quartet – Four in the Evening
+3. Chicago Underground Trio – Othello
+4. Chicago Underground Trio – Warm Marsh
+5. Chicago Underground Duo – Access And Enlightenment
+6. Chicago Underground Trio – O Balanco
+7. Chicago Underground Trio - Possible Cube
+8. Isotope 217 - The Unstable Molecule - Kryptonite Smokes The Red Line
+9. Isotope 217 - The Unstable Molecule - Beneath the Undertow
+10. Keith Jarrett Trio - Bye Bye Blackbird
+11. Kenny Wheeler, Lee Konitz, Bill Frisell, Dave Holland – Unti
+12. Tortoise - Touch - 09 - Oganesson
+13. GoGo Penguin – Naga Ghost
+14. Jun Miyake – Lilies of the Valley
+15. Cujo - Cat People
+16. Keith Jarrett Trio – It Could Happen To You (Live Tokyo '96)
 
 ### Funk & electronic music - December 15th 2025
 
@@ -49,18 +90,19 @@ Lydon Lewis & I (Jan Astasia) are exploring "traditionnal" Funk music and how th
 
 [The Concave Side Of The Spoon w/ Jan Astasia & Lyndon Lewis // 15.12.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-lyndon-lewis-151225?in=thfradio/sets/the-concave-side-of-the-spoon)
 
-**Tracklist (partiel)**  
-- The Brothers Johnson - "Q"  
-- Volker Meitz - Mayibuye I (Africa Edit)  
-- Lee Ritenour - Road Runner  
-- Lee Ritenour - Rio Funk  
-- Houseparty - Dangerous Love  
-- Mooloodje (Etienne De Crécy) - Respect The Magic  
-- Needs (Germany)  
-- Roy Davis Jr - Michael  
-- Dj Medhi & Zdar - Naja  
-- Case Woo - Subliminal
+**Tracklist (partial)**  
+#### Funk, House & Electronic
 
+1. The Brothers Johnson - "Q"
+2. Volker Meitz - Mayibuye I (Africa Edit)
+3. Lee Ritenour - Road Runner
+4. Lee Ritenour - Rio Funk
+5. Houseparty - Dangerous Love
+6. Mooloodje (Etienne De Crécy) - Respect The Magic
+7. Needs (Germany)
+8. Roy Davis Jr - Michael
+9. Dj Medhi & Zdar - Naja
+10. Case Woo - Subliminal
 
 ### Slow House from the early 2000 - November 16st 2025
 
