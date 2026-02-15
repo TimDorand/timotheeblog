@@ -31,13 +31,6 @@
       <description>My artistic musical project includes several radio programmes. Jan Astasia is a DJ alias, mixing bass music and experimental electronica. Sometimes slow, sometimes fast, designed for active listening, not necessarily for the club.</description>
     </item>
     <item>
-      <title>Desintox numerique</title>
-      <link>/fr/posts/desintox_numerique/</link>
-      <pubDate>Sat, 25 Jun 2022 11:16:13 +0200</pubDate>
-      <guid>/fr/posts/desintox_numerique/</guid>
-      <description>Comment retrouver sa capacité à découvrir le monde? Stimuler sa créativité. Prendre conscience du monde autour de soit? </description>
-    </item>
-    <item>
       <title>Les alternatives à Google</title>
       <link>/fr/posts/technology_alternatives_for_google/</link>
       <pubDate>Mon, 01 Nov 2021 16:49:27 +0100</pubDate>
@@ -57,6 +50,20 @@
       <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate>
       <guid>/fr/posts/cooking_pain_maison/</guid>
       <description>Je délivre mes secrets de la conception du pain maison sans machine à pain !</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/fr/posts/desintox_numerique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/fr/posts/desintox_numerique/</guid>
+      <description>&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;Détox numerique&amp;rdquo;
+description: &amp;ldquo;Comment retrouver sa capacité à découvrir le monde, stimuler sa créativité et prendre conscience de ce qui nous entoure ?&amp;rdquo;
+date: 2022-06-25T11:16:13+02:00
+categories: Technology
+draft: false&lt;/h2&gt;
+&lt;h2 id=&#34;la-norme-être-disponible-partout-et-à-toute-heure&#34;&gt;La norme: être disponible partout et à toute heure&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Mis à jour le 15 févier 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Avez-vous déjà eu la sensation de ne plus pouvoir réfléchir à cause d&amp;rsquo;un trop plein d&amp;rsquo;informations ? C&amp;rsquo;est ce qui m&amp;rsquo;arrivait régulièrement à la fin de l&amp;rsquo;année 2021. Les messageries instantanées créaient une sur-sollicitation mentale qui aboutissait à un débordement d&amp;rsquo;idées. Je devenais alors incapable de me concentrer, de faire la part des choses et de clairement identifier les différentes tâches que j&amp;rsquo;avais à faire afin de les prioriser.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timothée Dorand</title>
