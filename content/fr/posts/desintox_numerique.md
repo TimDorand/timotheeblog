@@ -2,10 +2,9 @@
 title: "Détox numerique"
 description: "Comment retrouver sa capacité à découvrir le monde, stimuler sa créativité et prendre conscience de ce qui nous entoure ?"
 date: 2022-06-25T11:16:13+02:00
-categories: Technology
 draft: false
+categories: Technology
 ---
-
 ## La norme: être disponible partout et à toute heure
 
 *Mis à jour le 15 févier 2026*
