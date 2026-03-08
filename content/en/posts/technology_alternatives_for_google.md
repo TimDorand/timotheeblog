@@ -1,12 +1,12 @@
 ---
 title: "The Google Alternatives"
 description: "How I stopped using Google"
-date: 2021-11-01T16:49:27+01:00 
+date: 2021-11-01T16:49:27+01:00
 draft: false
 categories: Technology
 ---
 
-The GAFA empire is sprawling. These American companies offer ingenious, cutting-edge tools for free. But at what cost?
+The Big Tech empire is sprawling. These American companies offer ingenious, cutting-edge tools for free. But at what cost?
 
 <!--more-->
 
@@ -49,10 +49,27 @@ To finish with Google, I deleted all my emails from Gmail and switched to an OVH
 
 ## Maps
 
-The winner is Here We Go, a fantastic app that lets you generate well-designed offline routes—even for cycling!
+The lucky winner is none other than [Here We Go](https://wego.here.com), a fantastic app that lets you generate well-designed offline itineraries, even for bikes!
 
 ## Calendar
 
-Goodbye Google Calendar. For two years now, I never go anywhere without my pocket calendar and a little pencil.
+Bye bye Google Calendar! Thanks to Synology and its Calendar module, I now have my iCal feed hosted on my NAS. All I need to do is use a client such as the Calendar app on iOS.
 
-To be continued...
+## Instant messaging
+
+WhatsApp, Telegram, Instagram, and Messenger have replaced text messages. Everyone now needs to have all these apps on their smartphone in order to be reachable. At a time when more and more citizens and activists are rising up against the dominance of social media, such as [RASF](https://rasf.eu/?) in Berlin, what alternatives are there to avoid cutting ourselves off completely from loved ones, groups of friends, work colleagues, and associations?
+
+Let me introduce you to [Beeper](https://www.beeper.com/), an app developed by a 13-year-old to make iMessage exchanges compatible between iOS and Android. The app now allows you to connect all the popular messaging services mentioned above in a single inbox. Several options are available: messages can be routed through their servers or be completely self-hosted using open-source modules.
+
+This isn't sponsored content, but honestly, thanks to Beeper, I was able to uninstall Telegram, Instagram, Facebook, and Messenger from my phone. All while still being able to receive and send messages on those platforms.
+
+## Project managment
+
+For the last few years, I've been working on some side projects with associations like THF Radio and Radio Sofa or for some other personal project. Every time we were looking for a tool to centralize all data in one place, manage the project, create automations, etc…
+
+I would like to talk to you about two great software programs that are not part of Big Tech.
+
+[Ninox](https://ninox.com/) is a super flexible tool to manage your projects. I've been using it for personal projects, and I really like the highly customizable interface; the data fields are super rich, and the Ninox scripting is insanely powerful.
+The only downside for the moment is to get to know the scripting language to get the most out of it. But they recently announced a [version 4](https://ninox.com/waitlist), which has an AI assistant, which I'm really looking forward to .
+
+[Airtable](https://airtable.com/) is also great; it comes with the same advantages as Ninox but is a bit less customizable. What is currently amazing is the form and automation. You can really get people outside the company involved in the workflows and processes super easily. Kudos to them for making it so intuitive, interactive, and dynamic.

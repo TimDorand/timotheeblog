@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/fr/categories/</loc>
-    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
+    <lastmod>2026-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,58 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/"
+                />
+  </url><url>
+    <loc>/fr/posts/</loc>
+    <lastmod>2026-01-20T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/"
+                />
+  </url><url>
+    <loc>/fr/categories/solidarity/</loc>
+    <lastmod>2026-01-20T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/solidarity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/solidarity/"
+                />
+  </url><url>
+    <loc>/fr/posts/thf-stick-together/</loc>
+    <lastmod>2026-01-20T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/thf-stick-together/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/thf-stick-together/"
+                />
+  </url><url>
+    <loc>/fr/</loc>
+    <lastmod>2026-01-20T11:10:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
                 />
   </url><url>
     <loc>/fr/posts/making-impact-as-webradio/</loc>
@@ -28,8 +80,11 @@
                 href="/fr/posts/making-impact-as-webradio/"
                 />
   </url><url>
-    <loc>/fr/categories/music/</loc>
+    <loc>/fr/categories/music-solidarity/</loc>
     <lastmod>2025-03-12T11:10:54+01:00</lastmod>
+  </url><url>
+    <loc>/fr/categories/music/</loc>
+    <lastmod>2025-01-20T11:10:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -39,32 +94,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/categories/music/"
-                />
-  </url><url>
-    <loc>/fr/posts/</loc>
-    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts/"
-                />
-  </url><url>
-    <loc>/fr/</loc>
-    <lastmod>2025-03-12T11:10:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
                 />
   </url><url>
     <loc>/fr/posts/thf-radio-shows/</loc>
