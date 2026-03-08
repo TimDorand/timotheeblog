@@ -3,7 +3,7 @@ title: "Making a positive impact on the world with an online radio platform."
 description: "We'll look at examples of impactful projects done by radio stations across the world."
 date: 2025-03-12T11:10:54+01:00
 draft: false
-categories: Music, Solidarity
+categories: ["Music", "Solidarity"]
 ---
 
 Je suis Jan Astasia, membre de Radio Sofa, une webradio basée à Paris et résidente de THF Radio à Berlin. J'ai récemment animé un atelier lors de l'événement de TNP Radio à Amsterdam et je voulais partager ce que j'ai appris.
