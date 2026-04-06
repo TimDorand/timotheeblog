@@ -17,6 +17,34 @@ THF Radio is a community radio broadcasting from the former Tempelhof Airport in
 ## Episodes description
 Order from the most recent to the oldest.
 
+### Krautrock avec Ryan Balmer - 5 avril 2026
+
+In this episode, Ryan Balmer (guide in Berlin) and I explore the beginnings of Krautrock music in post-war Germany. From cosmic ambient sounds to the rhythmic and hypnotic "motorik" kicks of Neu!, we traversed the eras and discovered contemporary music that has been influenced by it.
+
+
+Title - Artist name (not the exact order)
+- Kraftwerk 
+- Daydream - Ash Ra Tempel
+- You Inspired - Me	Phantom Band
+- Cluster & Eno
+- Harmonia 
+- Amon Düül II
+- Moonshake	- Can
+- Movin’ Right Along - CAN
+- Fabrik - Conrad Schnitzler and Wolfgang Seidel-Meissner
+- Breath Deep - Cabaret Voltaire
+- Rastakraut Pasta - Moebius & Plank
+- Die Haut Der Frau -	Pyrolator
+- Das Feuer - Holger Hiller
+- Wieder Ja - Heimat (Teenage Menopause Records)
+- Horizons - Eloy
+- Emphasis - Harald Grosskopf
+- Finger Pies - Anika
+- Garten	- Gudrun Gut
+- Metronomic Underground	- Stereolab
+- Still Foggy	- Minami Deutsch
+
+
 ### Honky Tonk, country and blues music with Cameron Worsley - February 8th 2026
 
 In this episode, Cameron Worsley and I explore the roots of Country music, the Honk Tonk music and its history. We aslo played and explore the other side of the history by playing some blues music. Hop-on to this chronological and brilliant story, with little anectodes along the way! 
