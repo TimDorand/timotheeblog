@@ -4,22 +4,24 @@
     <title>Technology on Timothée Dorand</title>
     <link>/fr/categories/technology/</link>
     <description>Recent content in Technology on Timothée Dorand</description>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>fr</language>
+    <managingEditor>hi@timothee.mozmail.com (Timothée Dorand)</managingEditor>
+    <webMaster>hi@timothee.mozmail.com (Timothée Dorand)</webMaster>
     <copyright>Timothée DORAND</copyright>
     <lastBuildDate>Sat, 25 Jun 2022 11:16:13 +0200</lastBuildDate>
     <atom:link href="/fr/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Détox numerique</title>
       <link>/fr/posts/desintox_numerique/</link>
-      <pubDate>Sat, 25 Jun 2022 11:16:13 +0200</pubDate>
+      <pubDate>Sat, 25 Jun 2022 11:16:13 +0200</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/desintox_numerique/</guid>
       <description>Comment retrouver sa capacité à découvrir le monde, stimuler sa créativité et prendre conscience de ce qui nous entoure ?</description>
     </item>
     <item>
       <title>Les alternatives à Google</title>
       <link>/fr/posts/technology_alternatives_for_google/</link>
-      <pubDate>Mon, 01 Nov 2021 16:49:27 +0100</pubDate>
+      <pubDate>Mon, 01 Nov 2021 16:49:27 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/technology_alternatives_for_google/</guid>
       <description>Comment j&amp;#39;ai arrêté d&amp;#39;utiliser Google</description>
     </item>

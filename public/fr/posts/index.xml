@@ -4,71 +4,73 @@
     <title>Posts on Timothée Dorand</title>
     <link>/fr/posts/</link>
     <description>Recent content in Posts on Timothée Dorand</description>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>fr</language>
+    <managingEditor>hi@timothee.mozmail.com (Timothée Dorand)</managingEditor>
+    <webMaster>hi@timothee.mozmail.com (Timothée Dorand)</webMaster>
     <copyright>Timothée DORAND</copyright>
     <lastBuildDate>Tue, 20 Jan 2026 11:10:54 +0100</lastBuildDate>
     <atom:link href="/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stick Together, une émission de radio sur la solidarité dans la ville</title>
       <link>/fr/posts/thf-stick-together/</link>
-      <pubDate>Tue, 20 Jan 2026 11:10:54 +0100</pubDate>
+      <pubDate>Tue, 20 Jan 2026 11:10:54 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/thf-stick-together/</guid>
       <description>L&amp;#39;objectif principal est de partager des histoires sur la solidarité à Berlin, de donner des exemples simples sur la manière d&amp;#39;aider et d&amp;#39;organiser des activités significatives.</description>
     </item>
     <item>
       <title>Making a positive impact on the world with an online radio platform.</title>
       <link>/fr/posts/making-impact-as-webradio/</link>
-      <pubDate>Wed, 12 Mar 2025 11:10:54 +0100</pubDate>
+      <pubDate>Wed, 12 Mar 2025 11:10:54 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/making-impact-as-webradio/</guid>
       <description>We&amp;#39;ll look at examples of impactful projects done by radio stations across the world.</description>
     </item>
     <item>
       <title>THF Residency: The Concave Side of the Spoon</title>
       <link>/fr/posts/thf-radio-shows/</link>
-      <pubDate>Mon, 20 Jan 2025 11:10:54 +0100</pubDate>
+      <pubDate>Mon, 20 Jan 2025 11:10:54 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/thf-radio-shows/</guid>
       <description>En 2025, je rejoins la radio THF pour une nouvelle résidence</description>
     </item>
     <item>
       <title>Radio Shows : Radio Sofa, Egregore, Cashmere, FondationFM</title>
       <link>/fr/posts/rs-radio-shows/</link>
-      <pubDate>Sat, 20 Jan 2024 11:10:54 +0100</pubDate>
+      <pubDate>Sat, 20 Jan 2024 11:10:54 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/rs-radio-shows/</guid>
       <description>My artistic musical project includes several radio programmes. Jan Astasia is a DJ alias, mixing bass music and experimental electronica. Sometimes slow, sometimes fast, designed for active listening, not necessarily for the club.</description>
     </item>
     <item>
       <title>Détox numerique</title>
       <link>/fr/posts/desintox_numerique/</link>
-      <pubDate>Sat, 25 Jun 2022 11:16:13 +0200</pubDate>
+      <pubDate>Sat, 25 Jun 2022 11:16:13 +0200</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/desintox_numerique/</guid>
       <description>Comment retrouver sa capacité à découvrir le monde, stimuler sa créativité et prendre conscience de ce qui nous entoure ?</description>
     </item>
     <item>
       <title>Les alternatives à Google</title>
       <link>/fr/posts/technology_alternatives_for_google/</link>
-      <pubDate>Mon, 01 Nov 2021 16:49:27 +0100</pubDate>
+      <pubDate>Mon, 01 Nov 2021 16:49:27 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/technology_alternatives_for_google/</guid>
       <description>Comment j&amp;#39;ai arrêté d&amp;#39;utiliser Google</description>
     </item>
     <item>
       <title>Podcasts sur les musiques d&#39;Afrique pour Radio Sofa (Sofafrica)</title>
       <link>/fr/posts/rs_sofafrica_series/</link>
-      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate>
+      <pubDate>Sun, 11 Apr 2021 11:49:27 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/rs_sofafrica_series/</guid>
       <description>Pour ma résidence chez Radio Sofa, j&amp;#39;ai concocté des emissions que j&amp;#39;ai enregistré en direct.</description>
     </item>
     <item>
       <title>Faire son pain maison</title>
       <link>/fr/posts/cooking_pain_maison/</link>
-      <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/cooking_pain_maison/</guid>
       <description>Je délivre mes secrets de la conception du pain maison sans machine à pain !</description>
     </item>
     <item>
       <title>Timothée Dorand</title>
       <link>/fr/posts/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/about/</guid>
       <description>&lt;h2 id=&#34;présentation&#34;&gt;Présentation&lt;/h2&gt;
 &lt;p&gt;Je suis développeur web senior, actuellement chez &lt;a href=&#39;https://ninox.com&#39;&gt;Ninox Software&lt;/a&gt; (plateforme low-code), où je travaille sur les fonctionnalités frontend des applications web et desktop.&lt;/p&gt;

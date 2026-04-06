@@ -52,3 +52,8 @@ taxonomies:
   tag: tags
   series: series
   author: authors
+
+params:
+  author:
+    name: "Timothée Dorand"
+    email: "hi@timothee.mozmail.com"

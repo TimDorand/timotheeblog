@@ -4,8 +4,10 @@
     <title>Tags on Timothée Dorand</title>
     <link>/en/tags/</link>
     <description>Recent content in Tags on Timothée Dorand</description>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>en</language>
+    <managingEditor>hi@timothee.mozmail.com (Timothée Dorand)</managingEditor>
+    <webMaster>hi@timothee.mozmail.com (Timothée Dorand)</webMaster>
     <copyright>Timothée DORAND</copyright>
     <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>

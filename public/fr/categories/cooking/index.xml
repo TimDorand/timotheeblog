@@ -4,15 +4,17 @@
     <title>Cooking on Timothée Dorand</title>
     <link>/fr/categories/cooking/</link>
     <description>Recent content in Cooking on Timothée Dorand</description>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>fr</language>
+    <managingEditor>hi@timothee.mozmail.com (Timothée Dorand)</managingEditor>
+    <webMaster>hi@timothee.mozmail.com (Timothée Dorand)</webMaster>
     <copyright>Timothée DORAND</copyright>
     <lastBuildDate>Tue, 16 Mar 2021 16:49:27 +0100</lastBuildDate>
     <atom:link href="/fr/categories/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Faire son pain maison</title>
       <link>/fr/posts/cooking_pain_maison/</link>
-      <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate>
+      <pubDate>Tue, 16 Mar 2021 16:49:27 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/cooking_pain_maison/</guid>
       <description>Je délivre mes secrets de la conception du pain maison sans machine à pain !</description>
     </item>

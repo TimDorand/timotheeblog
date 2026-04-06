@@ -4,22 +4,24 @@
     <title>Solidarity on Timothée Dorand</title>
     <link>/fr/categories/solidarity/</link>
     <description>Recent content in Solidarity on Timothée Dorand</description>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.157.0</generator>
     <language>fr</language>
+    <managingEditor>hi@timothee.mozmail.com (Timothée Dorand)</managingEditor>
+    <webMaster>hi@timothee.mozmail.com (Timothée Dorand)</webMaster>
     <copyright>Timothée DORAND</copyright>
     <lastBuildDate>Tue, 20 Jan 2026 11:10:54 +0100</lastBuildDate>
     <atom:link href="/fr/categories/solidarity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stick Together, une émission de radio sur la solidarité dans la ville</title>
       <link>/fr/posts/thf-stick-together/</link>
-      <pubDate>Tue, 20 Jan 2026 11:10:54 +0100</pubDate>
+      <pubDate>Tue, 20 Jan 2026 11:10:54 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/thf-stick-together/</guid>
       <description>L&amp;#39;objectif principal est de partager des histoires sur la solidarité à Berlin, de donner des exemples simples sur la manière d&amp;#39;aider et d&amp;#39;organiser des activités significatives.</description>
     </item>
     <item>
       <title>Making a positive impact on the world with an online radio platform.</title>
       <link>/fr/posts/making-impact-as-webradio/</link>
-      <pubDate>Wed, 12 Mar 2025 11:10:54 +0100</pubDate>
+      <pubDate>Wed, 12 Mar 2025 11:10:54 +0100</pubDate><author>hi@timothee.mozmail.com (Timothée Dorand)</author>
       <guid>/fr/posts/making-impact-as-webradio/</guid>
       <description>We&amp;#39;ll look at examples of impactful projects done by radio stations across the world.</description>
     </item>
