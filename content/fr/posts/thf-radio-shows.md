@@ -6,9 +6,9 @@ draft: false
 categories: Music
 ---
 
-Je suis Jan Astasia, membre de Radio Sofa, une webradio basée à Paris. Je vous présente ma nouvelle émission sur THF. Je voulais explorer la musique avec des percussions, jouer avec la musique traditionnelle et comment ils influencent la musique électronique d'aujourd'hui. 
+Je suis Jan Astasia, membre de Radio Sofa, une webradio basée à Paris. Je vous présente ma nouvelle émission sur THF. Je voulais explorer la musique avec des percussions, jouer avec la musique traditionnelle et comment ils influencent la musique électronique d'aujourd'hui.
 
-Ma résidence "The Concave Side of the Spoon", Percussions Folk leur influences sur des musiques contemporaines expérimentales chez THF Radio. 
+Ma résidence "The Concave Side of the Spoon", Percussions Folk leur influences sur des musiques contemporaines expérimentales chez THF Radio.
 
 https://www.thfradio.de/en/shows/concave-side
 
@@ -16,36 +16,186 @@ THF Radio est une communauté radio qui émet depuis l'ancien aéroport Tempelho
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1982756824&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/thfradio" title="THF Radio" target="_blank" style="color: #cccccc; text-decoration: none;">THF Radio</a> · <a href="https://soundcloud.com/thfradio/sets/the-concave-side-of-the-spoon" title="The Concave Side Of The Spoon w/ Jan Astasia" target="_blank" style="color: #cccccc; text-decoration: none;">The Concave Side Of The Spoon w/ Jan Astasia</a></div>
 
-
 ## Description des épisodes
+
 Les plus récents en premier.
+
+### Downtempo Australien – 31 mai 2026
+
+Cet épisode explore la scène électronique underground australienne, où reggae, dub, ambient, folk et jazz se fondent en quelque chose d'unique.
+
+Nous débutons avec **Posm**, un projet free-form inspiré de la brousse australienne, né pendant le confinement par Cousin et ses amis — des improvisations kraut/jazz psychédéliques avec synthétiseurs, guitare, saxophone, flûte, batterie et percussions, le tout enveloppé dans un épais nuage de fumée dubwise.
+
+Nous plongeons ensuite dans l'underground sydnéen, avec des artistes du label **Mad Habitat Recordings** — dont **Tunnel Dancers**, un duo dont le nom vient d'une soirée DIY organisée dans un tunnel sous l'aéroport de Sydney en 2017 — ainsi que **Greville & The Lonely Voices** et les artistes du label **Moonshoe** : **Angus Mills**, **Sanguine** et **Peach**.
+
+Nous explorons ensuite le downtempo, dub et la fusion deep techno avec **Pugilist** (Alex Dickson de Melbourne, parti de la scène dubstep néo-zélandaise avant d'explorer le dub techno et la jungle) et **Cousin** (Jackson Fester de Sydney, maître des basses fréquences). L'épisode se conclut avec des artistes du monde entier partageant le même esprit : **SoulParlor**, **Azu Tiwaline** (Tunisie), **Kodiak** (Lituanie, Cold Tear Records), **Boris Acket & Kaap** (Amsterdam) et **Forest Drive West**.
+
+| #   | Titre                                   | Artiste                      |
+| --- | --------------------------------------- | ---------------------------- |
+| 1   | With the Birds                          | Posm                         |
+| 2   | Pouched                                 | Posm                         |
+| 3   | Time (The Interval)                     | Tunnel Dancers               |
+| 4   | Day Ending In Y                         | Sanguine                     |
+| 5   | Alva                                    | Angus Mills                  |
+| 6   | (Swan)                                  | CHANTSSSS                    |
+| 7   | Introspect Ft. Tamen                    | Pugilist                     |
+| 8   | Toad                                    | Cousin                       |
+| 9   | Sun, Moon, Stars (Navi Mix)             | Greville & The Lonely Voices |
+| 10  | When Dub Comes                          | SoulParlor                   |
+| 11  | Love Is The Way Ft. Prince Morella      | Pugilist & Another Channel   |
+| 12  | Choke                                   | Boris Acket & Kaap           |
+| 13  | Fly in Amber                            | Cousin & Priori              |
+| 14  | Orchid (Mosaic)                         | Kodiak                       |
+| 15  | Misty In Roots                          | Pugilist & Mystik            |
+| 16  | Rummage                                 | Cousin & Priori              |
+| 17  | No Sound (ft. Nikita T)                 | Isla                         |
+| 18  | CCTemple - HomeSeq (Azu Tiwaline Remix) | Azu Tiwaline                 |
+| 19  | Circuit                                 | Forest Drive West            |
+
+**Artistes présentés**
+
+**Posm**  
+Groupe formé pendant le confinement australien par Cousin et ses amis. Des improvisations free-form évoquant le kraut/jazz psychédélique de brousse, avec synthétiseurs, guitare, saxophone, flûte, batterie et percussions — le tout dans un épais nuage de fumée dubwise.
+
+**Cousin**  
+Producteur sydnéen Jackson Fester. Maître des basses fréquences et des atmosphères souterraines, il s'inscrit dans la riche tradition de la culture sound system du sud de l'Australie, puisant dans le dub techno, la deep house et le dubstep britannique et allemand.
+
+**Pugilist**  
+Alex Dickson de Melbourne (alias Lance Uppercut) a débuté dans la scène dubstep néo-zélandaise avant de s'installer à Melbourne pour explorer le dub techno et la jungle.
+
+**Tunnel Dancers**  
+Duo sydnéen du label Mad Habitat Recordings. Leur nom vient d'une soirée DIY organisée dans un tunnel sous l'aéroport de Sydney en 2017.
+
+**Mad Habitat Recordings**  
+Label sydnéen fondé pour soutenir une musique expérimentale et inclassifiable, avec un accent sur les sorties vinyle et les performances live.
+
+**Moonshoe**  
+Label sydnéen présentant des artistes comme Angus Mills, Sanguine et Peach.
+
+**Kodiak**  
+Sur Cold Tear Records — un label lituanien publiant du dub techno, deep techno, ambient et electronica depuis 2010.
+
+**Azu Tiwaline**  
+Productrice tunisienne connue pour son son dub techno.
+
+**Boris Acket & Kaap**  
+Duo amstellodamois créant des paysages sonores hantés et cinématographiques.
+
+---
+
+### Musique mauricienne avec Ash – 3 mai 2026
+
+Cet épisode, enregistré avec Ash, explore le patrimoine musical de l'île Maurice et de l'océan Indien — du Séga et du Maloya traditionnels aux fusions Seggae modernes.
+
+Le Séga, ancré dans les rythmes afro-créoles et chanté en créole mauricien, s'est développé comme une musique de fête puisant dans les influences européennes, africaines et indiennes. Le Maloya, originaire de La Réunion, est né dans les communautés malgaches et africaines réduites en esclavage — un style percussif plus lent, traditionnellement associé au rituel, à la résistance et à l'activisme politique. Le Séga traditionnel mauricien est inscrit sur les listes du patrimoine culturel immatériel de l'UNESCO.
+
+Dans les années 1970, des artistes de La Réunion et de l'île Maurice ont commencé à fusionner les styles insulaires avec le rock psychédélique, le funk et la soul. Kaya a célèbrement combiné le Reggae avec le Séga pour créer le Seggae. L'épisode retrace cette évolution depuis le tambour Ravanne traditionnel jusqu'aux artistes contemporains.
+
+**Tracklist (extrait)**
+
+- MENWAR - Dudu Ami
+- Ti Frère - Anita
+- Cyril Labonne - Alouda Limonade
+- Pop Soul Sega
+- Elida
+- Eliza
+- Django
+- Kaya ek Racinetatane - Seggae Man
+- Kaya - Lam Sacrifice
+- Berger Agathe - Zom Ki Faim (Pena Pu Cuit)
+- Kaya - Ras Kouyon
+- Linzy Backbott - Mo Tangalay
+- Claudio - Ambalaba
+- Blackmen Bluz - Tir Bousson
+- Emlyn - Zoli Lepok
+- Tambour Ravanne Varius – 2008
+- Menwar - Trin la, ann pann
+- Menwar - Tek manaru
+- Alain Peters - Mangé pour le coeur
+- Granmoun Lélé - Zelvoula
+- Caméléon - La Rosée
+- Jean Claude Viadère - Moin La
+- Roland Fatime - Bal Souki Souki
+- Capito - Lélou (1975)
+- Les Stardust - Sega Lenoir
+- Ti l'Afrique - Soul Sock Séga
+- Michel Legris - Tam Tam Mauricien (Version Maloya)
+- Nancy - Olilae Lolo
+- Gary Victor - Pomper
+- Bilygane - Reklam Inn Fini
+
+**Artistes présentés**
+
+**Tambour Ravanne Varius**  
+Leur album de 2008 a revitalisé le tambour Ravanne — instrument reconnu par l'UNESCO — en collaborant avec des percussionnistes internationaux.
+
+**Menwar**  
+Sa chanson _Trin la, ann pann_ est devenue un hymne populaire, souvent chanté lors des réunions de famille, célébrant la culture et la résilience créole mauricienne.
+
+**Alain Peters**  
+_Mangé pour le coeur_ est une ballade Séga émouvante, mettant en valeur la voix profonde de Peters et la portée émotionnelle du genre, ancré dans le patrimoine réunionnais-mauricien.
+
+**Granmoun Lélé**  
+_Zelvoula_ est une chanson Séga classique qui raconte l'histoire d'un pêcheur légendaire, préservant les traditions orales à travers la musique.
+
+**Claudio & son ensemble**  
+Leur hit de 1970 _Belle Rive_ est l'une des premières chansons Séga à obtenir une diffusion radio, contribuant à populariser le genre au-delà des villages côtiers.
+
+**Caméléon**  
+_La Rosée_ est une chanson Séga poétique, souvent jouée lors des mariages, symbolisant la fraîcheur et les nouveaux départs.
+
+**Jean Claude Viadère**  
+_Moin la_ est une pièce Séga introspective, connue pour le style de guitare unique de Viadère et ses paroles contemplatives.
+
+**Roland Fatime**  
+_Bal Souki Souki_ est un titre de danse entraînant, célèbre pour son rythme contagieux et son chœur en appel-réponse, incontournable des fêtes mauriciennes.
+
+**Capito**  
+_Lélou_ (1975) est un classique du Séga, célébré pour sa mélodie entraînante et la présence scénique charismatique de Capito.
+
+**Les Stardust**  
+_Sega Lenoir_ de _Soul Sok Séga_ a fusionné le Séga avec la soul et le funk, ouvrant la voie à un son moderne pour les jeunes générations dans les années 1970.
+
+**Ti l'Afrique**  
+_Soul Sock Séga_ est un album marquant qui mêle rythmes africains et Séga, souvent cité comme un pont entre la musique mauricienne traditionnelle et contemporaine.
+
+**Michel Legris**  
+_Tam Tam Mauricien (Version Maloya)_ est un rare croisement, adaptant le Maloya au Séga mauricien, témoignant des échanges culturels dans l'océan Indien.
+
+**Kaya**  
+Kaya a célèbrement combiné le Reggae avec le Séga pour créer le Seggae, l'un des genres musicaux majeurs de l'île Maurice.
+
+**Bilygane**  
+_Reklam inn fini_ est un titre Séga moderne devenu viral, utilisant des paroles pleines d'humour pour critiquer le consumérisme et la vie moderne à l'île Maurice.
+
+---
 
 ### Krautrock avec Ryan Balmer - 5 avril 2026
 
 Dans cet épisode, Ryan Balmer (guide à Berlin) et moi explorons les début de la musique Krautrock dans une allemagne d'après-guerre. De l'ambient cosmique, aux kicks "motorik" ryhtmiques et hypnotiques de Neu! on a traversé les époques et découvert les musiques contemporaires qui en ont été influencées.
 
 Title - Artist name (not the exact order)
-- Kraftwerk 
+
+- Kraftwerk
 - Daydream - Ash Ra Tempel
-- You Inspired - Me	Phantom Band
+- You Inspired - Me Phantom Band
 - Cluster & Eno
-- Harmonia 
+- Harmonia
 - Amon Düül II
-- Moonshake	- Can
+- Moonshake - Can
 - Movin’ Right Along - CAN
 - Fabrik - Conrad Schnitzler and Wolfgang Seidel-Meissner
 - Breath Deep - Cabaret Voltaire
 - Rastakraut Pasta - Moebius & Plank
-- Die Haut Der Frau -	Pyrolator
+- Die Haut Der Frau - Pyrolator
 - Das Feuer - Holger Hiller
 - Wieder Ja - Heimat (Teenage Menopause Records)
 - Horizons - Eloy
 - Emphasis - Harald Grosskopf
 - Finger Pies - Anika
-- Garten	- Gudrun Gut
-- Metronomic Underground	- Stereolab
-- Still Foggy	- Minami Deutsch
-
+- Garten - Gudrun Gut
+- Metronomic Underground - Stereolab
+- Still Foggy - Minami Deutsch
 
 ### Musique Honky Tonk, Country et Blues avec Cameron Worsley – 8 février 2026
 
@@ -54,6 +204,7 @@ Dans cet épisode, Cameron Worsley et moi explorons les racines de la musique Co
 [The Concave Side Of The Spoon w/ Jan Astasia & Cameron Worsley // 08.02.26 ](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon)
 
 **Tracklist**
+
 1. Honky Tonkin' – Hank Williams
 2. Pledging My Love – Johnny Ace
 3. It Wasn't God Who Made Honky Tonk Angels – Kitty Wells
@@ -95,21 +246,22 @@ Dans cet épisode, je plonge dans l'univers fascinant du jazz et du jazz d'avant
 [The Concave Side Of The Spoon w/ Jan Astasia // 11.01.26](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-110126?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 **Tracklist**
-- Archie Shepp - Conversations 1; The Introduction  
-- Chicago Underground Quartet – Four in the Evening  
-- Chicago Underground Trio – Othello  
-- Chicago Underground Trio – Warm Marsh  
-- Chicago Underground Duo – Access And Enlightenment  
-- Chicago Underground Trio – O Balanco  
-- Chicago Underground Trio - Possible Cube  
-- Isotope 217 - The Unstable Molecule - Kryptonite Smokes The Red Line  
-- Isotope 217 - The Unstable Molecule - Beneath the Undertow  
-- Keith Jarrett Trio - Bye Bye Blackbird  
-- Kenny Wheeler, Lee Konitz, Bill Frisell, Dave Holland – Unti  
-- Tortoise - Touch - 09 - Oganesson  
-- GoGo Penguin – Naga Ghost  
-- Jun Miyake – Lilies of the Valley  
-- Cujo - Cat People  
+
+- Archie Shepp - Conversations 1; The Introduction
+- Chicago Underground Quartet – Four in the Evening
+- Chicago Underground Trio – Othello
+- Chicago Underground Trio – Warm Marsh
+- Chicago Underground Duo – Access And Enlightenment
+- Chicago Underground Trio – O Balanco
+- Chicago Underground Trio - Possible Cube
+- Isotope 217 - The Unstable Molecule - Kryptonite Smokes The Red Line
+- Isotope 217 - The Unstable Molecule - Beneath the Undertow
+- Keith Jarrett Trio - Bye Bye Blackbird
+- Kenny Wheeler, Lee Konitz, Bill Frisell, Dave Holland – Unti
+- Tortoise - Touch - 09 - Oganesson
+- GoGo Penguin – Naga Ghost
+- Jun Miyake – Lilies of the Valley
+- Cujo - Cat People
 - Keith Jarrett Trio – It Could Happen To You (Live Tokyo '96)
 
 ### Funk & musique électronique - 15 décembre 2025
@@ -118,16 +270,17 @@ Lydon Lewis et moi (Jan Astasia) explorons le funk « traditionnel » et la mani
 
 [The Concave Side Of The Spoon w/ Jan Astasia & Lyndon Lewis // 15.12.25](https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-w-jan-astasia-lyndon-lewis-151225?in=thfradio/sets/the-concave-side-of-the-spoon)
 
-**Tracklist (partiel)**  
-- The Brothers Johnson - "Q"  
-- Volker Meitz - Mayibuye I (Africa Edit)  
-- Lee Ritenour - Road Runner  
-- Lee Ritenour - Rio Funk  
-- Houseparty - Dangerous Love  
-- Mooloodje (Etienne De Crécy) - Respect The Magic  
-- Needs (Germany)  
-- Roy Davis Jr - Michael  
-- Dj Medhi & Zdar - Naja  
+**Tracklist (partiel)**
+
+- The Brothers Johnson - "Q"
+- Volker Meitz - Mayibuye I (Africa Edit)
+- Lee Ritenour - Road Runner
+- Lee Ritenour - Rio Funk
+- Houseparty - Dangerous Love
+- Mooloodje (Etienne De Crécy) - Respect The Magic
+- Needs (Germany)
+- Roy Davis Jr - Michael
+- Dj Medhi & Zdar - Naja
 - Case Woo - Subliminal
 
 ### Slow House from the early 2000 - November 16st 2025
@@ -139,30 +292,35 @@ This episode explores the slow & balearic house music from the early 2000s.
 **Tracklist**
 
 #### Intro
-- Mr Fingers (Larry Heard) - Can you Feel it 
 
-####  Balearic phase, 110bpm
+- Mr Fingers (Larry Heard) - Can you Feel it
+
+#### Balearic phase, 110bpm
+
 - Groove Armada - Dusk You & Me
 - Bullitnuts - Because It Does
 - Ian Pooley - 900 Degrees
-- Nathan Haines -  Sound Travels
+- Nathan Haines - Sound Travels
 - Doctor Rockit - Café De Flore
 - Ski Oakenfull - Fifths (Jazzanova 6 Sickth mix)
 - DJ Mehdi - Busy Being Born
 
-####  Funk inspiration & House music
-- Everyday people - I Can't Sleep (GGF Don Mix) 
+#### Funk inspiration & House music
+
+- Everyday people - I Can't Sleep (GGF Don Mix)
 - Nitin Sawhney - Eastern Eyes
 - Phlash 3000 (Phil Asher) - High Breed
-- Swirl People - Call Bert 
+- Swirl People - Call Bert
 - Brett Johnson & Dave Barker - It Was You (Brett's Space Dub)
 
-####  Hip-hop inspiration
-- 4E (Khan Of Finland) - Don't Fuck With Nails
-- Ian Pooley Feat. Marcos Valle - Sentimento 
-- MF DOOM - Saffron (instrumental for Doomsday) 
+#### Hip-hop inspiration
 
-####  Dance groove and disco inspiration - 120bpm
+- 4E (Khan Of Finland) - Don't Fuck With Nails
+- Ian Pooley Feat. Marcos Valle - Sentimento
+- MF DOOM - Saffron (instrumental for Doomsday)
+
+#### Dance groove and disco inspiration - 120bpm
+
 - Hi Mount & Man-Dee - Impresionante
 - Africanism & DJ Gregory - Block Party
 - C.K - Ember
@@ -174,8 +332,8 @@ This episode explores the slow & balearic house music from the early 2000s.
 - Central - Livet
 - Kimara Lovelace - Misery (Lil Louis Extended Club & Harmony Mix)
 
-
 #### Featured artists
+
 **Phil Asher as Restless Soul and Phlash 3000**
 Phil Asher (British DJ, producer, label owner. Born: 1966 in London, England, UK. Died: 22 January 2021 in Brighton, England, UK (aged 55).) & Luke McCarty are the founding members of the Restless Soul production team, which also incorporates producers Modaji (Laws Of Motion label), Taxi Driver (Estereo label), Dalvin August Jnr. and Roy Marsh.
 They also run a label under the same name, Restless Soul.
@@ -194,7 +352,6 @@ In 1995, Haines went to NYC and then to London, where he worked as a live musici
 He also began DJing, along with recording drum'n'bass for the Metalheadz label, before signing to Chillifunk Records where he made two albums with producer Phil Asher; his first release with Phil was After Ours.
 Nathan returned to New Zealand in the early 2000s.
 
-
 **Khan (Khan of Finland, 4E, Khan)**
 Artist: Can Oral (also known as Khan). Origin of Name: The artist's apartment number, 4E, in the East Village, NYC
 History: He started using the alias in the 1990s while producing music in New York and it's often used for his downtempo and electro material.
@@ -203,7 +360,6 @@ Tracks
 Give me more
 Don't fuck with nails
 Khan - Somnambulist (Dr. Caligari)
-
 
 **Ian Pooley**
 Ian Pooley (born Ian Pinnekamp, 1973) is a German DJ and record producer known for his distinctive house and tech-house sound, often infused with Brazilian influences. Active since the early days of house music in Europe, he has consistently shaped the underground scene with authentic, genre-spanning productions that incorporate elements of jazz, soul, and Krautrock.
@@ -235,16 +391,16 @@ Alex Swift UK Producer, composer, programmer, bassist and keyboardist.
 **Ski Oakenfull**
 Dominic "Ski" Oakenfull is an English music producer, keyboard player, and educator. His nickname "Ski" was given by his bandmates in The K-Creative who named him after the dance music artist Adamski. In 2019 Ski interviewed Adamski for a deconstruction video for pointblank Music School
 
-**Jazzanova** 
+**Jazzanova**
 German DJ and producer collective in electronic fusion music from Berlin, Hamburg, and Munich.
-Started as a DJ team in 1995 and moved on to production in 1996. In 1998, they founded a collective (a formless group of musicians, producers and DJ's) as well as running and operating a label, both under the name Sonar Kollektiv. 
-
+Started as a DJ team in 1995 and moved on to production in 1996. In 1998, they founded a collective (a formless group of musicians, producers and DJ's) as well as running and operating a label, both under the name Sonar Kollektiv.
 
 ### Percussions expérimentales & rythmes lents/trance – 21 septembre 2025
 
 Cet épisode explore les percussions expérimentales et les rythmes lents, propices à la transe, en se concentrant sur des grooves down-tempo autour de 90–130 bpm. Attendez-vous à des atmosphères dub oniriques, du souffle de bande et des rythmes hypnotiques.
 
 **Artistes présentés :**
+
 - **Heavenchord** – "Просто морской даб" (112 BPM)  
   Producteur russe Arthur Galstyan, connu pour son dub techno classique aux accords lourds et au souffle de bande, mêlant synthèse sonore psychédélique et expérimentale.
 - **Padmasana** – "Transition" (105 BPM)  
@@ -289,11 +445,13 @@ Un voyage des racines du dub jusqu’aux sons profonds et hypnotiques du dub tec
 **Extraits de la tracklist :**
 
 **Ambient Dub**
+
 - Luss (Suisse) – 2025
 - Warmth
 - Intrusion – 2014
 
 **Dub Roots**
+
 - Ghost Dubs – 2024
 - Aaron Carl – 2008
 - Altone – 2024
@@ -306,12 +464,14 @@ Un voyage des racines du dub jusqu’aux sons profonds et hypnotiques du dub tec
 - Masis Meas Remix – 2019
 
 **Dub House**
+
 - Paul St Hilaire ft. Rhauder, Rene Lo, Tikiman – 2003–2020
 - Takuya Morita
 - PFL – 2015
 - Frenk Dublin – 2018–2023
 
 **Dub Techno**
+
 - Maurizio – 2021
 - Moreon – 2015
 - Pacou
@@ -320,32 +480,29 @@ Un voyage des racines du dub jusqu’aux sons profonds et hypnotiques du dub tec
 - Basic Channel
 - Monolake
 
-
 ### Brazilian drums - June 1st 2025
 
 L'épisode d'aujourd'hui explore la musique brésilienne des années 50 à nos jours, de São Paulo, Rio de Janeiro, Recife, Santa Catarina et de multiples genres allant de la Samba, du Jazz, de la Bossa Nova, du Funk, du Rock, de la MPB (Música popular brasileira) jusqu'aux différents mouvements comme le Manguebeat ou le Clube da Esquina.
 Cameron Worsley me rejoint pour ce voyage passionnant autour des tambours et des percussions.
 
-
-| #  | Track Title                  | Artist                            |
-|----|------------------------------|-----------------------------------|
-| 1  | Infinito                     | Tamba Trio                        |
-| 2  | Corcovado                    | Tamba Trio                        |
-| 3  | Brazil                       | Antônio Carlos Jobim             |
-| 4  | Cidade Vazia                 | Milton Banana Trio                |
-| 5  | Flor de Lis                  | Milton Banana Trio                |
-| 6  | São Jorge                    | Juçara Marçal e Kiko Dinucci     |
-| 7  | Tudo Que Você Podia Ser      | Milton Nascimento & Lô Borges     |
-| 8  | Adelita                      | Jorge Ben Jor                     |
-| 9  | Ritmo Do Mundo               | Airto Moreira                     |
-| 10 | Rios, Pontes e Overdrives    | Chico Science                     |
-| 11 | Maracatu Atômico            | Chico Science & Nação Zumbi       |
-| 12 | Banho de Lua                 | Celly Campello                    |
-| 13 | Celebration Suite            | Airto Moreira                     |
-| 14 | Onda                         | Guaxe                             |
-| 15 | Lembranças Que Guardei       | Juçara Marçal Fernando Catatau    |
-| 16 | Maracuja                     | Tapioca                           |
-
+| #   | Track Title               | Artist                         |
+| --- | ------------------------- | ------------------------------ |
+| 1   | Infinito                  | Tamba Trio                     |
+| 2   | Corcovado                 | Tamba Trio                     |
+| 3   | Brazil                    | Antônio Carlos Jobim           |
+| 4   | Cidade Vazia              | Milton Banana Trio             |
+| 5   | Flor de Lis               | Milton Banana Trio             |
+| 6   | São Jorge                 | Juçara Marçal e Kiko Dinucci   |
+| 7   | Tudo Que Você Podia Ser   | Milton Nascimento & Lô Borges  |
+| 8   | Adelita                   | Jorge Ben Jor                  |
+| 9   | Ritmo Do Mundo            | Airto Moreira                  |
+| 10  | Rios, Pontes e Overdrives | Chico Science                  |
+| 11  | Maracatu Atômico          | Chico Science & Nação Zumbi    |
+| 12  | Banho de Lua              | Celly Campello                 |
+| 13  | Celebration Suite         | Airto Moreira                  |
+| 14  | Onda                      | Guaxe                          |
+| 15  | Lembranças Que Guardei    | Juçara Marçal Fernando Catatau |
+| 16  | Maracuja                  | Tapioca                        |
 
 ### Tambours africains & rythmes du Congo – 25 juin 2025 (avec Davy)
 
@@ -362,7 +519,7 @@ Cette émission célèbre la richesse rythmique du Congo, son influence à trave
 - **Racines culturelles & musicales :**  
   Malgré des groupes ethniques et un fleuve communs, chaque pays a développé une identité musicale distincte, influencée par son histoire coloniale et ses différences économiques.  
   La RDC est reconnue pour sa richesse minière et son innovation musicale, tandis que le Congo-Brazzaville est marqué par le pétrole et une culture urbaine dynamique.
-- **Évolution musicale :**  
+- **Évolution musicale :**
   - **Années 1940–60 :** Naissance et âge d’or de la rumba congolaise, avec des artistes comme Wendo Kolosoy, Joseph Kabasele (Grand Kallé), African Jazz, et OK Jazz (Franco Luambo, Vicky Longomba).
   - **Années 1970–90 :** Big bands (Zaïko, Stukas), essor du soukous, et bouleversements politiques.
   - **Époque contemporaine :** Des artistes comme Fally Ipupa et Ferre Gola innovent encore, tandis que soukous, ndombolo et fusions électroniques prospèrent.
@@ -372,35 +529,35 @@ Cette émission célèbre la richesse rythmique du Congo, son influence à trave
 - **Pan-africain & global :**  
   La musique congolaise a influencé et a été influencée par le Benga (Kenya), la Champeta (Colombie), le funk, le jazz et la musique électronique à travers le monde.
 - **Femmes et tradition :**  
-  *Stella Chiweshe* a brisé les barrières de genre en devenant la joueuse de mbira la plus célèbre d’Afrique, mêlant tradition zimbabwéenne et sons globaux.
+  _Stella Chiweshe_ a brisé les barrières de genre en devenant la joueuse de mbira la plus célèbre d’Afrique, mêlant tradition zimbabwéenne et sons globaux.
 - **Puissance des percussions :**  
-  *Les Tambours de Brazza* (Congo-Brazzaville) mélangent les tambours ngoma traditionnels à des instruments modernes, illustrant la diversité rythmique de la région.
+  _Les Tambours de Brazza_ (Congo-Brazzaville) mélangent les tambours ngoma traditionnels à des instruments modernes, illustrant la diversité rythmique de la région.
 - **Highlife & Afrobeat :**  
-  *Ebo Taylor* (Ghana) et *Oghene Kologbo* (Nigeria) montrent la fertilisation croisée entre le highlife ouest-africain, l’afrobeat et la rumba congolaise.
+  _Ebo Taylor_ (Ghana) et _Oghene Kologbo_ (Nigeria) montrent la fertilisation croisée entre le highlife ouest-africain, l’afrobeat et la rumba congolaise.
 
 #### Morceaux & artistes présentés
 
-| #  | Morceau/Artiste                                      | Notes                                                                                   |
-|----|------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| 1  | Stella Chiweshe – Kachembere                         | Légende du mbira zimbabwéen, pionnière féminine                                         |
-| 2  | Les Tambours de Brazza – Kele                        | Ensemble de percussions chorégraphiées du Congo-Brazzaville                             |
-| 3  | Ebo Taylor – Dofo Nnye Ekyir                         | Pionnier du highlife ghanéen                                                            |
-| 4  | Amara Touré – Temedy (feat. Ensemble Black & White)  | Percussionniste guinéen, collaborations panafricaines                                   |
-| 5  | Ekonda Musicians – Généalogie De La Walé (Rumba Rules Edit) | Rumba moderne de Kinshasa, bande-son du film "Rumba Rules"                              |
-| 6  | Manu Dibango – New Bell                              | Saxophoniste camerounais, fusion jazz, funk et rythmes africains                        |
-| 7  | Oghene Kologbo & Afrobeat Academy – Remember Fela Anikulapo Kuti | Légende nigériane de la guitare, collaborateur de Fela Kuti                             |
-| 8  | Sofrito Specials – Christina Lover (Sofrito edit)    | Collectif afro-disco reliant Afrique et Caraïbes                                        |
-| 9  | The Ogyatanaa Show Band – Disco Africa               | Disco et funk ghanéens                                                                  |
-| 10 | Voilaaa – On te l'avait dit                          | Projet afro-disco français aux influences africaines et caribéennes                     |
-| 11 | African Vibration – Hinde                            | Soul électronique kényane, années 1980                                                  |
-| 12 | Les mamans du Congo & Rrobin – Sala sala             | Percussions et voix féminines congolaises modernes [YouTube](https://www.youtube.com/watch?v=hHcr1RdlI9M) |
-| 13 | Tshegue – Muanapoto                                  | Duo parisien, racines à Kinshasa, afro-punk/techno tribale                              |
-| 14 | Jo Tongo – Sa Discossa                               | Bassiste camerounais, scène disco parisienne                                             |
-| 15 | Franco Luambo, Tabu Ley Rochereau, Fally Ipupa, Ferre Gola | Légendes de la rumba et du soukous de RDC                                               |
-| 16 | Zazou, Bikaye & Cy1 – Noir et Blanc                  | Fusion électronique franco-congolaise de 1983, toujours futuriste                       |
-| 17 | Jean-Marie Bolangassa – Brazzaville Percussions      | Mélange rythmes congolais traditionnels et électronique moderne                         |
-| 18 | Atamina – Sychophantic Friends                       | Scène Kologo Power du Ghana, riffs hypnotiques dépouillés                               |
-| 19 | African Head Charge – Latin Temperament              | Ensemble dub psychédélique britannique aux racines africaines                           |
+| #   | Morceau/Artiste                                                  | Notes                                                                                                     |
+| --- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 1   | Stella Chiweshe – Kachembere                                     | Légende du mbira zimbabwéen, pionnière féminine                                                           |
+| 2   | Les Tambours de Brazza – Kele                                    | Ensemble de percussions chorégraphiées du Congo-Brazzaville                                               |
+| 3   | Ebo Taylor – Dofo Nnye Ekyir                                     | Pionnier du highlife ghanéen                                                                              |
+| 4   | Amara Touré – Temedy (feat. Ensemble Black & White)              | Percussionniste guinéen, collaborations panafricaines                                                     |
+| 5   | Ekonda Musicians – Généalogie De La Walé (Rumba Rules Edit)      | Rumba moderne de Kinshasa, bande-son du film "Rumba Rules"                                                |
+| 6   | Manu Dibango – New Bell                                          | Saxophoniste camerounais, fusion jazz, funk et rythmes africains                                          |
+| 7   | Oghene Kologbo & Afrobeat Academy – Remember Fela Anikulapo Kuti | Légende nigériane de la guitare, collaborateur de Fela Kuti                                               |
+| 8   | Sofrito Specials – Christina Lover (Sofrito edit)                | Collectif afro-disco reliant Afrique et Caraïbes                                                          |
+| 9   | The Ogyatanaa Show Band – Disco Africa                           | Disco et funk ghanéens                                                                                    |
+| 10  | Voilaaa – On te l'avait dit                                      | Projet afro-disco français aux influences africaines et caribéennes                                       |
+| 11  | African Vibration – Hinde                                        | Soul électronique kényane, années 1980                                                                    |
+| 12  | Les mamans du Congo & Rrobin – Sala sala                         | Percussions et voix féminines congolaises modernes [YouTube](https://www.youtube.com/watch?v=hHcr1RdlI9M) |
+| 13  | Tshegue – Muanapoto                                              | Duo parisien, racines à Kinshasa, afro-punk/techno tribale                                                |
+| 14  | Jo Tongo – Sa Discossa                                           | Bassiste camerounais, scène disco parisienne                                                              |
+| 15  | Franco Luambo, Tabu Ley Rochereau, Fally Ipupa, Ferre Gola       | Légendes de la rumba et du soukous de RDC                                                                 |
+| 16  | Zazou, Bikaye & Cy1 – Noir et Blanc                              | Fusion électronique franco-congolaise de 1983, toujours futuriste                                         |
+| 17  | Jean-Marie Bolangassa – Brazzaville Percussions                  | Mélange rythmes congolais traditionnels et électronique moderne                                           |
+| 18  | Atamina – Sychophantic Friends                                   | Scène Kologo Power du Ghana, riffs hypnotiques dépouillés                                                 |
+| 19  | African Head Charge – Latin Temperament                          | Ensemble dub psychédélique britannique aux racines africaines                                             |
 
 ### Sacred Drums & Percussions - May 4th 2025
 
@@ -420,30 +577,28 @@ Voici une courte présentation des artistes présents dans cette sélection.
 
 - Carly Barton est une percussionniste et compositrice contemporaine connue pour son approche méditative du rythme et son exploration des traditions de percussions sacrées de diverses cultures.
 
-
-| #  | Track Title                          | Artist                                |
-|----|--------------------------------------|---------------------------------------|
-| 1  | Mazarene                             | Hearn Gadbois                         |
-| 2  | Night Whisper                        | Gabrielle Roth & The Mirrors          |
-| 3  | Shavasana                            | Gabrielle Roth & The Mirrors          |
-| 4  | Sufis and Gypsies                    | Chinmaya Dunster                      |
-| 5  | Zone Unknown                         | Gabrielle Roth & The Mirrors          |
-| 6  | The Cowboy Song - Solo Drum          | Hearn Gadbois                         |
-| 7  | Nectar Moon                          | Gabrielle Roth and The Mirrors        |
-| 8  | Lullaby For Frederic                 | Carly Barton                          |
-| 9  | The Rambler                          | Simon Leleux, François Sep            |
-| 10 | Aguidavi                             | Cyro Baptista                         |
-| 11 | Double Rainbow (Chovendo Na Roseiro)  | Gene Bertoncini                       |
-| 12 | Eliana                               | Gabrielle Roth & The Mirrors          |
-| 13 | Passion in the Basement              | Cyro BAPTISTA                         |
-| 14 | Anambra (Edited Version)             | Ozo                                   |
-| 15 | Krazy Groove                         | Christian McBride Meets DJ Krazy      |
-| 16 | Sinú                                 | nodes                                 |
-| 17 | Morphine - Kerouac                   | Compilation                           |
-| 18 | Smoke                                | Vanessa Daou                          |
-| 19 | Soul Makossa (Drums De Makossa)      | Shovell & The Latin Hooligans        |
-| 20 | Dolor                                | Hammond classics                       |
-
+| #   | Track Title                          | Artist                           |
+| --- | ------------------------------------ | -------------------------------- |
+| 1   | Mazarene                             | Hearn Gadbois                    |
+| 2   | Night Whisper                        | Gabrielle Roth & The Mirrors     |
+| 3   | Shavasana                            | Gabrielle Roth & The Mirrors     |
+| 4   | Sufis and Gypsies                    | Chinmaya Dunster                 |
+| 5   | Zone Unknown                         | Gabrielle Roth & The Mirrors     |
+| 6   | The Cowboy Song - Solo Drum          | Hearn Gadbois                    |
+| 7   | Nectar Moon                          | Gabrielle Roth and The Mirrors   |
+| 8   | Lullaby For Frederic                 | Carly Barton                     |
+| 9   | The Rambler                          | Simon Leleux, François Sep       |
+| 10  | Aguidavi                             | Cyro Baptista                    |
+| 11  | Double Rainbow (Chovendo Na Roseiro) | Gene Bertoncini                  |
+| 12  | Eliana                               | Gabrielle Roth & The Mirrors     |
+| 13  | Passion in the Basement              | Cyro BAPTISTA                    |
+| 14  | Anambra (Edited Version)             | Ozo                              |
+| 15  | Krazy Groove                         | Christian McBride Meets DJ Krazy |
+| 16  | Sinú                                 | nodes                            |
+| 17  | Morphine - Kerouac                   | Compilation                      |
+| 18  | Smoke                                | Vanessa Daou                     |
+| 19  | Soul Makossa (Drums De Makossa)      | Shovell & The Latin Hooligans    |
+| 20  | Dolor                                | Hammond classics                 |
 
 ### Jazz & Drum&Bass - April 6th 2025
 
@@ -455,44 +610,43 @@ Nous examinerons d'abord les pionniers du jazz comme Art Blakey, Louie Bellson, 
 
 Dans la seconde partie de l'émission, nous explorerons comment ils ont influencé la Drum and Bass d'Ornette Hawkins, Amon Tobin, Earl Grey, Calibre et bien d'autres.
 
-
-| #  | Track Title                          | Artist                                |
-|----|--------------------------------------|---------------------------------------|
-| 1  | Stoney Street                        | Amon Tobin                            |
-| 2  | Drums in the Rain                    | Art Blakey                            |
-| 3  | Percussionistically Speaking         | Louie Bellson                         |
-| 4  | The Drum Battle                      | Gene Krupa and Buddy Rich             |
-| 5  | Caravan                              | Buddy Rich                            |
-| 6  | Moanin' (Remastered)                 | Art Blakey                            |
-| 7  | Crescent                             | Joe Lovano The Steve Kuhn Trio        |
-| 8  | A Night in Tunisia                   | Clifford Brown                        |
-| 9  | The Lover                            | Medeski, Martin and Wood              |
-| 10 | Ten on the Door                      | ATA Records                           |
-| 11 | Contemplating Jazz                   | Attica Blues                          |
-| 12 | Bitter & Twistd                      | Amon Tobin                            |
-| 13 | Raw Sun (2020 Remaster)             | Ornette Hawkins                       |
-| 14 | Passion                              | PinkPantheress                        |
-| 15 | Jazz Police                          | Ornette Hawkins                       |
-| 16 | Dega & Papi                          | Earl Grey                             |
-| 17 | Aspirations                          | PFM                                   |
-| 18 | Inner Conflict                       | Earl Grey                             |
-| 19 | Broke My Heart + Passion             | Sade + PinkPantheress                 |
-| 20 | Suspend Disbelief                    | Earl Grey                             |
-| 21 | Let Me Hold You (2019 Remaster)      | Calibre                               |
-| 22 | Rules                                | Dreadmaul & Ornette Hawkins           |
-| 23 | Miles From Home                      | Peshay                                |
-| 24 | Mirage (Original Mix)                | Calibre                               |
-| 25 | Primavera                            | Zar                                   |
-| 26 | Perspective                          | Brendon Moeller                       |
-| 27 | Noirism                              | Indidjinous & Ornette Hawkins         |
-| 28 | The Love She Needs                   | Zero T                                |
-| 29 | Witchdoctor                          | Rude Operator & Ornette Hawkins       |
-| 30 | Clubbed To Death (Peshay rmx)        | Rob Dougan                            |
-| 31 | The Fugitive Drummer                 | Phuture T                             |
-| 32 | Some Hip Drum Shit                   | The Tony Williams Lifetime            |
-| 33 | Return Of The Original Art-Form      | Hiroshi Fujiwara & K.U.D.O Feat. DJ Milo |
-| 34 | The Number Song                      | DJ Shadow                             |
-| 35 | Is It Us?                            | Soulstatejazz                         |
+| #   | Track Title                     | Artist                                   |
+| --- | ------------------------------- | ---------------------------------------- |
+| 1   | Stoney Street                   | Amon Tobin                               |
+| 2   | Drums in the Rain               | Art Blakey                               |
+| 3   | Percussionistically Speaking    | Louie Bellson                            |
+| 4   | The Drum Battle                 | Gene Krupa and Buddy Rich                |
+| 5   | Caravan                         | Buddy Rich                               |
+| 6   | Moanin' (Remastered)            | Art Blakey                               |
+| 7   | Crescent                        | Joe Lovano The Steve Kuhn Trio           |
+| 8   | A Night in Tunisia              | Clifford Brown                           |
+| 9   | The Lover                       | Medeski, Martin and Wood                 |
+| 10  | Ten on the Door                 | ATA Records                              |
+| 11  | Contemplating Jazz              | Attica Blues                             |
+| 12  | Bitter & Twistd                 | Amon Tobin                               |
+| 13  | Raw Sun (2020 Remaster)         | Ornette Hawkins                          |
+| 14  | Passion                         | PinkPantheress                           |
+| 15  | Jazz Police                     | Ornette Hawkins                          |
+| 16  | Dega & Papi                     | Earl Grey                                |
+| 17  | Aspirations                     | PFM                                      |
+| 18  | Inner Conflict                  | Earl Grey                                |
+| 19  | Broke My Heart + Passion        | Sade + PinkPantheress                    |
+| 20  | Suspend Disbelief               | Earl Grey                                |
+| 21  | Let Me Hold You (2019 Remaster) | Calibre                                  |
+| 22  | Rules                           | Dreadmaul & Ornette Hawkins              |
+| 23  | Miles From Home                 | Peshay                                   |
+| 24  | Mirage (Original Mix)           | Calibre                                  |
+| 25  | Primavera                       | Zar                                      |
+| 26  | Perspective                     | Brendon Moeller                          |
+| 27  | Noirism                         | Indidjinous & Ornette Hawkins            |
+| 28  | The Love She Needs              | Zero T                                   |
+| 29  | Witchdoctor                     | Rude Operator & Ornette Hawkins          |
+| 30  | Clubbed To Death (Peshay rmx)   | Rob Dougan                               |
+| 31  | The Fugitive Drummer            | Phuture T                                |
+| 32  | Some Hip Drum Shit              | The Tony Williams Lifetime               |
+| 33  | Return Of The Original Art-Form | Hiroshi Fujiwara & K.U.D.O Feat. DJ Milo |
+| 34  | The Number Song                 | DJ Shadow                                |
+| 35  | Is It Us?                       | Soulstatejazz                            |
 
 ### Dub & Carnaval - March 9th 2025
 
@@ -500,6 +654,7 @@ L'épisode d'aujourd'hui est inspiré par la saison du carnaval et les percussio
 Nous commencerons par explorer les percussions dans le Dub et la musique expérimentale, puis nous voyagerons dans le monde intéressant de Mulsimgauze, du percussionniste martiniquais Jonaz Joslen, d'un groupe de carnaval « à Po » de Guadeloupe « Klé la », et de Julio « Chocolate » Algendones, un percussionniste péruvien.
 
 A brief description of the artists played in this mix:
+
 - Steve Reich American composer best known as a pioneer of minimal music in the mid to late 1960s
 - Sub Dub: The pioneering experimental dub duo Sub Dub, were active between 1992-1998 in NYC, produced by Badawi aka Ghost Producer and John Ward, credited as being the catalyst for the so called "illbient" scene, predating Dub Step by over a decade.
 - Woob: is the stage name of Paul Frankland, an English composer, musician and filmmaker who started recording in the early 1990s. Woob's albums combine elements of ambient, downtempo and space music, with samples from field recordings. Frankland has also recorded under the names of Journeyman and Max & Harvey.
@@ -512,40 +667,38 @@ A brief description of the artists played in this mix:
 - Jah Wobble is an English bass guitarist and singer. He became known to a wider audience as the original bass player in Public Image Ltd (PiL) in the late 1970s ...
 - Julio "Chocolate" Algendones is one of the essential percussionists in the great tradition of Afro-Peruvian music.
 
-
-| #  | Track Title                          | Artist                                |
-|----|--------------------------------------|---------------------------------------|
-| 1  | A Perfect Shift                      | Cafe DM & Blue Heron                  |
-| 2  | Drumming, Part II                    | Steve Reich                           |
-| 3  | Witchcraft                           | Sub Dub                               |
-| 4  | 10 Ton Laboratory                    | Woob                                  |
-| 5  | Lost On Earth                        | Woob                                  |
-| 6  | Millennia                            | Adham Shaikh                          |
-| 7  | Fourteen Thirtythree                 | Woob                                  |
-| 8  | Dooshta                              | Woob                                  |
-| 9  | Conga Forte, Rico Cajón              | Chocolate                             |
-| 10 | Feeling Symbols                      | Jon Mueller                           |
-| 11 | Narcotic                             | Muslimgauze                           |
-| 12 | Fitness Zouk Mouvan Bèlè Radio Edit  | JONAZ Joslen, Miki Téléphe and Ronald C |
-| 13 | Mizik a Klé la                       | Klé La                                |
-| 14 | Claro Mambo                          | Tino                                  |
-| 15 | Claro Mambo                          | Tino                                  |
-| 16 | Medina Flight                        | Muslimgauze                           |
-| 17 | Dawa Zangpo                          | Sub Dub                               |
-| 18 | A Weird Suspender                    | grain                                 |
-| 19 | Still Water                          | Nomine                                |
-| 20 | Wake The Town                        | Cousin                                |
-| 21 | On An Asset Tip                      | Valentina Magaletti                   |
-| 22 | Witness                              | Asian Dub Foundation                  |
-| 23 | Ritmos Latinos                       | Tino                                  |
-| 24 | Sea-Side Special                     | Jah Wobble                            |
-| 25 | Just One More                        | Bluey                                 |
-| 26 | Later                                | Woob                                  |
-| 27 | Bodies of Water                      | David Toop                            |
-| 28 | Heavy Charm                          | The Ear                               |
-| 29 | Pondlife                             | Woob                                  |
-| 30 | What's On Your Mind?                 | Sine                                  |
-
+| #   | Track Title                         | Artist                                  |
+| --- | ----------------------------------- | --------------------------------------- |
+| 1   | A Perfect Shift                     | Cafe DM & Blue Heron                    |
+| 2   | Drumming, Part II                   | Steve Reich                             |
+| 3   | Witchcraft                          | Sub Dub                                 |
+| 4   | 10 Ton Laboratory                   | Woob                                    |
+| 5   | Lost On Earth                       | Woob                                    |
+| 6   | Millennia                           | Adham Shaikh                            |
+| 7   | Fourteen Thirtythree                | Woob                                    |
+| 8   | Dooshta                             | Woob                                    |
+| 9   | Conga Forte, Rico Cajón             | Chocolate                               |
+| 10  | Feeling Symbols                     | Jon Mueller                             |
+| 11  | Narcotic                            | Muslimgauze                             |
+| 12  | Fitness Zouk Mouvan Bèlè Radio Edit | JONAZ Joslen, Miki Téléphe and Ronald C |
+| 13  | Mizik a Klé la                      | Klé La                                  |
+| 14  | Claro Mambo                         | Tino                                    |
+| 15  | Claro Mambo                         | Tino                                    |
+| 16  | Medina Flight                       | Muslimgauze                             |
+| 17  | Dawa Zangpo                         | Sub Dub                                 |
+| 18  | A Weird Suspender                   | grain                                   |
+| 19  | Still Water                         | Nomine                                  |
+| 20  | Wake The Town                       | Cousin                                  |
+| 21  | On An Asset Tip                     | Valentina Magaletti                     |
+| 22  | Witness                             | Asian Dub Foundation                    |
+| 23  | Ritmos Latinos                      | Tino                                    |
+| 24  | Sea-Side Special                    | Jah Wobble                              |
+| 25  | Just One More                       | Bluey                                   |
+| 26  | Later                               | Woob                                    |
+| 27  | Bodies of Water                     | David Toop                              |
+| 28  | Heavy Charm                         | The Ear                                 |
+| 29  | Pondlife                            | Woob                                    |
+| 30  | What's On Your Mind?                | Sine                                    |
 
 ### Salsa, Cumbia and Dancehall - February 9th 2025
 
@@ -553,34 +706,32 @@ Nous commencerons par des artistes de Jakarta et de Nouvelle-Guinée, mais aussi
 Ensuite, nous aborderons les rythmes de la salsa et de la cumbia, avec des percussionnistes de Cuba, de Porto Rico, de Colombie et des États-Unis.
 Enfin, nous nous glisserons dans les rythmes modernes de la musique électronique de Miami, de Zambie et de Paris.
 
-
-| #  | Track Title                          | Artist                                                                                     |
-|----|--------------------------------------|--------------------------------------------------------------------------------------------|
-| 1  | :XI                                  | Civilistjävel!                                                                             |
-| 2  | Zone VI                              | Gabrielle Roth & The Mirrors (American Dancer 1985)                                        |
-| 3  | The Goddess is Dancing               | D.K. (Parisian based producer)                                                             |
-| 4  | Untitled 10                          | Uwalmassa (Uwalmassa is the name with which DIVISI62, arts & music collective from Jakarta, Indonesia, perform and produce music.) |
-| 5  | Donno Drummers I                     | (Yeji) Nonesuch Explorer                                                                   |
-| 6  | Traditional (Papua New Guinea)       | Wame Igini Kamu                                                                            |
-| 7  | Sequences                            | DK                                                                                         |
-| 8  | Massari and Me                       | DJ Plead                                                                                   |
-| 9  | Louca                                | DJ Plead                                                                                   |
-| 10 | African Inspirations                 | Mysterious World Music Marco Rinaldo (Senegal, Ghana, Casamance, Burkina)                  |
-| 11 | Waterflow Sabla                      | D.K.                                                                                       |
-| 12 | La Cancion De Manuel                 | Gabrielle Roth & The Mirrors                                                               |
-| 13 | Lamize pa dous                       | Toto Bissainthe                                                                            |
-| 14 | The Pedrito Martinez Group: NPR Music Tiny Desk Concert | NPR Music (Pedrito Martinez is a Cuban Conguero performing classic Cuban Rumbas, Afro-Cuban folkloric and religious music.) |
-| 15 | Cha Cha a La Kako (with Solos)       | Drum Solos (Eddie Montalvo: Conga player from New York, USA. Charlie Santiago :Percussionist) |
-| 16 | Giovanni Hidalgo & Friends perform Tropical congahead | (Puerto Rican percussionist, born in 1963 in Old San Juan, Puerto Rico, son of José (Mañengue) Hidalgo |
-| 17 | Juan Picorelli, Jean Carlos Camuñas & Raúl Rosario - "Vivo Agradecido" | (Percussionist (bongos, congas, and timbales), born in San Juan, Puerto Rico, played with many renown artists.) |
-| 18 | Luisito & Roberto Quintero perform Rumba en San Agustin Gon Bops | (Venezuelan-American Latin and jazz percussionist, born 24 August 1967 in Parroquia San Agustín, Caracas.) |
-| 19 | Jorobillo                            | Golpe Malibe (Columbian artist)                                                            |
-| 20 | Activo (Original Mix)                | Coffintexts (Miami based)                                                                  |
-| 21 | Bossano                              | SHE Spells Doom (SHE Spells Doom is an experimental Electronic music project created by Zambian producer, Wamya Tembo. It draws inspiration from a number of his influences) |
-| 22 | Enlightenment Process                | DK                                                                                         |
-| 23 | I                                    | Civilistjävel!                                                                             |
-| 24 | A Minute Sabla                       | D.K.                                                                                       |
-| 25 | Frekm, Pt. 1                         | Djrum                                                                                      |
-| 26 | Mbui Mbui                            | Wagogo (Tanzania)                                                                          |
-| 27 | Chalo gwe (Msaigwa)                  | Wagogo (Tanzania)                                                                          |
-
+| #   | Track Title                                                            | Artist                                                                                                                                                                       |
+| --- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | :XI                                                                    | Civilistjävel!                                                                                                                                                               |
+| 2   | Zone VI                                                                | Gabrielle Roth & The Mirrors (American Dancer 1985)                                                                                                                          |
+| 3   | The Goddess is Dancing                                                 | D.K. (Parisian based producer)                                                                                                                                               |
+| 4   | Untitled 10                                                            | Uwalmassa (Uwalmassa is the name with which DIVISI62, arts & music collective from Jakarta, Indonesia, perform and produce music.)                                           |
+| 5   | Donno Drummers I                                                       | (Yeji) Nonesuch Explorer                                                                                                                                                     |
+| 6   | Traditional (Papua New Guinea)                                         | Wame Igini Kamu                                                                                                                                                              |
+| 7   | Sequences                                                              | DK                                                                                                                                                                           |
+| 8   | Massari and Me                                                         | DJ Plead                                                                                                                                                                     |
+| 9   | Louca                                                                  | DJ Plead                                                                                                                                                                     |
+| 10  | African Inspirations                                                   | Mysterious World Music Marco Rinaldo (Senegal, Ghana, Casamance, Burkina)                                                                                                    |
+| 11  | Waterflow Sabla                                                        | D.K.                                                                                                                                                                         |
+| 12  | La Cancion De Manuel                                                   | Gabrielle Roth & The Mirrors                                                                                                                                                 |
+| 13  | Lamize pa dous                                                         | Toto Bissainthe                                                                                                                                                              |
+| 14  | The Pedrito Martinez Group: NPR Music Tiny Desk Concert                | NPR Music (Pedrito Martinez is a Cuban Conguero performing classic Cuban Rumbas, Afro-Cuban folkloric and religious music.)                                                  |
+| 15  | Cha Cha a La Kako (with Solos)                                         | Drum Solos (Eddie Montalvo: Conga player from New York, USA. Charlie Santiago :Percussionist)                                                                                |
+| 16  | Giovanni Hidalgo & Friends perform Tropical congahead                  | (Puerto Rican percussionist, born in 1963 in Old San Juan, Puerto Rico, son of José (Mañengue) Hidalgo                                                                       |
+| 17  | Juan Picorelli, Jean Carlos Camuñas & Raúl Rosario - "Vivo Agradecido" | (Percussionist (bongos, congas, and timbales), born in San Juan, Puerto Rico, played with many renown artists.)                                                              |
+| 18  | Luisito & Roberto Quintero perform Rumba en San Agustin Gon Bops       | (Venezuelan-American Latin and jazz percussionist, born 24 August 1967 in Parroquia San Agustín, Caracas.)                                                                   |
+| 19  | Jorobillo                                                              | Golpe Malibe (Columbian artist)                                                                                                                                              |
+| 20  | Activo (Original Mix)                                                  | Coffintexts (Miami based)                                                                                                                                                    |
+| 21  | Bossano                                                                | SHE Spells Doom (SHE Spells Doom is an experimental Electronic music project created by Zambian producer, Wamya Tembo. It draws inspiration from a number of his influences) |
+| 22  | Enlightenment Process                                                  | DK                                                                                                                                                                           |
+| 23  | I                                                                      | Civilistjävel!                                                                                                                                                               |
+| 24  | A Minute Sabla                                                         | D.K.                                                                                                                                                                         |
+| 25  | Frekm, Pt. 1                                                           | Djrum                                                                                                                                                                        |
+| 26  | Mbui Mbui                                                              | Wagogo (Tanzania)                                                                                                                                                            |
+| 27  | Chalo gwe (Msaigwa)                                                    | Wagogo (Tanzania)                                                                                                                                                            |
