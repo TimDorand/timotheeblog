@@ -20,6 +20,68 @@ THF Radio est une communauté radio qui émet depuis l'ancien aéroport Tempelho
 
 Les plus récents en premier.
 
+### Hip hop & bonus beats from Japan to Brazil - 28 juin 2026
+
+Cet épisode traverse le hip-hop instrumental, les beat tapes, les productions japonaises old school, le rap brésilien et plusieurs morceaux underground venus de France et des États-Unis.
+
+La première partie associe les productions chaleureuses et fondées sur le sampling d’**Amerigo Gazaway** aux morceaux du beatmaker parisien **Hentzup** et du duo de Caroline du Nord **Dirty Art Club**. Les titres d’Amerigo Gazaway sont issus de *Bonus Beats: Vol. 2*, une collection de remixes, versions alternatives, productions réalisées pour des beat battles, idées laissées de côté et autres instrumentaux tirés de ses archives.
+
+Le set entre ensuite dans l’univers de l’influent collectif japonais **Major Force**, avec **Tycoon Tosh & Terminator Troops**, **Kool DJ Red Alert & Major Force Posse**, **DJ Doc Holiday** et **Tiny Panx**, aux côtés de **DJ Honda**. La dernière partie relie les instrumentaux brumeux de **Sweeps** et **MiLKCRATE** au hip-hop brésilien de **Sabotage**, **Negra Li** et **Rappin’ Hood**.
+
+| # | Titre | Artiste |
+| --- | --- | --- |
+| 1 | The Anthem | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/the-anthem) |
+| 2 | No Wifi, No Tv | Hentzup |
+| 3 | Mad Flava | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/mad-flava) |
+| 4 | Curse | Hentzup |
+| 5 | Hotel Spaghetti | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
+| 6 | Copy '88-'99 | Tycoon Tosh & Terminator Troops |
+| 7 | Prop-Master's Party (Gallon Version) | Kool DJ Red Alert & Major Force Posse |
+| 8 | Out For The Cash | DJ Honda |
+| 9 | Club Of Steel | DJ Doc Holiday |
+| 10 | Last Orgy | Tiny Panx |
+| 11 | mirage (w keylime) | Sweeps |
+| 12 | Spring Water (ft. La The Darkman) | Raekwon x MiLKCRATE |
+| 13 | 1993 | Hentzup |
+| 14 | Mystic Drive-Thru | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
+| 15 | Throw Ya Hands | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/throw-ya-hands) |
+| 16 | Green Pill | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
+| 17 | Walk Thru The Park | Hentzup |
+| 18 | No Brooklin | Sabotage & Negra Li |
+| 19 | Rap O Som da Paz | Rappin' Hood |
+| 20 | Mun Rá (feat. Instituto) | Sabotage |
+| 21 | Action | Tycoon Tosh & Terminator Troops |
+
+**Artistes à l’honneur**
+
+**Amerigo Gazaway**  
+Producteur et beatmaker connu pour son hip-hop fondé sur le sampling et ses projets de remix inventifs. **The Anthem**, **Mad Flava** et **Throw Ya Hands** figurent sur *[Bonus Beats: Vol. 2](https://amerigo.bandcamp.com/album/bonus-beats-vol-2)*, paru en mars 2026. Cette collection réunit des instrumentaux issus de remixes, de versions alternatives, de beat battles, d’idées laissées de côté et de projets parallèles.
+
+**Hentzup**  
+Beatmaker parisien dont le style mêle hip-hop instrumental poussiéreux et influences jazz. L’épisode comprend quatre morceaux associés à son projet *1993*, paru en 2017 : **No Wifi, No Tv**, **Curse**, **1993** et **Walk Thru The Park**.
+
+**Dirty Art Club**  
+Duo de producteurs de Caroline du Nord formé par Matt Cagle et Madwreck. Leur musique riche en samples mêle hip-hop instrumental, downtempo, psychédélisme et constructions sonores proches du collage. **Hotel Spaghetti**, **Mystic Drive-Thru** et **Green Pill** sont tirés de l’EP *[Mystic Drive-Thru](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru)*, sorti en 2019.
+
+**Major Force**  
+Collectif fondateur du hip-hop et de la musique de club au Japon, représenté ici par **Tycoon Tosh & Terminator Troops**, **Kool DJ Red Alert & Major Force Posse**, **DJ Doc Holiday** et **Tiny Panx**. Ces morceaux relient rap, breakbeats, turntablism et dimension expérimentale de la culture club japonaise de la fin des années 1980 et des années 1990.
+
+**DJ Honda**  
+DJ et producteur japonais dont le travail a contribué à créer des passerelles entre la scène hip-hop japonaise et le rap américain. **Out For The Cash** apporte une touche boom bap plus dure au milieu du set.
+
+**Sweeps**  
+Beatmaker spécialisé dans les esquisses instrumentales brumeuses et compactes. **mirage (w keylime)** assure une transition douce entre la séquence Major Force et la dernière partie underground du set.
+
+**MiLKCRATE**  
+Producteur de **Spring Water**, avec **La The Darkman**, artiste affilié à l’univers du Wu-Tang Clan, et présenté ici aux côtés de **Raekwon**. Le morceau fait le lien entre production atmosphérique et héritage du rap new-yorkais.
+
+**Sabotage**  
+Rappeur influent de São Paulo dont l’œuvre reste incontournable dans le hip-hop brésilien. La dernière partie comprend **No Brooklin** avec **Negra Li** et **Mun Rá** avec **Instituto**.
+
+**Rappin’ Hood**  
+Rappeur brésilien associé à la tradition hip-hop de São Paulo. **Rap O Som da Paz** renforce l’orientation de la fin de l’épisode vers un rap brésilien socialement engagé.
+
+
 ### Downtempo Australien – 31 mai 2026
 
 Cet épisode explore la scène électronique underground australienne, où reggae, dub, ambient, folk et jazz se fondent en quelque chose d'unique.
