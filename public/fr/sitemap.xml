@@ -136,13 +136,13 @@
     <lastmod>2022-06-25T11:16:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/technology/"
+                hreflang="en"
+                href="/en/categories/technology/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/categories/technology/"
+                hreflang="fr"
+                href="/fr/categories/technology/"
                 />
   </url><url>
     <loc>/fr/posts/technology_alternatives_for_google/</loc>
@@ -218,13 +218,13 @@
     <loc>/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
+                hreflang="en"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
+                hreflang="fr"
+                href="/fr/tags/"
                 />
   </url><url>
     <loc>/fr/posts/about/</loc>

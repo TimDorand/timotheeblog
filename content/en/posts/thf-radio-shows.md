@@ -21,6 +21,8 @@ Order from the most recent to the oldest.
 
 ### Bonus Beats, Dusty Grooves & Global Hip-Hop - June 28th 2026
 
+[The Concave Side Of The Spoon w/ Jan Astasia (hip hop instrumental)](https://soundcloud.com/thfradio/the-concave-side-hip-hop?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 This episode moves through instrumental hip-hop, dusty beat tapes, Japanese old-school productions, Brazilian rap, and underground cuts from France and the United States.
 
 The opening stretch pairs the warm, sample-driven production of **Amerigo Gazaway** with tracks from Paris beatmaker **Hentzup** and North Carolina duo **Dirty Art Club**. Amerigo Gazaway's selections come from *Bonus Beats: Vol. 2*, a collection of remixes, alternate versions, beat-battle productions, shelved ideas, and other instrumentals from his archive.
@@ -82,6 +84,8 @@ Brazilian rapper associated with São Paulo's hip-hop tradition. **Rap O Som da 
 
 
 ### Australian Downtempo - May 31st 2026
+
+[The Concave Side Of The Spoon w/ Jan Astasia (Australian downtempo)](https://soundcloud.com/thfradio/the-concave-side-australia?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 This episode explores Australia's electronic underground scene, where reggae, dub, ambient, folk, and jazz blur together into something entirely their own.
 
@@ -145,6 +149,9 @@ Amsterdam-based duo creating haunting, cinematic soundscapes.
 ---
 
 ### Mauritius Music with Ash - May 3rd 2026
+
+[The Concave Side Of The Spoon w/ Ash (Sega)](https://soundcloud.com/thfradio/the-concave-side-ash-mauritius?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 
 This episode, recorded with Ash, explores the musical heritage of Mauritius and the Indian Ocean — from traditional Séga and Maloya to modern Seggae fusions.
 
@@ -232,6 +239,8 @@ _Reklam inn fini_ is a viral modern Séga track using witty lyrics to critique c
 ---
 
 ### Krautrock avec Ryan Balmer - 5 avril 2026
+
+[The Concave Side Of The Spoon w/ Ryan Balmer (Krautrock)](https://soundcloud.com/thfradio/concave-side-krautrock?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 In this episode, Ryan Balmer (guide in Berlin) and I explore the beginnings of Krautrock music in post-war Germany. From cosmic ambient sounds to the rhythmic and hypnotic "motorik" kicks of Neu!, we traversed the eras and discovered contemporary music that has been influenced by it.
 

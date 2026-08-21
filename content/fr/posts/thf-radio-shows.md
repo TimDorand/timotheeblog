@@ -22,46 +22,48 @@ Les plus récents en premier.
 
 ### Hip hop & bonus beats from Japan to Brazil - 28 juin 2026
 
+[The Concave Side Of The Spoon w/ Jan Astasia (hip hop instrumental)](https://soundcloud.com/thfradio/the-concave-side-hip-hop?in=thfradio/sets/the-concave-side-of-the-spoon)
+
 Cet épisode traverse le hip-hop instrumental, les beat tapes, les productions japonaises old school, le rap brésilien et plusieurs morceaux underground venus de France et des États-Unis.
 
-La première partie associe les productions chaleureuses et fondées sur le sampling d’**Amerigo Gazaway** aux morceaux du beatmaker parisien **Hentzup** et du duo de Caroline du Nord **Dirty Art Club**. Les titres d’Amerigo Gazaway sont issus de *Bonus Beats: Vol. 2*, une collection de remixes, versions alternatives, productions réalisées pour des beat battles, idées laissées de côté et autres instrumentaux tirés de ses archives.
+La première partie associe les productions chaleureuses et fondées sur le sampling d’**Amerigo Gazaway** aux morceaux du beatmaker parisien **Hentzup** et du duo de Caroline du Nord **Dirty Art Club**. Les titres d’Amerigo Gazaway sont issus de _Bonus Beats: Vol. 2_, une collection de remixes, versions alternatives, productions réalisées pour des beat battles, idées laissées de côté et autres instrumentaux tirés de ses archives.
 
 Le set entre ensuite dans l’univers de l’influent collectif japonais **Major Force**, avec **Tycoon Tosh & Terminator Troops**, **Kool DJ Red Alert & Major Force Posse**, **DJ Doc Holiday** et **Tiny Panx**, aux côtés de **DJ Honda**. La dernière partie relie les instrumentaux brumeux de **Sweeps** et **MiLKCRATE** au hip-hop brésilien de **Sabotage**, **Negra Li** et **Rappin’ Hood**.
 
-| # | Titre | Artiste |
-| --- | --- | --- |
-| 1 | The Anthem | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/the-anthem) |
-| 2 | No Wifi, No Tv | Hentzup |
-| 3 | Mad Flava | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/mad-flava) |
-| 4 | Curse | Hentzup |
-| 5 | Hotel Spaghetti | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
-| 6 | Copy '88-'99 | Tycoon Tosh & Terminator Troops |
-| 7 | Prop-Master's Party (Gallon Version) | Kool DJ Red Alert & Major Force Posse |
-| 8 | Out For The Cash | DJ Honda |
-| 9 | Club Of Steel | DJ Doc Holiday |
-| 10 | Last Orgy | Tiny Panx |
-| 11 | mirage (w keylime) | Sweeps |
-| 12 | Spring Water (ft. La The Darkman) | Raekwon x MiLKCRATE |
-| 13 | 1993 | Hentzup |
-| 14 | Mystic Drive-Thru | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
-| 15 | Throw Ya Hands | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/throw-ya-hands) |
-| 16 | Green Pill | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
-| 17 | Walk Thru The Park | Hentzup |
-| 18 | No Brooklin | Sabotage & Negra Li |
-| 19 | Rap O Som da Paz | Rappin' Hood |
-| 20 | Mun Rá (feat. Instituto) | Sabotage |
-| 21 | Action | Tycoon Tosh & Terminator Troops |
+| #   | Titre                                | Artiste                                                                     |
+| --- | ------------------------------------ | --------------------------------------------------------------------------- |
+| 1   | The Anthem                           | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/the-anthem)            |
+| 2   | No Wifi, No Tv                       | Hentzup                                                                     |
+| 3   | Mad Flava                            | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/mad-flava)             |
+| 4   | Curse                                | Hentzup                                                                     |
+| 5   | Hotel Spaghetti                      | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
+| 6   | Copy '88-'99                         | Tycoon Tosh & Terminator Troops                                             |
+| 7   | Prop-Master's Party (Gallon Version) | Kool DJ Red Alert & Major Force Posse                                       |
+| 8   | Out For The Cash                     | DJ Honda                                                                    |
+| 9   | Club Of Steel                        | DJ Doc Holiday                                                              |
+| 10  | Last Orgy                            | Tiny Panx                                                                   |
+| 11  | mirage (w keylime)                   | Sweeps                                                                      |
+| 12  | Spring Water (ft. La The Darkman)    | Raekwon x MiLKCRATE                                                         |
+| 13  | 1993                                 | Hentzup                                                                     |
+| 14  | Mystic Drive-Thru                    | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
+| 15  | Throw Ya Hands                       | [Amerigo Gazaway](https://amerigo.bandcamp.com/track/throw-ya-hands)        |
+| 16  | Green Pill                           | [Dirty Art Club](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru) |
+| 17  | Walk Thru The Park                   | Hentzup                                                                     |
+| 18  | No Brooklin                          | Sabotage & Negra Li                                                         |
+| 19  | Rap O Som da Paz                     | Rappin' Hood                                                                |
+| 20  | Mun Rá (feat. Instituto)             | Sabotage                                                                    |
+| 21  | Action                               | Tycoon Tosh & Terminator Troops                                             |
 
 **Artistes à l’honneur**
 
 **Amerigo Gazaway**  
-Producteur et beatmaker connu pour son hip-hop fondé sur le sampling et ses projets de remix inventifs. **The Anthem**, **Mad Flava** et **Throw Ya Hands** figurent sur *[Bonus Beats: Vol. 2](https://amerigo.bandcamp.com/album/bonus-beats-vol-2)*, paru en mars 2026. Cette collection réunit des instrumentaux issus de remixes, de versions alternatives, de beat battles, d’idées laissées de côté et de projets parallèles.
+Producteur et beatmaker connu pour son hip-hop fondé sur le sampling et ses projets de remix inventifs. **The Anthem**, **Mad Flava** et **Throw Ya Hands** figurent sur _[Bonus Beats: Vol. 2](https://amerigo.bandcamp.com/album/bonus-beats-vol-2)_, paru en mars 2026. Cette collection réunit des instrumentaux issus de remixes, de versions alternatives, de beat battles, d’idées laissées de côté et de projets parallèles.
 
 **Hentzup**  
-Beatmaker parisien dont le style mêle hip-hop instrumental poussiéreux et influences jazz. L’épisode comprend quatre morceaux associés à son projet *1993*, paru en 2017 : **No Wifi, No Tv**, **Curse**, **1993** et **Walk Thru The Park**.
+Beatmaker parisien dont le style mêle hip-hop instrumental poussiéreux et influences jazz. L’épisode comprend quatre morceaux associés à son projet _1993_, paru en 2017 : **No Wifi, No Tv**, **Curse**, **1993** et **Walk Thru The Park**.
 
 **Dirty Art Club**  
-Duo de producteurs de Caroline du Nord formé par Matt Cagle et Madwreck. Leur musique riche en samples mêle hip-hop instrumental, downtempo, psychédélisme et constructions sonores proches du collage. **Hotel Spaghetti**, **Mystic Drive-Thru** et **Green Pill** sont tirés de l’EP *[Mystic Drive-Thru](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru)*, sorti en 2019.
+Duo de producteurs de Caroline du Nord formé par Matt Cagle et Madwreck. Leur musique riche en samples mêle hip-hop instrumental, downtempo, psychédélisme et constructions sonores proches du collage. **Hotel Spaghetti**, **Mystic Drive-Thru** et **Green Pill** sont tirés de l’EP _[Mystic Drive-Thru](https://dirtyartclub.bandcamp.com/album/mystic-drive-thru)_, sorti en 2019.
 
 **Major Force**  
 Collectif fondateur du hip-hop et de la musique de club au Japon, représenté ici par **Tycoon Tosh & Terminator Troops**, **Kool DJ Red Alert & Major Force Posse**, **DJ Doc Holiday** et **Tiny Panx**. Ces morceaux relient rap, breakbeats, turntablism et dimension expérimentale de la culture club japonaise de la fin des années 1980 et des années 1990.
@@ -81,8 +83,9 @@ Rappeur influent de São Paulo dont l’œuvre reste incontournable dans le hip-
 **Rappin’ Hood**  
 Rappeur brésilien associé à la tradition hip-hop de São Paulo. **Rap O Som da Paz** renforce l’orientation de la fin de l’épisode vers un rap brésilien socialement engagé.
 
-
 ### Downtempo Australien – 31 mai 2026
+
+[The Concave Side Of The Spoon w/ Jan Astasia (Australian downtempo)](https://soundcloud.com/thfradio/the-concave-side-australia?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 Cet épisode explore la scène électronique underground australienne, où reggae, dub, ambient, folk et jazz se fondent en quelque chose d'unique.
 
@@ -146,6 +149,8 @@ Duo amstellodamois créant des paysages sonores hantés et cinématographiques.
 ---
 
 ### Musique mauricienne avec Ash – 3 mai 2026
+
+[The Concave Side Of The Spoon w/ Ash (Sega)](https://soundcloud.com/thfradio/the-concave-side-ash-mauritius?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 Cet épisode, enregistré avec Ash, explore le patrimoine musical de l'île Maurice et de l'océan Indien — du Séga et du Maloya traditionnels aux fusions Seggae modernes.
 
@@ -233,6 +238,8 @@ _Reklam inn fini_ est un titre Séga moderne devenu viral, utilisant des paroles
 ---
 
 ### Krautrock avec Ryan Balmer - 5 avril 2026
+
+[The Concave Side Of The Spoon w/ Ryan Balmer (Krautrock)](https://soundcloud.com/thfradio/concave-side-krautrock?in=thfradio/sets/the-concave-side-of-the-spoon)
 
 Dans cet épisode, Ryan Balmer (guide à Berlin) et moi explorons les début de la musique Krautrock dans une allemagne d'après-guerre. De l'ambient cosmique, aux kicks "motorik" ryhtmiques et hypnotiques de Neu! on a traversé les époques et découvert les musiques contemporaires qui en ont été influencées.
 
