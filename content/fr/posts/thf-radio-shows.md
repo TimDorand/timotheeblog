@@ -20,6 +20,31 @@ THF Radio est une communauté radio qui émet depuis l'ancien aéroport Tempelho
 
 Les plus récents en premier.
 
+### 1980's RnB, Europop et leur Dub Version
+
+https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-80-s-rnb-23-08-26
+
+Cet épisode explore l'Europop et le R&B des années 1980, en mettant l'accent sur les versions instrumentales au rythme entraînant. Certaines sont ralenties, d'autres comportent encore quelques passages chantés, d'autres encore ont une touche hip-hop, mais ce sont pour la plupart d'excellentes productions musicales !
+
+Tracklist:
+- I Am Woman (Hip Hop Radio Mix)  - The Cover Girls
+- Two People (dub mix) - Tina Turner
+- State of Love (Dub version) - Imagination
+- Gimme Watcha got (Dub Version) - The Chi-Lites
+- Don't Look any Futher - The Kane Gang
+- Free Blow (Dub Version ) - T.B. Funk
+- Control (dub version) - Janet Jackson
+- Cruel Summer (89' Swing dub version) - Janet Jackson
+- Good Lovin' (12' Remix) - Regina Belle
+- Be My Twin - Brother Beyond
+- You Wear it Well (Dub Version) - El DeBarge With DeBarge
+- Bodyguard - Tina B
+- History Of A Kiss - Gabi Delgado
+- Ja Guys (dub version of My Jamaican Guy) - Grace Jones
+- Din Daa Daa (Dub Version) - B.Georg Kranz
+
+
+
 ### Hip hop & bonus beats from Japan to Brazil - 28 juin 2026
 
 [The Concave Side Of The Spoon w/ Jan Astasia (hip hop instrumental)](https://soundcloud.com/thfradio/the-concave-side-hip-hop?in=thfradio/sets/the-concave-side-of-the-spoon)

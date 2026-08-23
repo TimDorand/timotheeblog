@@ -18,6 +18,31 @@ THF Radio is a community radio broadcasting from the former Tempelhof Airport in
 
 Order from the most recent to the oldest.
 
+### 1980's RnB and Europop and their Dub Version
+
+https://soundcloud.com/thfradio/the-concave-side-of-the-spoon-80-s-rnb-23-08-26
+
+This episodes explores Europop and Rnb from the 1980's and focusing on the groovy instrumental versions. Some are slowed down, some still have some vocals, some have a hip-hop vibe, but mostly they are great music productions!
+
+Tracklist:
+- I Am Woman (Hip Hop Radio Mix)  - The Cover Girls
+- Two People (dub mix) - Tina Turner
+- State of Love (Dub version) - Imagination
+- Gimme Watcha got (Dub Version) - The Chi-Lites
+- Don't Look any Futher - The Kane Gang
+- Free Blow (Dub Version ) - T.B. Funk
+- Control (dub version) - Janet Jackson
+- Cruel Summer (89' Swing dub version) - Janet Jackson
+- Good Lovin' (12' Remix) - Regina Belle
+- Be My Twin - Brother Beyond
+- You Wear it Well (Dub Version) - El DeBarge With DeBarge
+- Bodyguard - Tina B
+- History Of A Kiss - Gabi Delgado
+- Ja Guys (dub version of My Jamaican Guy) - Grace Jones
+- Din Daa Daa (Dub Version) - B.Georg Kranz
+
+
+
 
 ### Bonus Beats, Dusty Grooves & Global Hip-Hop - June 28th 2026
 
